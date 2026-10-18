@@ -15,6 +15,30 @@ A definitive, practical guide that teaches ordinary owners how dogs learn, how t
 
 Training works best when owners **set the dog up to succeed**, **reward what they want**, **notice discomfort early**, and **match difficulty to the real world** — not when they hunt for a single trick or dominate a frightened animal. Management, veterinary care, and qualified behaviour support are part of good training, not admissions of failure.
 
+## The book’s method
+
+Two linked habits run through the whole book:
+
+### 1. The teaching loop (everyday training)
+
+**Setup → cue → behaviour → mark/reward → release → reset.**
+
+Use this for teaching any skill. Part II (especially ch04) installs the loop; Part III applies it to real life.
+
+### 2. The five checks (when something stalls)
+
+Before repeating a cue louder or assuming the dog is “being difficult”, check:
+
+1. **Setup** — Is the environment small and calm enough?  
+2. **Reward** — Does this dog want what you’re offering right now?  
+3. **Criterion** — Are you asking for one clear thing, not three at once?  
+4. **Comfort** — Any stress signs (clusters, not one pixel on a chart)? Pause or simplify.  
+5. **Context** — Did it work at home but fail on the pavement? **Shrink the world** until success is likely again, then grow slowly.
+
+“**Shrink the world**” is plain English for lowering distraction and difficulty until the dog can succeed — then generalise in modest steps. ch06 and ch14 return to this when progress wobbles.
+
+ch01 frames the **fair contract** (clarity, kindness, honest stop); the **loop and checks** are what owners *do*. ch12 deepens **comfort** and reading stress without playing vet.
+
 ## Intended reader
 
 **Primary:** Ordinary dog owners who want to raise or live successfully with a dog and are not professional trainers. Accessible to first-time owners; still useful to experienced owners who want clearer behaviour literacy and better troubleshooting.
@@ -26,7 +50,7 @@ Training works best when owners **set the dog up to succeed**, **reward what the
 After reading, a motivated owner should be able to:
 
 - Explain, in plain language, how reward-based learning works  
-- Run a repeatable teaching loop (setup → cue → mark/reward → release → generalise)  
+- Run the **teaching loop** and the **five checks** when training stalls or context changes  
 - Choose rewards, timing, and session length sensibly  
 - Teach foundations: engagement, settle, recall basics, comfortable lead walking, handling, home manners  
 - Read stress signals with appropriate uncertainty (context, not single-cue diagnosis)  

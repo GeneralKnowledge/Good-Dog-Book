@@ -1,6 +1,6 @@
 # Project status
 
-**Last updated:** 2026-10-18  
+**Last updated:** 2026-10-18 (author decisions: method + read order)  
 **Branch workflow:** Feature work on `cursor/*-5834`; merge via PR.
 
 ## Current stage
@@ -26,6 +26,11 @@
 | G4 | Voice calibration (`writing/calibration/`) | **Pending author** |
 
 Do **not** begin Stage E (chapter drafting) until G1–G4 are approved or amended.
+
+## Author decisions recorded (2026-10-18)
+
+- **Method:** Teaching loop + five checks; “shrink the world” for context (`proposition/proposition.md`).  
+- **Read order:** ch12 before Part III Live (`architecture/CHAPTER_MAP.md`).
 
 ## Upstream pins
 
