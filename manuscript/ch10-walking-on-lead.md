@@ -123,7 +123,7 @@ Two parts in one week — not both in one grumpy hour.
 
 ## Weather, kit, and realistic walks
 
-British walks include rain, mud, and dark afternoons. Adjust criteria: a wet dog may be less food-motivated; a cold day may need shorter routes. Towel by the door beats nagging on the mat. High-vis for you, lights if allowed, and reflective gear for the dog are management — not training failures when you skip a stormy rush-hour pavement.
+British walks include rain, mud, and dark afternoons. Adjust criteria: a wet dog may be less food-motivated; a cold day may need shorter routes. Towel by the door beats nagging on the mat. High-vis for you, lights if allowed, and reflective gear for the dog are sensible kit — not training failures when you skip a stormy rush-hour pavement.
 
 ## Troubleshooting
 
