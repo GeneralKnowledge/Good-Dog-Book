@@ -94,6 +94,8 @@ Mix them up and you will think your dog is “stubborn” when really you ran a 
 
 You do **not** have to read cover to cover in one go. Most owners should not. Find the chapter you need. **Bookmark it** — sticky note, folded corner, app bookmark, photo of the page.
 
+**What this chapter is not:** a glossary, a wall of trainer jargon, or a front-loaded syllabus. We do not list the teaching loop or five checks here on purpose — you get **attitude and navigation** first; step-by-step mechanics live in **Chapter 4** (loop) and **Chapter 14** (full check table) when you need them.
+
 | If you mainly want… | Bookmark this |
 | --- | --- |
 | **Sit, focus, name** | Chapter 7 |

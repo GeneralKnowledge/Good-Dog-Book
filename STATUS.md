@@ -21,7 +21,7 @@
 
 [`editorial/2026-10-18-phase3-whole-manuscript-diagnosis.md`](editorial/2026-10-18-phase3-whole-manuscript-diagnosis.md) — whole-book diagnosis, evidence/welfare audit, P0–P2 findings, recommended Stage G sequence.
 
-**Trainer review (ch01):** v2 [`editorial/review-slices/ch01-trainer-review-v2.md`](editorial/review-slices/ch01-trainer-review-v2.md) · DOCX [`export/review-slices/Good-Dog-Ch01-Trainer-Review-Slice-v2.docx`](export/review-slices/Good-Dog-Ch01-Trainer-Review-Slice-v2.docx) · v1 archived [`ch01-trainer-review.md`](editorial/review-slices/ch01-trainer-review.md)
+**Trainer review (ch01):** v3 [`editorial/review-slices/ch01-trainer-review-v3.md`](editorial/review-slices/ch01-trainer-review-v3.md) · DOCX [`export/review-slices/Good-Dog-Ch01-Trainer-Review-Slice-v3.docx`](export/review-slices/Good-Dog-Ch01-Trainer-Review-Slice-v3.docx) · v2/v1 archived in [`editorial/review-slices/`](editorial/review-slices/)
 
 ## Author approval gates
 

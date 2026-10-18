@@ -8,6 +8,7 @@ Shareable Word files for external reviewers. Regenerate from repo root:
 
 | File | Source |
 | --- | --- |
-| `Good-Dog-Ch01-Trainer-Review-Slice-v2.docx` | [`editorial/review-slices/ch01-trainer-review-v2.md`](../editorial/review-slices/ch01-trainer-review-v2.md) |
+| `Good-Dog-Ch01-Trainer-Review-Slice-v3.docx` | [`editorial/review-slices/ch01-trainer-review-v3.md`](../editorial/review-slices/ch01-trainer-review-v3.md) |
+| `Good-Dog-Ch01-Trainer-Review-Slice-v2.docx` | [`editorial/review-slices/ch01-trainer-review-v2.md`](../editorial/review-slices/ch01-trainer-review-v2.md) (archived) |
 
 Copies are also written to `~/Desktop/export/` when the script runs on a machine with a Desktop folder.
