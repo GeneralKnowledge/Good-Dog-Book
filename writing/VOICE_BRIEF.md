@@ -33,6 +33,12 @@ Write as a knowledgeable friend who has mud on their shoes and treats on their j
 - No guilt trips when readers struggle  
 - Referral without shame: “This is the sensible next step.”
 
+## Dual track (train yourself / train the dog)
+
+- Default structure for skills and takeaways — see [`dual-track-pattern.md`](dual-track-pattern.md).  
+- **Know / Do / Don't** under each heading; blunt **Don't** lines, never mocking a distressed reader.  
+- Wit lives mostly in **Train yourself**; **Train the dog** stays clear and kind.
+
 ## Training the Human (brand wit)
 
 - **Training the Human** / *Train the human first* — **humour and wit**: the owner is often the slow learner in the room. Warm, precise absurdity (mud, cheese, Tuesday rain), not mockery of fear or distress.  

@@ -17,9 +17,21 @@ Hook: one scene or question from ordinary dog life. State what this chapter deli
 
 ## Section 1 — …
 
+### Train yourself
 
+- **Know:** …
+- **Do:** …
+- **Don't:** …
+
+### Train the dog
+
+- **Know:** …
+- **Do:** …
+- **Don't:** …
 
 ## Section 2 — …
+
+<!-- Repeat dual-track per major topic — see writing/dual-track-pattern.md -->
 
 
 
@@ -50,4 +62,5 @@ One paragraph bridge to what follows.
 - [ ] All `claim_ids` present in register — no E5 blockers  
 - [ ] Professional review obtained if brief requires it  
 - [ ] Terminology matches `continuity/terminology.md`  
+- [ ] Each major section has **Train yourself** / **Train the dog** (know / do / don't) unless brief exempts  
 - [ ] No copied paste from Good Dog `exercises.ts` without adaptation record  

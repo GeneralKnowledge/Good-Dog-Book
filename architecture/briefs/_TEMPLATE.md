@@ -26,7 +26,9 @@ Which chapters must be read first — see [`CHAPTER_MAP.md`](../CHAPTER_MAP.md) 
 
 ## Sections (outline)
 
-1. 
+For each section, note dual-track bullets (optional in brief; required in draft):
+
+1. **Title** — Train yourself: know / do / don't · Train the dog: know / do / don't  
 2. 
 
 ## claim_ids

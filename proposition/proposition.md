@@ -19,7 +19,7 @@ Training works best when owners **set the dog up to succeed**, **reward what the
 
 ## The book’s method
 
-Two linked habits run through the whole book:
+Three linked habits run through the whole book:
 
 ### 1. The teaching loop (everyday training)
 
@@ -40,6 +40,17 @@ Before repeating a cue louder or assuming the dog is “being difficult”, chec
 “**Shrink the world**” is plain English for lowering distraction and difficulty until the dog can succeed — then generalise in modest steps. ch06 and ch14 return to this when progress wobbles.
 
 ch01 frames the **fair contract** (clarity, kindness, honest stop); the **loop and checks** are what owners *do*. ch12 deepens **comfort** and reading stress without playing vet.
+
+### 3. Dual track — train yourself / train the dog
+
+For each topic (skill, habit, or problem slice), the book separates **your** job from **the dog’s** job in the same scene:
+
+| Track | Know | Do | Don't |
+| --- | --- | --- | --- |
+| **Train yourself** | What you need to understand first (setup, timing, when to manage) | What you actually do with hands, voice, environment, rewards | Owner habits that wreck progress (repeat cue, train through freeze, etc.) |
+| **Train the dog** | What the dog is learning (association, not “obedience theatre”) | The behaviour/criterion you’re building *this session* | Flooding, muddy criteria, poisoned cues — mistakes *you* avoid on their behalf |
+
+Use the headings **Train yourself** and **Train the dog** in the manuscript. Full drafting rules: [`writing/dual-track-pattern.md`](writing/dual-track-pattern.md). ch01 introduces the frame; ch04 installs it on every major block.
 
 ## Training the Human (wit + habit)
 

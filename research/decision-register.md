@@ -100,6 +100,15 @@ Reviewer deliverable: owner steps + stop rules per section → log in [`source-r
 | **Mantra** *Make it easier — then ask again.* — pedagogical when stuck; pairs with five checks | [`proposition/proposition.md`](../proposition/proposition.md) |
 | Optional **Good human.** — quiet self-reward when *you* fix the plan | `proposition.md`, `terminology.md` |
 
+### Dual track (train yourself / train the dog)
+
+**Status:** **Decided (author 2026-10-18)**
+
+| Decision | Source |
+| --- | --- |
+| Every major topic: **Train yourself** and **Train the dog**, each with **Know / Do / Don't** | Author request; [`writing/dual-track-pattern.md`](../writing/dual-track-pattern.md) |
+| Introduce in ch01; install in ch04; repeat Part III | [`architecture/briefs/ch01.md`](../architecture/briefs/ch01.md), [`ch04.md`](../architecture/briefs/ch04.md) |
+
 ### Terminology choices
 
 **Status:** **Decided for drafting**

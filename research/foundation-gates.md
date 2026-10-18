@@ -40,7 +40,7 @@ Drafting may proceed for green/amber chapters; blocked sections stay blocked per
 | --- | --- |
 | Fourteen chapters retained | [`architecture/CHAPTER_MAP.md`](../architecture/CHAPTER_MAP.md) |
 | Read order: ch12 before Part III Live | Author decision 2026-10-18; Phase 2 P0-1 resolved |
-| Teaching loop + five checks + Training the Human | [`proposition/proposition.md`](../proposition/proposition.md) |
+| Teaching loop + five checks + dual track (train yourself / train the dog) + Training the Human | [`proposition/proposition.md`](../proposition/proposition.md), [`writing/dual-track-pattern.md`](../writing/dual-track-pattern.md) |
 | ch11 greetings management-first until review | [`architecture/briefs/ch11.md`](../architecture/briefs/ch11.md) |
 | Per-chapter readiness | [`chapter-coverage-matrix.md`](chapter-coverage-matrix.md) |
 

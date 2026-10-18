@@ -15,6 +15,7 @@
 | Chapter order and briefs | [`architecture/CHAPTER_MAP.md`](../architecture/CHAPTER_MAP.md) |
 | Voice and house style | [`writing/VOICE_BRIEF.md`](../writing/VOICE_BRIEF.md), [`writing/HOUSE_STYLE.md`](../writing/HOUSE_STYLE.md) |
 | Chapter drafting template | [`writing/CHAPTER_TEMPLATE.md`](../writing/CHAPTER_TEMPLATE.md) |
+| Train yourself / train the dog pattern | [`writing/dual-track-pattern.md`](../writing/dual-track-pattern.md) |
 | Voice samples (not chapters) | [`writing/calibration/`](../writing/calibration/) |
 | Terminology register | [`continuity/terminology.md`](../continuity/terminology.md) |
 | Professional review plan | [`editorial/qualified-review-plan.md`](../editorial/qualified-review-plan.md) |

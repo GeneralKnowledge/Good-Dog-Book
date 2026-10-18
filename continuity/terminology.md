@@ -6,6 +6,9 @@
 | --- | --- | --- |
 | Training the Human | Subtitle / in-book **wit** (capitalised) | Certified “human training” programme; sneering at owners |
 | Train the human first | Comic tagline (sparing) | Every paragraph; jokes about fear or pain |
+| Train yourself | Section heading (dual track) | “Train the human” as a heading every section |
+| Train the dog | Section heading (dual track) | Anthropomorphic moralising (“your dog should know better”) |
+| Know / Do / Don't | Bullets under each track | Vague “tips” lists with no don’ts |
 | Make it easier — then ask again. | Owner mantra when stuck | Promising it fixes all behaviour problems |
 | Good human. | Quiet self-marker after adjusting plan | Said at the dog in mockery |
 | Lead | UK default | Leash (unless quoting US source) |
