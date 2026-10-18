@@ -86,6 +86,26 @@ Handling is **choice-building**, not restraint drills. You are teaching “human
 
 Growling means **stop and reassess** — distance, pace, or professional help. Recommended review before publication for intensity on puppies vs adults (`editorial/qualified-review-plan.md`).
 
+## Practice lab — Door routine and knock-to-bed (pick one)
+
+**Comfort first:** if Chapter 12 says this dog is over threshold around the door, do **management-only** reps — gate, lead, no guest — until body language softens. No practice lab beats a stiff dog.
+
+### Lab A — Door routine with nobody there (five minutes)
+
+1. Dog **behind gate or on lead** before your hand touches the handle.  
+2. Open door a crack; close; pay calm at the barrier — three reps.  
+3. Step outside and back in; pay before releasing from wait.  
+4. **Stop if** barking spikes, lead goes tight, or you open “just once” without setup.
+
+### Lab B — Knock-to-bed (sub-threshold only; helper optional)
+
+1. Dog on mat or bed with long-lasting chew **before** knock.  
+2. Helper gives **one quiet knock**; you pay calm on bed; guest does not enter yet.  
+3. Build to knock → guest enters hallway while dog stays on bed; **release word** before any optional hello.  
+4. **Stop if** stiffening, growling, or won’t eat — abort guest; management-only next time.
+
+**Make it easier — then ask again:** quieter knock, guest further away, or Lab A only until the door stops predicting chaos.
+
 ## Troubleshooting
 
 - **If the dog is fine until the guest moves** → Motion trigger; increase distance; guest stillness; shorter visits.  

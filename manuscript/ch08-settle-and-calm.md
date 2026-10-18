@@ -20,7 +20,15 @@ A mat is a portable cue: “here is a place where four paws and a relaxed body e
 3. Add a calm cue word only when they offer stillness often — one cue, one meaning.  
 4. Release to sniff or play so the mat is not a trap.
 
-Keep sessions **short** — a few minutes, a handful of successes, stop while they still want the mat. If they leave, they leave; invite again later. Forced pinning teaches nothing useful and erodes trust.
+**Duration in honest seconds** — not in your head while you scroll:
+
+1. **One second of stillness** (any relaxed posture on the mat) → mark, pay, release. Repeat until boring.  
+2. **Two seconds** — same rule; if they pop up, they pop up; no scolding. Reset with a fresh invite.  
+3. **Five seconds** — only when two seconds is easy most reps; still release often.  
+4. **Add one boring variable** — you step one pace away and return, or the kettle clicks once in the next room — not both on the same day.  
+5. **Stop while the mat still looks like a good deal** — three to five minutes total, or fewer reps if the room is noisy.
+
+Keep sessions **short** — a handful of successes beats marathon “calm down” battles. If they leave, they leave; invite again later. Forced pinning teaches nothing useful and erodes trust.
 
 ### Train yourself
 
@@ -72,7 +80,16 @@ Household realism: teach humans the script. “Dog on bed = we walk past.” Pai
 - **Do:** Choose to rest when tired; trust that leaving is allowed.  
 - **Don't:** Learn that beds are ambush sites for grabbing and loud handling.
 
-> **Practice lab.** Mat settle: three short reps in a quiet room — reward contact, then brief stillness, release to sniff. **Stop if** the dog won’t take food, leaves repeatedly, or you feel yourself nagging. Comfort check: loose body or end session.
+## Practice lab — Mat settle, three minutes max
+
+Quiet room. Mat down. Treat pouch. Nobody practising cartwheels nearby.
+
+1. **Contact pays** — dog sniffs or steps on mat → mark, treat, pause half a second. Three to five reps.  
+2. **One-second stillness** — mark any relaxed pause on the mat → pay → **release word** → let them off to sniff. Three reps.  
+3. **Optional stretch** — if stillness was easy, try **two seconds** once; then release and end.  
+4. **Comfort check** — loose body, takes food, can leave? Good. Won’t eat, panting, or you are repeating “settle”? **Stop.** Put mat away; try tomorrow.
+
+**Make it easier — then ask again:** if stillness fails twice, go back to contact-only pays or a smaller mat in a duller corner.
 
 ## A note on “calm down” language
 

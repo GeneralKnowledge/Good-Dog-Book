@@ -1,6 +1,6 @@
 # Project status
 
-**Last updated:** 2026-10-18 (Phase 3 whole-manuscript diagnosis)  
+**Last updated:** 2026-10-18 (Stage G Part III practice pass)  
 **Branch workflow:** Feature work on `cursor/*-5834`; merge via PR.
 
 ## Current stage
@@ -14,7 +14,7 @@
 | D | Voice and templates | **Complete** (brief + calibration samples) |
 | E | First manuscript | **First draft complete** (~19k words, all 14 chapters) |
 | F | Whole-manuscript diagnosis | **Complete** (2026-10-18) — see report below |
-| G | Targeted revision passes | **In progress** (author approved Phase 3 decisions 2026-10-18) |
+| G | Targeted revision passes | **In progress** — Part III + ch08 practice labs done; evidence pass next |
 | H | Cold read and final audit | Not started |
 
 ## Phase 3 report

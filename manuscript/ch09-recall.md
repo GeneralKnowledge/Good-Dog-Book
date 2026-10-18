@@ -57,7 +57,27 @@ If you cannot recall on a long line in a quiet field, you are not ready to debat
 - **Do:** Experience recall with room to move; get paid for returns in grass and mud.  
 - **Don't:** Learn that freedom only exists when the line is off — so running away is the jackpot.
 
-> **Practice lab.** Indoor or garden recall only in this manuscript version: five to ten reps, jackpot plus release. **Stop if** they avoid you, you repeat the cue, or stress signs appear.
+## Practice lab — Foundation recall, then long-line prep
+
+Pick **one tier** per session — do not stack garden plus field on the same day if either felt wobbly.
+
+### Tier A — Indoor or secure garden (bank deposits)
+
+1. Dog not cornered; high-value treats ready.  
+2. Say recall cue **once**; when they arrive, **jackpot** (three to five small treats) + praise.  
+3. **Release** back to sniff or toy — fun continues.  
+4. Five to eight reps; stop at six if still crisp.  
+5. **Stop if** they avoid you, you repeat the cue, or stress signs appear.
+
+### Tier B — Quiet field on long line (only when Tier A is boring)
+
+1. Clip long line; know your turn-back point before you start.  
+2. Let them sniff on slack line; call **once** when they are not mid-sprint.  
+3. Pay jackpot at you; release to sniff again — line stays on.  
+4. Three to five reps; end while they still run toward you cheerfully.  
+5. **Stop if** line goes tight every time, they won’t eat, or you are calling to vent.
+
+**Make it easier — then ask again:** shorter line, closer distance, or back to Tier A tomorrow. Section 3 adds distraction only when these tiers feel reliable.
 
 ## Section 3 — Distraction, long line, and off-lead judgement
 
