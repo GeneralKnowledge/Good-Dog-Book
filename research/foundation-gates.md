@@ -51,7 +51,7 @@ Drafting may proceed for green/amber chapters; blocked sections stay blocked per
 | Decision | Source |
 | --- | --- |
 | Warm, witty, welfare-serious voice brief | [`writing/VOICE_BRIEF.md`](../writing/VOICE_BRIEF.md) |
-| Mantra + tagline (wit, sparing) | `VOICE_BRIEF.md`, [`continuity/terminology.md`](../continuity/terminology.md); author clarification 2026-10-18 |
+| Mantra + tagline (wit, sparing); stealth self-help via **Train yourself** / anti-frustration | `VOICE_BRIEF.md`, [`dual-track-pattern.md`](../writing/dual-track-pattern.md); author 2026-10-18 |
 | Samples (instructional includes mantra) | [`writing/calibration/`](../writing/calibration/) |
 | Phase 2 voice verdict: conditionally ready — conditions met | [`editorial/2026-10-18-foundation-challenge-report.md`](../editorial/2026-10-18-foundation-challenge-report.md) |
 
