@@ -47,7 +47,7 @@
 | claim_id | E-class | Status | Chapters | Notes |
 | --- | --- | --- | --- | --- |
 | claim-imdt-001-force-free | E2 | verified | ch01, ch02 | Paraphrase; not endorsement |
-| claim-imdt-002-no-pp-nr | E2 | draft | ch02, ch06 | IMDT URL manual verify |
+| claim-imdt-002-no-pp-nr | E2 | draft | ch02 notes | IMDT URL 403 automated 2026-10-18; ch02 prose uses DEFRA + `claim-abtc-003` |
 | claim-imdt-003-referral | E2 | verified | ch06, ch14 | ABTC/IMDT public guidance |
 | claim-abtc-001-unregulated | E2 | verified | ch14 | ABTC owners page 200 |
 | claim-abtc-003-no-aversives | E2 | verified | ch02, ch03, ch10 | ABTC owners page 200 |
@@ -61,7 +61,7 @@
 | claim-dt-recall-002-five-second-rule | E2 | verified | ch09 | Dogs Trust 200 |
 | claim-dt-recall-003-no-punish-late-return | E2 | verified | ch09 | Dogs Trust 200 |
 | claim-dt-recall-004-offlead-criteria | E2 | verified | ch09 | Off-lead only when confident recall; §3 drafted |
-| claim-dt-recall-005-uk-id-law | E2 | verified | ch09 | Cross-check GOV.UK microchip at draft |
+| claim-dt-recall-005-uk-id-law | E2 | verified | ch09 | GOV.UK microchip + collar/tag in public — checked 2026-10-18 |
 | claim-dt-escape-001-unreliable-recall-management | E2 | verified | ch09 | Dogs Trust 200 |
 | claim-rspca-001-all-reward-based | E2 | verified | ch02 | RSPCA 200 |
 | claim-rspca-002-short-sessions | E2 | verified | ch03, ch08 | RSPCA 200 |
@@ -76,7 +76,7 @@
 | book-research-dt-visitor-bed-knock | E2 | verified | ch11 §2 | Paraphrase DT visitor-training |
 | book-research-dt-puppy-pace | E2 | verified | ch13 §1 | Paraphrase DT puppy 101: pace, rewards, individual needs |
 | book-claim-owner-mantra | E4 | draft | ch01, ch04, ch06, ch14 | Pedagogical device “Make it easier — then ask again.” |
-| book-claim-ch12-stress-charity | E2 | draft | ch12 | Charity stress/body-language pages — URLs to be logged at draft |
+| book-claim-ch12-stress-charity | E2 | verified | ch12 | PDSA canine-body-language 200 (2026-10-18); Blue Cross pet-advice hub signpost |
 
 ## Good Dog / app-derived (not evidence)
 

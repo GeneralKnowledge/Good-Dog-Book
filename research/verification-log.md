@@ -17,4 +17,6 @@
 | 2026-10-18 | ch01 | Anti-glossary rewrite | Humour + Train yourself forward; ch09–11 prevent/plain; slice DOCX regen |
 | 2026-10-18 | ch05,11,13 + research | EPPS (Steve Mann) influence map | E3 only; puppy optimism, MEB, three Ds cross-ref; not endorsement |
 | 2026-10-18 | ch01–14 + writing | Tone P2 + further reading | Prevention gloss; `FURTHER_READING.md`; ch14 list; ch01 slice v2 + DOCX regen |
+| 2026-10-18 | ch02,09,12,14 | Evidence pass | GOV.UK microchip; PDSA body-language URL; ABTC 200; IMDT 403 note |
+| 2026-10-18 | ch04–06,12,14 | Humour / attitude pass | Voice drift vs ch01; prevention gloss ch06; `TONE_PASS_CHECKLIST` humour rows |
 | 2026-10-18 | ch10 | Y-harness front/back rings | Author: front O-ring for early training walks; back for leisure |

@@ -62,7 +62,7 @@ Chapter 1 names these in plain English. Same five questions:
 
 Optional habit: when **you** fix the plan instead of blaming the dog, a quiet **“Good human.”** — marker for the trainer in the room.
 
-**Worked example (pavement recall):** It worked in the garden yesterday. Today your dog sniffs the cue and wanders off. **Same at home?** failed first — new smells, other dogs visible, you rushed out after a meeting. **Mood** — they are stiff and will not eat. **Stop** calling. Turn for home on the lead. Tomorrow practise five easy recalls on the long line in a quieter field before you ask on the street again. No moral lecture for either of you.
+**Worked example (pavement recall):** It worked in the garden yesterday. Today your dog sniffs the cue and wanders off while a spaniel owner gives you the look. **Same at home?** failed first — new smells, other dogs visible, you rushed out after a meeting. **Mood** — they are stiff and will not eat. **Stop** calling. Turn for home on the lead. Tomorrow practise five easy recalls on the long line in a quieter field before you ask on the street again. No moral lecture for either of you; the spaniel’s Instagram is not your report card.
 
 **Worked example (mat settle):** Dog lies down but pops up every ten seconds. **Ask** — you wanted too long too soon. **Pay** — kibble may be weak after dinner. Pay for shorter stillness. Train before tea. Release often. If they refuse all food on the mat in an empty room, **Mood** and vet — not more “calm down.”
 
@@ -110,8 +110,8 @@ The UK dog training market is **largely unregulated** — anyone may call themse
 
 **Public signposts** (verify current listings at publication):
 
-- [ABTC](https://www.abtc.org.uk/) — registers practitioners to agreed standards.  
-- [IMDT](https://www.imdt.uk.com/) — force-free training community; referral culture when cases exceed owner scope (`claim-imdt-003-referral`).
+- [ABTC](https://www.abtc.org.uk/) — registers trainers and clinical animal behaviourists to agreed standards (site verified 2026-10-18).  
+- [IMDT](https://www.imdt.uk.com/) — force-free training community; referral culture when cases exceed owner scope (`claim-imdt-003-referral`; site may block automated checks — verify in browser at print).
 
 This book does not endorse individuals. It endorses **asking**, **walking away from aversives**, and **referring early**.
 

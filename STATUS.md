@@ -14,7 +14,7 @@
 | D | Voice and templates | **Complete** (brief + calibration samples) |
 | E | First manuscript | **First draft complete** (~19k words, all 14 chapters) |
 | F | Whole-manuscript diagnosis | **Complete** (2026-10-18) — see report below |
-| G | Targeted revision passes | **In progress** — Part III labs, bookwide tone P1–P2, ch01 anti-glossary, EPPS map; evidence pass next |
+| G | Targeted revision passes | **In progress** — tone + EPPS + evidence/humour pass (ch02,04–06,09,12,14); cold read next |
 | H | Cold read and final audit | Not started |
 
 ## Phase 3 report

@@ -41,10 +41,10 @@ None of these alone proves panic. **Clusters in context** tell you the dog’s n
 
 Social media loves a single photo with arrows pointing at ears. Real dogs are individuals: breed, age, coat, history, and today’s sleep all change the picture. A rescue who went stiff on day three is not “dominant”; an adolescent who suddenly won’t enter the park may be overwhelmed, not stubborn.
 
-Use charity and vet-trusted explainers as **orientation**, not scorecards. Useful starting points (check current URLs when you read):
+Use charity and vet-trusted explainers as **orientation**, not scorecards — a chart with forty-seven arrows is still not your dog. Useful starting points (verify in a browser if a link moves):
 
-- [Blue Cross — dog advice](https://www.bluecross.org.uk/advice/dog)  
-- [PDSA — dog behaviour and body language](https://www.pdsa.org.uk/pet-help-and-advice/looking-after-your-pet/puppies-dogs-and-young-dogs/dog-behaviour)
+- [Blue Cross — pet advice](https://www.bluecross.org.uk/pet-advice) (dog section)  
+- [PDSA — canine body language](https://www.pdsa.org.uk/pet-help-and-advice/looking-after-your-pet/puppies-dogs/canine-body-language) (verified 2026-10-18)
 
 Compare your dog **to their own baseline**: how do they greet you when relaxed? How do they look on a boring Tuesday evening? That calm photo is your reference frame.
 
@@ -68,7 +68,7 @@ If you see a stress cluster:
 
 1. **Stop** — no more reps, no louder recall, no “just one more guest.”  
 2. **Simplify** — easier version of the skill or abandon teaching for today.  
-3. **Manage** — lead, gate, distance, separate room — so the dog does not rehearse panic while you regroup.
+3. **Prevent** — lead, gate, distance, separate room — so the dog does not rehearse panic while you regroup.
 
 Say the mantra: **“Make it easier — then ask again.”** Sometimes “easier” means **not asking at all** until you have a plan, a vet check, or professional support.
 
@@ -88,7 +88,7 @@ Comfort is not softness. It is **safety for learning**. A dog who cannot eat chi
 
 ## Observation exercise (not a practice lab)
 
-**Five-minute calm watch.** No training, no cues, no phone scroll. Sit where your dog can choose distance. Note baseline: breathing, posture, how they hold tail and ears at rest. If something in the environment shifts (delivery, neighbour dog), note **clusters** only. Stop at five minutes. You are practising **noticing**, not fixing.
+**Five-minute calm watch.** No training, no cues, no phone scroll — yes, we see you. Sit where your dog can choose distance. Note baseline: breathing, posture, how they hold tail and ears at rest. If something in the environment shifts (delivery, neighbour dog, the bin lorry of doom), note **clusters** only. Stop at five minutes. You are practising **noticing**, not fixing; the dog is not being graded.
 
 ## Troubleshooting
 

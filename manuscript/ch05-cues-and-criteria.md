@@ -17,7 +17,7 @@ We use words like **cue** and **criterion** here on purpose — plain version: *
 
 A **cue** is an opportunity to earn pay, not a subpoena. Say it once. If nothing happens, the answer is not volume — it is the five checks from Chapter 4 and **make it easier — then ask again.**
 
-**Poisoned cues** happen when the same word predicts both cheese and chaos — “come” sometimes means treats, sometimes means the end of fun and a cross owner. The dog does not disobey; they **doubt**. One cue, one meaning: if “down” means lie on the floor, it does not also mean “get off the sofa” unless you deliberately teach that chain later.
+**Poisoned cues** happen when the same word predicts both cheese and chaos — “come” sometimes means treats, sometimes means the end of fun and a cross owner marching home in silence. The dog does not disobey; they **doubt**, the way you doubt a “quick favour” text from someone who still has your ladder. One cue, one meaning: if “down” means lie on the floor, it does not also mean “get off the sofa” unless you deliberately teach that chain later.
 
 Fade prompts on purpose: lure becomes smaller, then hand signal, then verbal. If you skip steps, you get a dog who only works when your hand is a ham compass.
 
@@ -47,7 +47,7 @@ Pick **one** dimension:
 - **Distance** — one step away, return, pay; not twenty metres on day one.  
 - **Distraction** — one mild novelty: a toy on the floor, not the county show.
 
-New skills deserve **continuous reinforcement** at first: every correct rep pays (`claim-dt-pr-002-continuous-reinforcement-new-skill`). Intermittent pay is a advanced boss level; do not deploy it while the behaviour is still wobbly.
+New skills deserve **continuous reinforcement** at first: every correct rep pays (`claim-dt-pr-002-continuous-reinforcement-new-skill`). Intermittent pay is an advanced boss level; do not deploy it while the behaviour is still wobbly — or while you are still finding the treat bag with your eyes closed.
 
 A humble schedule: first teach the behaviour, then steady pay, then — much later — occasional jackpots for excellence in harder places. Owners who “phase out treats” before the behaviour is solid often phase out the behaviour instead. Pay is not a crutch; it is feedback.
 

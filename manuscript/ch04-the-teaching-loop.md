@@ -7,7 +7,7 @@
 
 You have the deal, the learning theory, and a treat bag that does not rattle like a maraca. Now the choreography — the bit you will repeat for sits, settles, recalls, and “please do not mug the postman.”
 
-The **teaching loop** is deliberately boring: **setup → cue → behaviour → mark/reward → release → reset.** Boring is good. Boring means you are not improvising a new religion every evening. This chapter installs the loop on one simple behaviour — sit or hand target — and teaches you what to do when nothing happens except your own rising blood pressure.
+The **teaching loop** is deliberately boring: **setup → cue → behaviour → mark/reward → release → reset.** Boring is good. Boring means you are not improvising a new religion every evening — or narrating each rep like a sports commentator because the neighbour can see through the fence. This chapter installs the loop on one simple behaviour — sit or hand target — and teaches you what to do when nothing happens except your own rising blood pressure.
 
 Chapter 1 said it in plain words: **get ready → ask once → pay → let them off → start fresh.** From here we use the trainer labels on purpose. Same kindness, clearer steps. **Bookmark Chapter 4** when you want the full habit for any skill.
 
@@ -104,7 +104,7 @@ Pick **sit** or **hand target**. Five to eight reps maximum.
 - One cue per rep; mark; pay; release; reset.  
 - Stop after several clean wins **before** the dog wanders or you get sloppy.
 
-If two reps fail in a row, run the five checks, make it easier, try once. If still stuck, end session — tomorrow is a gift.
+If two reps fail in a row, run the five checks, make it easier, try once. If still stuck, end session — tomorrow is a gift, and the dog will not file a complaint with Ofsted.
 
 ## Troubleshooting
 

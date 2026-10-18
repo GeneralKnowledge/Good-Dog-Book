@@ -37,7 +37,7 @@ Run the teaching loop: setup (quiet), cue, run to you, mark, pay, release, reset
 
 ## Section 2 — Long lines, secure areas, and staying legal outdoors
 
-Outdoors, **a long line is your friend**. A long line (fixed or training line) lets the dog move, sniff, and practise returns without giving you off-lead bravado on day one. Use **secure fields or enclosed spaces** where local rules allow, and keep identification legal: in the UK dogs in public should wear a collar with name and address, and microchipping is a legal requirement — compliance is not the same as “safe off lead everywhere.”
+Outdoors, **a long line is your friend**. A long line (fixed or training line) lets the dog move, sniff, and practise returns without giving you off-lead bravado on day one. Use **secure fields or enclosed spaces** where local rules allow, and keep identification legal: in the UK **all dogs must be microchipped and registered on an approved database by eight weeks**, and in a **public place** they must still **wear a collar and tag with your name and address** (see GOV.UK microchipping guidance). A chip is for when the collar comes off; it is not a substitute for teaching recall, and legal ID is not the same as “safe off lead everywhere.”
 
 **Plan before the gate opens:**
 
@@ -93,7 +93,7 @@ Progression is **boring before it is brave**. You add distraction only when the 
 2. **Long line** outdoors so the dog can move without “freedom = run away.” If they do not always come when called, Dogs Trust advises **not** relying on off-lead freedom — use the line (`claim-dt-escape-001-unreliable-recall-management`).  
 3. **One distraction dimension at a time** — another person at distance, then dog at distance, then sniff-rich grass — with the **five-second rule**: give time to respond before calling again; do not repeat if unlikely to work (`claim-dt-recall-002-five-second-rule`).  
 4. **Off-lead only when you are confident they will come back** in that place (`claim-dt-recall-004-offlead-criteria`). Secure area first; open country later; **not** near roads, livestock, or cliffs without a professional safety plan.  
-5. **UK ID:** microchip and identification are legal requirements for dogs — compliance is not the same as “safe to be off lead everywhere” (`claim-dt-recall-005-uk-id-law` — cross-check GOV.UK at print).
+5. **UK ID:** microchip + registered database by eight weeks; collar and tag with name and address in public — verified against GOV.UK 2026-10-18 (`claim-dt-recall-005-uk-id-law`). Still not permission to drop the lead on a cliff edge.
 
 If recall breaks down in distraction: **stop advancing**, shrink the world, return to long line, run five checks (Chapter 14). Seek reward-based professional help if escape or chasing is frequent.
 
