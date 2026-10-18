@@ -5,7 +5,9 @@
 
 ## Opening
 
-You will have days when the treat pouch feels pointless, the recall fails in front of witnesses, and you wonder if you are the only person whose dog “doesn’t get it.” You are not. Dogs are living animals; life stages, pain, and pavement chaos all interfere. This chapter is the **systematic pause** promised since Chapter 1: troubleshoot without blame, rule out health, and know when this book — and any app beside it — must step aside for professionals.
+You will have days when the treat pouch feels pointless, the recall fails in front of witnesses, and you wonder if you are the only person whose dog “doesn’t get it.” You are not. Dogs are living animals. Life stages, pain, and pavement chaos all interfere. This chapter is the **pause button** from Chapter 1: troubleshoot without blame, rule out health, and know when this book must step aside for professionals.
+
+Most owners only needed **sit, come, walk nicely** — and hit a wall anyway. That is normal. **Bookmark this chapter** when you are stuck or grumpy. You are not failing for needing the basics chapter and this one.
 
 ## If you are worried right now
 
