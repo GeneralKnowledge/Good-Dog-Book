@@ -17,13 +17,22 @@ This chapter covers **comfortable kit**, **positive introduction to lead and har
 
 **No pain kit in this book:** prong collars, shock devices, and “corrections” that rely on fear are out of scope. UK welfare guidance favours reward-based teaching; your walk should not depend on something that makes the dog flinch when you reach for the cupboard.
 
-**Hands and habits:** hold the lead so sudden lunges do not burn your palms; avoid wrapping around fingers. A front-clip or back-clip harness is a practical choice for many pet dogs; bespoke fitting for unusual shapes may need a specialist — refer when shop advice is not enough.
+**Hands and habits:** hold the lead so sudden lunges do not burn your palms; avoid wrapping around fingers.
+
+**Y-shaped harnesses — the bit shops skip:** You will hear “get a Y harness” a lot. Helpful — if you know what to look for. A **Y-shape** means a strap runs between the shoulders (not a tight band across the chest that pinches the front legs). You also want **two metal rings (O-rings)**: one on the **back** and one on the **front** of the chest. Many harnesses only have a back ring. For this book, **both** matter.
+
+- **Training walk** (Chapter 1 — short, one goal): clip to the **front** ring for early loose-lead work. If they surge ahead, the lead tends to bring their focus back toward you instead of towing from behind like a sledge dog. That is a kindness to your shoulders while you teach stop-start in Section 3.  
+- **Leisure walk** (sniff, be a dog): the **back** ring is usually fine once check-ins are banked — or any day you are not running a training session.
+
+Same harness, different ring — matches the two kinds of walk. If the dog has an unusual shape or the straps rub, a fitter or vet nurse beats guessing in the pet aisle.
+
+**Collars:** Some dogs walk fine on a flat collar; others need a harness for comfort. This book does not depend on collar pops or “correction” kit either way.
 
 ### Train yourself
 
 - **Know:** Equipment discomfort mimics “bad on lead” behaviour — vet or fitter before months of “training.”  
 - **Do:** Let the dog wear gear indoors for seconds, then minutes, before the street. check fit after puppy growth spurts.  
-- **Don't:** Buy the tightest harness “so they feel it”. yank to teach. blame the dog for ducking away from a scary collar.  
+- **Don't:** Buy a “Y harness” with only a back ring and wonder why no one mentioned the front. Buy the tightest harness “so they feel it”. Yank to teach. Blame the dog for ducking away from a scary collar.  
 
 ### Train the dog
 
@@ -113,7 +122,7 @@ Two parts in one week — not both in one grumpy hour.
 
 ### Part 2 — Stop-start on a quiet street (when Part 1 is dull)
 
-1. Same harness you trained in; treats in pocket; pick a **quiet** time and block.  
+1. Same harness you trained in — **front ring** if this is a training walk; treats in pocket; pick a **quiet** time and block.  
 2. **Loose lead = forward.** The instant you feel tension, **stop** — quiet feet, no jerk.  
 3. When slack returns, one step forward or one treat at your side — your choice today, not both.  
 4. Three to six stop-start cycles, then **turn home** while the lead still felt survivable.  
