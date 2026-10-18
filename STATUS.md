@@ -12,7 +12,7 @@
 | B+ | Research sprint (book-owned verification) | **Complete** (2026-10-18) |
 | C | Architecture and chapter design | **Complete** (hypothesis TOC + briefs) |
 | D | Voice and templates | **Complete** (brief + calibration samples) |
-| E | First manuscript | **In progress** — ch01 drafted; **ch02–ch14 planned** in [`architecture/CHAPTER_PLAN.md`](architecture/CHAPTER_PLAN.md) |
+| E | First manuscript | **First draft complete** (all chapters); E5 sections stubbed; **ch01 trainer review slice** ready |
 | F | Whole-manuscript diagnosis | Not started |
 | G | Targeted revision passes | Not started |
 | H | Cold read and final audit | Not started |

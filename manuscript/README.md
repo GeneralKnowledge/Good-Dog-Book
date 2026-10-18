@@ -1,18 +1,32 @@
 # Manuscript
 
-**Stage E:** G1–G4 approved ([`research/foundation-gates.md`](../research/foundation-gates.md)). Chapter prose lives here as `chNN-slug.md`.
+**Stage E:** First draft pass — all read-order chapters present. **Trainer review:** [`editorial/review-slices/ch01-trainer-review.md`](../editorial/review-slices/ch01-trainer-review.md).
 
-**Drafted:** [`ch01-the-deal.md`](ch01-the-deal.md) (read #1).
+**Plan:** [`architecture/CHAPTER_PLAN.md`](../architecture/CHAPTER_PLAN.md).
 
-**Plan:** Section-level outline for all chapters — [`architecture/CHAPTER_PLAN.md`](../architecture/CHAPTER_PLAN.md).
+| Read # | File | Notes |
+| ---: | --- | --- |
+| 1 | [`ch01-the-deal.md`](ch01-the-deal.md) | v1 — trainer review slice available |
+| 2 | [`ch02-how-dogs-learn.md`](ch02-how-dogs-learn.md) | |
+| 3 | [`ch03-your-toolkit.md`](ch03-your-toolkit.md) | |
+| 4 | [`ch04-the-teaching-loop.md`](ch04-the-teaching-loop.md) | |
+| 5 | [`ch05-cues-and-criteria.md`](ch05-cues-and-criteria.md) | |
+| 6 | [`ch06-progression-without-pressure.md`](ch06-progression-without-pressure.md) | |
+| 7 | [`ch12-reading-stress.md`](ch12-reading-stress.md) | before Part III |
+| 8 | [`ch07-engagement-and-name.md`](ch07-engagement-and-name.md) | |
+| 9 | [`ch08-settle-and-calm.md`](ch08-settle-and-calm.md) | |
+| 10 | [`ch09-recall.md`](ch09-recall.md) | **§3 E5 placeholder** |
+| 11 | [`ch10-walking-on-lead.md`](ch10-walking-on-lead.md) | **§3 E5 blocked stub** |
+| 12 | [`ch11-doors-guests-handling.md`](ch11-doors-guests-handling.md) | §2 management-first greetings |
+| 13 | [`ch13-life-stages.md`](ch13-life-stages.md) | §1 principles only (E5) |
+| 14 | [`ch14-when-it-goes-wrong.md`](ch14-when-it-goes-wrong.md) | |
 
-Before each new chapter:
+**E5 gaps:** ch09 §3, ch10 §3, ch11 §2 expansion, ch13 §1 protocol — qualified review before final prose.
 
-1. Gates remain as recorded in `STATUS.md` (amend if foundation changes)  
-2. Chapter brief satisfied in `architecture/briefs/`  
-3. Required `claim_ids` not blocked at E5  
-4. Mandatory professional review completed where listed in `editorial/qualified-review-plan.md`
+Before revising or publishing:
 
-Use `writing/CHAPTER_TEMPLATE.md` when drafting.
+1. Gates in [`research/foundation-gates.md`](../research/foundation-gates.md)  
+2. Brief + [`research/chapter-coverage-matrix.md`](../research/chapter-coverage-matrix.md)  
+3. [`writing/CHAPTER_TEMPLATE.md`](../writing/CHAPTER_TEMPLATE.md) checklist  
 
-**File naming:** `chNN-slug.md` where **NN is read order** from [`architecture/CHAPTER_MAP.md`](../architecture/CHAPTER_MAP.md) (e.g. read #7 is still `ch12-….md`, not `ch07`).
+**File naming:** `chNN-slug.md` where **NN is chapter ID** (stable with briefs), not read order number.
