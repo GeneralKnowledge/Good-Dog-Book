@@ -3,7 +3,7 @@
 **Sprint date:** 2026-10-18  
 **Read order** from [`architecture/CHAPTER_MAP.md`](../architecture/CHAPTER_MAP.md).
 
-**Status key:** **Green** = draft with verified E2+ claims for core advice. **Amber** = draft with constraints or extra sources needed at section level. **Red** = blocked section(s) until qualified review or E5 resolved.
+**Status key:** **Green** = draft with verified E2+ claims for core advice. **Amber** = draft with constraints or publication fact-check still needed. Method blockers resolved per [`method-decisions-from-sources.md`](method-decisions-from-sources.md).
 
 | Read # | ID | Status | Core claims / sources | Gap / action |
 | ---: | --- | --- | --- | --- |
@@ -28,4 +28,4 @@
 
 ## Book-wide blockers
 
-**None** for starting ch01–ch08 and ch12 (with amber notes). **Section reds** do not block other chapters.
+**None** for revision work. **Publication:** optional qualified review slices and URL/legal fact-checks per Phase 3 report and [`qualified-review-plan.md`](../editorial/qualified-review-plan.md).

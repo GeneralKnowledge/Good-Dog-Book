@@ -1,7 +1,7 @@
 # Chapter 11 — Doors, guests, and gentle handling
 
 <!-- brief: architecture/briefs/ch11.md -->
-<!-- claims: book-research-defra-002-avoid-harsh, book-research-name-page-001 (handling tone — §3 not in this draft slice) -->
+<!-- claims: book-research-defra-002-avoid-harsh, book-research-dt-visitor-bed-knock, book-research-src-dt-visitor-training -->
 
 ## Opening
 

@@ -3,7 +3,7 @@
 **Date:** 2026-10-18  
 **Basis:** Author decisions (loop + read order), Phase 2 foundation challenge, research sprint, and living foundation documents — not a separate questionnaire. Other Q&A uses the same traceability in [`decision-register.md`](decision-register.md).
 
-Gates approve **foundation for drafting**. They do **not** approve E5 method text, qualified review, or publication legal clearance.
+Gates approve **foundation for drafting**. They do **not** approve publication legal clearance or imply professional endorsement. Method prose follows verified sources per [`method-decisions-from-sources.md`](method-decisions-from-sources.md).
 
 ## G1 — Proposition and scope
 
@@ -30,7 +30,7 @@ Publication marketing polish is **deferred** (does not block drafting) in [`deci
 | Citation independence (no implied endorsement) | `evidence-policy.md` § Citation independence |
 | Method sections traced to verified sources | [`method-decisions-from-sources.md`](method-decisions-from-sources.md), [`source-register.md`](source-register.md) |
 
-Drafting may proceed for green/amber chapters; blocked sections stay blocked per matrix.
+Drafting may proceed per [`chapter-coverage-matrix.md`](chapter-coverage-matrix.md) and method-decisions; optional review before print per [`qualified-review-plan.md`](../editorial/qualified-review-plan.md).
 
 ## G3 — Chapter architecture
 

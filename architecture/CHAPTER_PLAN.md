@@ -214,7 +214,7 @@ flowchart TB
 
 | | |
 | --- | --- |
-| **Outcome** | Foundation recall + long-line plan; **§3 blocked until review** |
+| **Outcome** | Foundation recall + long-line + distraction/off-lead (Dogs Trust claims) |
 | **Claims** | `claim-dt-recall-003`, `004`, `005`, `claim-dt-escape-001` |
 | **Welfare** | serious |
 | **Red** | **§3** distraction/off-lead progression — [`e5-reviewer-questions.md`](../research/e5-reviewer-questions.md) |
@@ -234,14 +234,14 @@ flowchart TB
 | | |
 | --- | --- |
 | **Outcome** | Short reinforced segments; equipment comfort |
-| **Red** | **§3** `book-claim-loose-lead-method` E5 — no mechanics until review |
+| **Source** | `book-research-dt-loose-lead-mechanics` (Dogs Trust walking-nicely) |
 | **Welfare** | serious |
 
 ### Section plan
 
 1. **Equipment and comfort** — harness/collar neutral; no pain kit  
 2. **Introducing lead/harness positively** — conditioned positive association  
-3. **Soft-lead mechanics — BLOCKED** — stub: “management + check-ins until professional review”  
+3. **Soft-lead mechanics** — Dogs Trust stop-when-tight + reward at side (see manuscript)  
 4. **Real walks** — environment, check-ins, end early; *self:* walk isn't a treadmill  
 
 **Practice lab:** §1–2 only until §3 cleared.
@@ -271,12 +271,12 @@ flowchart TB
 | | |
 | --- | --- |
 | **Outcome** | Stage-appropriate expectations; same method, different tempo |
-| **Red** | **§1** puppy socialisation/sounds E5 until review |
+| **Source** | `book-research-dt-puppy-pace` + gentle exposure principles |
 | **Welfare** | serious |
 
 ### Section plan
 
-1. **Puppies** — toilet, mouthing; exposure principles **without** E5 protocol detail until review  
+1. **Puppies** — toilet, mouthing; exposure principles (Dogs Trust puppy 101 + no flooding)  
 2. **Adolescent regression** — normal chaos; mantra + shrink world  
 3. **Rescue settling** — decompression, safety, refer early  
 

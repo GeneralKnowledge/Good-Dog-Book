@@ -3,6 +3,7 @@
 | If you need… | Go to… |
 | --- | --- |
 | Project status and gates | [`STATUS.md`](../STATUS.md), [`research/foundation-gates.md`](../research/foundation-gates.md) |
+| Phase 3 whole-manuscript diagnosis | [`editorial/2026-10-18-phase3-whole-manuscript-diagnosis.md`](../editorial/2026-10-18-phase3-whole-manuscript-diagnosis.md) |
 | Reader, promise, voice | [`proposition/proposition.md`](../proposition/proposition.md) |
 | In/out of scope | [`proposition/scope.md`](../proposition/scope.md) |
 | Evidence classes and verification | [`research/evidence-policy.md`](../research/evidence-policy.md) |

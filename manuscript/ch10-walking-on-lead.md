@@ -1,13 +1,13 @@
 # Chapter 10 — Walking together on a lead
 
 <!-- brief: architecture/briefs/ch10.md -->
-<!-- claims: book-claim-loose-lead-method (E5 — §3 blocked) -->
+<!-- claims: book-research-dt-loose-lead-mechanics, book-research-src-dt-walking-nicely, claim-abtc-003-no-aversives -->
 
 ## Opening
 
 A walk is not a treadmill. It is sniffing, pacing, weather, and the occasional pigeon that was definitely a dragon. **Walking on a lead** should be survivable for both of you: equipment that does not hurt, a dog who tolerates the harness, and short segments where check-ins pay — not a daily tug-of-war judged by strangers at the bus stop.
 
-This chapter covers **comfortable kit**, **positive introduction to lead and harness**, and **real walks** with environment sense and early finishes. Detailed **loose-lead mechanics** are blocked until qualified review (Section 3). Until then, management and generous reinforcement beat battles of will.
+This chapter covers **comfortable kit**, **positive introduction to lead and harness**, **loose-lead mechanics** (Section 3, from Dogs Trust public guidance), and **real walks** with environment sense and early finishes.
 
 ## Section 1 — Equipment and comfort (no pain kit)
 

@@ -1,7 +1,7 @@
 # Chapter 13 — Puppies, teenagers, and rescue dogs
 
 <!-- brief: architecture/briefs/ch13.md -->
-<!-- claims: life-stage guides; puppy socialisation/sounds E5 — §1 principles only -->
+<!-- claims: book-research-dt-puppy-pace, book-research-src-dt-puppy-training, book-research-defra-002-avoid-harsh -->
 
 ## Opening
 

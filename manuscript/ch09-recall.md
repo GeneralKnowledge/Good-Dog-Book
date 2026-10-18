@@ -1,13 +1,13 @@
 # Chapter 9 — Recall: coming back when it matters
 
 <!-- brief: architecture/briefs/ch09.md -->
-<!-- claims: claim-dt-recall-003-no-punish-late-return, claim-dt-recall-004-offlead-criteria (§3 E5 — not applied in this draft) -->
+<!-- claims: claim-dt-recall-002–005, claim-dt-escape-001; method-decisions-from-sources.md -->
 
 ## Opening
 
 Recall is not a magic word. It is a **trust bank**: every cheerful return you pay in, every grumpy grab you withdraw from. Get it wrong and “come” becomes optional — or worse, something to avoid. Get it right in boring places first, and you earn the right to ask in harder ones **later**, with management and professional judgement where this book marks limits.
 
-This chapter gives you **foundation recall** and a **long-line management plan** for UK life. It does not tell you when to drop the lead in distraction-rich environments; that section stays blocked until qualified review (see Section 3).
+This chapter gives you **foundation recall**, a **long-line management plan**, and **conservative guidance** on distraction and off-lead judgement (Section 3) — grounded in Dogs Trust public guidance, not bravado.
 
 ## Section 1 — Foundation recall
 
