@@ -4,6 +4,10 @@
 
 | Term | Use | Avoid |
 | --- | --- | --- |
+| Training the Human | Book subtitle / concept (capitalised) | Implying certified “human training” programme |
+| Train the human first | Tagline | Every paragraph |
+| Make it easier — then ask again. | Owner mantra when stuck | Promising it fixes all behaviour problems |
+| Good human. | Quiet self-marker after adjusting plan | Said at the dog in mockery |
 | Lead | UK default | Leash (unless quoting US source) |
 | Harness / collar | Neutral equipment terms | Choke, prong, shock (except to warn against) |
 | Marker word / yes word | Owner-facing | Secondary reinforcer (first mention without glossary) |

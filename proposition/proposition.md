@@ -5,7 +5,9 @@
 
 ## Working title
 
-*Good Dog* (working title — display title subject to author approval)
+**Good Dog: Training the Human** (working title — Option A: subtitle / series frame; display wording subject to author approval)
+
+The companion app remains [*Good Dog*](https://github.com/GeneralKnowledge/Good-Dog); this book is a standalone work.
 
 ## One-line pitch
 
@@ -14,6 +16,44 @@ A definitive, practical guide that teaches ordinary owners how dogs learn, how t
 ## Central argument
 
 Training works best when owners **set the dog up to succeed**, **reward what they want**, **notice discomfort early**, and **match difficulty to the real world** — not when they hunt for a single trick or dominate a frightened animal. Management, veterinary care, and qualified behaviour support are part of good training, not admissions of failure.
+
+## The book’s method
+
+Two linked habits run through the whole book:
+
+### 1. The teaching loop (everyday training)
+
+**Setup → cue → behaviour → mark/reward → release → reset.**
+
+Use this for teaching any skill. Part II (especially ch04) installs the loop; Part III applies it to real life.
+
+### 2. The five checks (when something stalls)
+
+Before repeating a cue louder or assuming the dog is “being difficult”, check:
+
+1. **Setup** — Is the environment small and calm enough?  
+2. **Reward** — Does this dog want what you’re offering right now?  
+3. **Criterion** — Are you asking for one clear thing, not three at once?  
+4. **Comfort** — Any stress signs (clusters, not one pixel on a chart)? Pause or simplify.  
+5. **Context** — Did it work at home but fail on the pavement? **Shrink the world** until success is likely again, then grow slowly.
+
+“**Shrink the world**” is plain English for lowering distraction and difficulty until the dog can succeed — then generalise in modest steps. ch06 and ch14 return to this when progress wobbles.
+
+ch01 frames the **fair contract** (clarity, kindness, honest stop); the **loop and checks** are what owners *do*. ch12 deepens **comfort** and reading stress without playing vet.
+
+## Training the Human (meta-frame)
+
+This book trains **you** before it trains the dog — on purpose. Dogs learn through consequences; so do owners. When you adjust setup, reward, criteria, or context, you are doing the same kind of learning you ask of your dog: clear cues, fair pay, honest stops.
+
+**Tagline:** *Train the human first.*
+
+### Owner mantra (repeat when stuck)
+
+**“Make it easier — then ask again.”**
+
+Say it before you repeat a cue louder or blame the dog. It maps to the five checks: easier setup/reward/criterion, watch comfort, shrink the world. Optional human-marker habit: a quiet **“Good human.”** when *you* fix the plan — not when the dog fails.
+
+ch04 installs the mantra alongside the teaching loop; ch06 and ch14 call it back when progress wobbles. The mantra is a **pedagogical device**, not medical or behavioural diagnosis.
 
 ## Intended reader
 
@@ -26,7 +66,7 @@ Training works best when owners **set the dog up to succeed**, **reward what the
 After reading, a motivated owner should be able to:
 
 - Explain, in plain language, how reward-based learning works  
-- Run a repeatable teaching loop (setup → cue → mark/reward → release → generalise)  
+- Run the **teaching loop** and the **five checks** when training stalls or context changes  
 - Choose rewards, timing, and session length sensibly  
 - Teach foundations: engagement, settle, recall basics, comfortable lead walking, handling, home manners  
 - Read stress signals with appropriate uncertainty (context, not single-cue diagnosis)  

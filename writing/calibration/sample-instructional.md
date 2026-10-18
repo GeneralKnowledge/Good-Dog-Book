@@ -13,4 +13,6 @@ Here’s the whole game in one loop: **make it easy, mark the moment, pay genero
 **Look for:** Eager approach, soft body, willing repeats.  
 **Stop if:** They turn away, freeze, or start scanning for exits. Smaller steps, better rewards, or a break — not louder cues.
 
+If you’re about to repeat the cue like a broken car alarm, try the owner mantra first: **make it easier — then ask again.** That’s you training the human.
+
 That’s it. No mystique. Just clear cause and effect, with kindness built in.

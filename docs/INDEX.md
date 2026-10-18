@@ -9,6 +9,8 @@
 | Claim and source register | [`research/source-register.md`](../research/source-register.md) |
 | Open research questions | [`research/open-questions.md`](../research/open-questions.md) |
 | Good Dog audit vs current code | [`research/good-dog-gap-reconciliation.md`](../research/good-dog-gap-reconciliation.md) |
+| Research sprint (2026-10-18) | [`research/research-sprint-brief.md`](../research/research-sprint-brief.md), [`research/chapter-coverage-matrix.md`](../research/chapter-coverage-matrix.md) |
+| E5 reviewer questions | [`research/e5-reviewer-questions.md`](../research/e5-reviewer-questions.md) |
 | Chapter order and briefs | [`architecture/CHAPTER_MAP.md`](../architecture/CHAPTER_MAP.md) |
 | Voice and house style | [`writing/VOICE_BRIEF.md`](../writing/VOICE_BRIEF.md), [`writing/HOUSE_STYLE.md`](../writing/HOUSE_STYLE.md) |
 | Chapter drafting template | [`writing/CHAPTER_TEMPLATE.md`](../writing/CHAPTER_TEMPLATE.md) |

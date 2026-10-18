@@ -59,6 +59,10 @@ Each material claim gets a row in [`source-register.md`](source-register.md) wit
 
 Subjects requiring documented professional review before final manuscript are listed in [`editorial/qualified-review-plan.md`](../editorial/qualified-review-plan.md).
 
+## Citation independence
+
+When citing IMDT, ABTC, RSPCA, Dogs Trust, or DEFRA guidance, prose must make clear the book is **independent** and cites **public guidance** — not endorsed by those organisations unless a documented agreement exists.
+
 ## Prohibited without documentation
 
 - Endorsements (IMDT, ABTC, veterinary bodies, named individuals)  

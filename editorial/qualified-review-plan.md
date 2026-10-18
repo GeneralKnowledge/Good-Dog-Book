@@ -1,7 +1,7 @@
 # Qualified professional review plan
 
 **Status:** Stage B foundation.  
-**Purpose:** Document topics that require a suitably qualified reward-based trainer or clinical animal behaviourist (via vet referral where appropriate) **before** final manuscript claims — not before drafting all chapters, but **before publication** and before drafting flagged sections.
+**Purpose:** Document topics that require a suitably qualified reward-based trainer or clinical animal behaviourist (via vet referral where appropriate) **before drafting the flagged section** and before publication claims for that section. Other chapters may draft while reviews are scheduled.
 
 ## Not a substitute for
 

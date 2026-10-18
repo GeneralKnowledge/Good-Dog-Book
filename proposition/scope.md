@@ -42,6 +42,10 @@ Secondary readers (experienced owners, new puppy guardians, rescue adopters) are
 | Multi-dog household protocols | Flagged gap in DogResearch; brief mention only until researched |
 | Guaranteed outcomes (“fixed in 30 days”) | Prohibited |
 
+## Training the Human / owner mantra
+
+The subtitle frame and repeatable mantra (“Make it easier — then ask again.”) teach **owner habit change**. They are not clinical advice, guarantees, or a substitute for vet or behaviourist assessment.
+
 ## Good Dog app content
 
 - **Do not** structure the book as ~28 exercise chapters.  
