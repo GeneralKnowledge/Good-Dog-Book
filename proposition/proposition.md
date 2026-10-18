@@ -5,7 +5,9 @@
 
 ## Working title
 
-*Good Dog* (working title — display title subject to author approval)
+**Good Dog: Training the Human** (working title — Option A: subtitle / series frame; display wording subject to author approval)
+
+The companion app remains [*Good Dog*](https://github.com/GeneralKnowledge/Good-Dog); this book is a standalone work.
 
 ## One-line pitch
 
@@ -38,6 +40,20 @@ Before repeating a cue louder or assuming the dog is “being difficult”, chec
 “**Shrink the world**” is plain English for lowering distraction and difficulty until the dog can succeed — then generalise in modest steps. ch06 and ch14 return to this when progress wobbles.
 
 ch01 frames the **fair contract** (clarity, kindness, honest stop); the **loop and checks** are what owners *do*. ch12 deepens **comfort** and reading stress without playing vet.
+
+## Training the Human (meta-frame)
+
+This book trains **you** before it trains the dog — on purpose. Dogs learn through consequences; so do owners. When you adjust setup, reward, criteria, or context, you are doing the same kind of learning you ask of your dog: clear cues, fair pay, honest stops.
+
+**Tagline:** *Train the human first.*
+
+### Owner mantra (repeat when stuck)
+
+**“Make it easier — then ask again.”**
+
+Say it before you repeat a cue louder or blame the dog. It maps to the five checks: easier setup/reward/criterion, watch comfort, shrink the world. Optional human-marker habit: a quiet **“Good human.”** when *you* fix the plan — not when the dog fails.
+
+ch04 installs the mantra alongside the teaching loop; ch06 and ch14 call it back when progress wobbles. The mantra is a **pedagogical device**, not medical or behavioural diagnosis.
 
 ## Intended reader
 

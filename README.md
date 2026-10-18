@@ -2,7 +2,7 @@
 
 A standalone, practical guide to training dogs for ordinary owners — warm, witty, British English, reward-based and welfare-centred.
 
-**Stage:** Foundation (Stage B–D). Proposition, scope, evidence policy, architecture, and voice calibration are in place. **No manuscript chapters yet.**
+**Stage:** Foundation (Stages B–D + research sprint). Working title: **Good Dog: Training the Human**. **No manuscript chapters yet.**
 
 This repository is independent of [Good Dog](https://github.com/GeneralKnowledge/Good-Dog) (the app) and [Ides](https://github.com/GeneralKnowledge/Ides) (fiction workflow reference). Research provenance is pinned to [DogResearch](https://github.com/GeneralKnowledge/DogResearch) snapshots; see [`sources/SNAPSHOT.md`](sources/SNAPSHOT.md).
 

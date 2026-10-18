@@ -5,34 +5,39 @@
 ## Scope and product
 
 - [ ] **Companion app mention:** Standalone only vs optional Good Dog pointer (`proposition/scope.md`)
-- [ ] **Display title:** Final title and subtitle for publication
+- [ ] **Display title:** Confirmed working pattern *Good Dog: Training the Human* — final subtitle wording for publication
 
 ## Evidence and sources
 
 - [ ] **Legal/display eligibility:** DogResearch sources marked `paraphrase_ok_pending_legal` — confirm reuse approach for book citations
-- [ ] **Re-verify DEFRA Code of Practice** URL and wording at draft time (E2)
-- [ ] **RSPCA handling URL** — noted missing in DogResearch gap analysis; find alternative or omit until sourced
+- [x] **Re-verify DEFRA Code of Practice** — GOV.UK page live 2026-10-18 (`book-research-src-defra-dog-code`)
+- [ ] **IMDT Code of Ethics URL** — automated 403; manual browser verify before print
+- [ ] **BVA abnormal behaviour URL** — 404 on attempted policy path; find current BVA page or omit
+- [ ] **RSPCA handling URL** — 404; use Dogs Trust handling at draft or omit until sourced
+- [ ] **ch12 stress sources** — add Blue Cross/PDSA URLs when drafting (not in pin)
 
 ## Method (E5 until qualified review)
 
-- [ ] **Loose-lead method** for book and alignment with any future Good Dog rewrite
-- [ ] **Leave-it** pedagogy for owners (conflict risk vs management-first framing)
-- [ ] **Calm greetings** with helpers — safety and protocol
-- [ ] **Recall with mild distraction** — criteria for off-lead messaging vs UK law/management
-- [ ] **Puppy sound exposure** — habituation vs counter-conditioning boundaries
-- [ ] **Puppy socialisation** guide (`lesson-puppy-socialisation` — `requires_human_review` in KB export)
+- [ ] **Loose-lead method** — see [`e5-reviewer-questions.md`](e5-reviewer-questions.md)
+- [ ] **Leave-it** — scope cut vs qualified protocol
+- [ ] **Calm greetings** — management-first in ch11 until review
+- [ ] **Recall with mild distraction** — ch09 §3
+- [ ] **Puppy sound exposure / socialisation** — ch13 §1
 
 ## Architecture
 
-- [ ] **Multi-dog households** — no DogResearch protocol yet; depth of book mention
-- [ ] **Chapter count** — current hypothesis is 14; compress or split after author review of `CHAPTER_MAP.md`
+- [x] **Multi-dog households** — brief mention in ch14 only (`chapter-coverage-matrix.md`)
+- [x] **Chapter count** — fourteen retained; read order includes ch12 before Live
 
-## Voice
+## Voice / brand
 
-- [ ] **Author gate G4:** Calibration samples in `writing/calibration/` — approve or redirect tone
+- [x] **Training the Human** — Option A subtitle + in-book concept (`proposition/proposition.md`)
+- [x] **Owner mantra** — M2 + M4 tagline adopted pending author gate G4
+- [ ] **Author gate G4:** Calibration samples — mantra line added to instructional sample
 
 ## Resolved (foundation pass)
 
 - [x] Repository structure and evidence class system defined
 - [x] Primary reader and one-book scope hypothesis documented
 - [x] Upstream commits pinned in `sources/PINNED_COMMITS.json`
+- [x] Research sprint coverage matrix and spine claim IDs for ch04–ch07
