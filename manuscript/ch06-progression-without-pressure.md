@@ -7,7 +7,7 @@
 
 You have a loop, cues that mean something, and a dog who sometimes cooperates like a dream and sometimes like a teenager with headphones. Progress in real kitchens is not a straight line — it is a scribble with good days, weird days, and the occasional “what happened to the sit we had on Tuesday?”
 
-This chapter is owner-side progression: when to consolidate instead of chasing novelty, how to read setbacks without escalation, and when **simplifying** is success and **referring** is wisdom — not defeat.
+This chapter is owner-side progression: when to consolidate instead of chasing novelty, how to read setbacks without escalation, and when **simplifying** is success and **referring** is wisdom — not defeat. Nobody gives you a rosette for the fifth “new trick” your dog performs once on camera and never again.
 
 If Chapter 4 gave you the loop and Chapter 5 gave you criteria, Chapter 6 gives you **permission** — to repeat, to pause, to call the vet, to hire help. Progress without pressure is not laziness; it is how skilled trainers avoid burning trust on a Tuesday.
 
@@ -41,7 +41,7 @@ Your job when progress wobbles is not to train **angry**. It is to ask: manage, 
 
 Recall the mantra: **make it easier — then ask again.** Shrink the world until one clean rep is possible (`claim-dt-pr-004` — progression via achievable steps, not pressure).
 
-Adolescence deserves its own footnote of mercy: the dog who nailed recall at five months may audition for independence at twelve. Same method, slower tempo, more management, fewer street sermons. You are not starting from zero; you are re-banking trust while the brain remodels. Owners who interpret regression as defiance often escalate; owners who shrink the world often sail through with the relationship intact.
+Adolescence deserves its own footnote of mercy: the dog who nailed recall at five months may audition for independence at twelve. Same method, slower tempo, more prevention (gates, shorter walks), fewer street sermons delivered to a squirrel. You are not starting from zero; you are re-banking trust while the brain remodels. Owners who interpret regression as defiance often escalate; owners who shrink the world often sail through with the relationship intact.
 
 ### Train yourself
 
@@ -59,16 +59,16 @@ Adolescence deserves its own footnote of mercy: the dog who nailed recall at fiv
 
 **Simplify** when: setup was too hard, reward too weak, criterion muddy, comfort shaky, context jumped too far. That is most bad sessions. Fix the plan, not the dog.
 
-**Refer** when: aggression, severe fear, compulsive patterns, repeated bites, or you are out of your depth despite honest management. Qualified reward-based professionals exist because some puzzles need eyes on the ground (`claim-imdt-003-referral`). Referral is **success** — you noticed the limit of a book and a kitchen.
+**Refer** when: aggression, severe fear, compulsive patterns, repeated bites, or you are out of your depth despite honest prevention. Qualified reward-based professionals exist because some puzzles need eyes on the ground, not another chapter read at midnight with a head torch. Referral is **success** — you noticed the limit of a book and a kitchen.
 
-Chapter 14 gathers the full five-check table, vet-first rules, and UK signposts. For now: if simplification and management do not restore safety or calm, stop rehearsing the problem and ask for help.
+Chapter 14 gathers the full five-check table, vet-first rules, and UK signposts. For now: if simplification and prevention do not restore safety or calm, stop rehearsing the problem and ask for help.
 
 Multi-dog households, toddlers, and shared custody are not moral failures — they are **context** on hard mode. Progress may look like “we managed safely today” more often than “we filmed a trick.” That still counts. The book’s method scales down as readily as up: smaller world, shorter session, more gates, earlier stop.
 
 ### Train yourself
 
 - **Know:** A book cannot see your dog’s eyes, gait, or household.  
-- **Do:** Use management. call the vet for medical rule-outs. contact ABTC-registered or force-free professionals when behaviour is risky or stuck.  
+- **Do:** Use prevention (gates, distance, leads). Call the vet for medical rule-outs. Contact ABTC-registered or force-free professionals when behaviour is risky or stuck.  
 - **Don't:** Drill fear. borrow dominance stories from the internet. treat referral as personal failure.  
 
 ### Train the dog

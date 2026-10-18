@@ -38,10 +38,16 @@
 - **`writing/FURTHER_READING.md`** + ch01 §4 pointer + ch14 optional list (Dogs Trust, DEFRA, ABTC, EPPS as concept kin).
 - ch11 broken markdown on *choice* behaviours fixed; ch14 dual-track capitalisation fix.
 
+## Evidence + humour pass (2026-10-18, `cursor/stage-g-evidence-humour-5834`)
+
+- GOV.UK microchip + collar/tag (ch09); PDSA body-language URL (ch12); ABTC note (ch14); ch02 welfare via DEFRA/ABTC prose.
+- Humour/attitude refresh ch04–06, ch12, ch14; humour rows in `TONE_PASS_CHECKLIST.md`.
+
 ## Remaining optional
 
 - Uniform “one criterion per outing” instead of “criterion” in ch10 — gloss added in opening.
-- Cold-read for voice drift after Stage G.
+- Cold-read (Stage H); optional voice-trim on shared metaphors.
+- Human verify IMDT page for `claim-imdt-002` at print (403 to bots).
 
 ## Verification
 

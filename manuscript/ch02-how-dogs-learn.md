@@ -17,7 +17,7 @@ If learning were about moral lectures, every dog who heard “we don’t do that
 
 That is the plain version of **positive reinforcement**: add something pleasant after a behaviour, and that behaviour becomes more likely. You do not need quadrant homework on page two. You need consistency: **pay for what you want**, often and clearly, especially while a skill is new.
 
-UK welfare guidance and professional force-free codes agree on the practical line: teach with rewards, avoid training that depends on hurting or frightening a dog. Not because dogs are delicate china, but because fear and pain are lousy teachers for living-room life — and they erode the trust your contract depends on.
+UK welfare guidance and professional ethics agree on the practical line: teach with rewards, avoid training that depends on hurting or frightening a dog — no training need requires pain, fear, or intimidation. Not because dogs are delicate china, but because fear and pain are lousy teachers for living-room life — and they erode the trust your contract depends on.
 
 ### Train yourself
 
@@ -71,7 +71,7 @@ Realistic timelines are boring and kind: **small steps**, many paid reps, genera
 
 ## Practice lab — 60-second “what got rewarded?”
 
-No new skill. In the garden or living room, watch your dog for one minute **without** giving cues. Notice what they do and what the environment pays: sniffing, barking at a sound, jumping when you move, settling on the rug. Ask: *what got rewarded — by me, by the room, by the cat?* Write one line. That line is tomorrow’s management or training hint.
+No new skill. In the garden or living room, watch your dog for one minute **without** giving cues. Notice what they do and what the environment pays: sniffing, barking at a sound, jumping when you move, settling on the rug. Ask: *what got rewarded — by me, by the room, by the cat?* Write one line. That line is tomorrow’s prevention or training hint.
 
 ## Troubleshooting
 
@@ -92,6 +92,6 @@ Chapter 3 is your toolkit: reward menus, charging a marker without frenzy, and c
 ## Chapter notes
 
 1. Operational definition of reinforcement and learning via consequences: `claim-dt-pr-001-definition`.  
-2. Avoid punishment-focused framing; professional ethics on unnecessary aversives: `claim-imdt-002-no-pp-nr`.  
+2. No unnecessary aversives in prose: `claim-abtc-003-no-aversives`, `book-research-defra-002-avoid-harsh`; `claim-imdt-002-no-pp-nr` in register (IMDT page blocked automated verify 2026-10-18 — human check at print).  
 3. UK welfare guidance — reward-based teaching, avoid harsh methods: `book-research-defra-002-avoid-harsh`.  
 4. Optional tone alignment with companion research on realistic expectations (E3/E4) — no single Hiby citation in owner text at v1.

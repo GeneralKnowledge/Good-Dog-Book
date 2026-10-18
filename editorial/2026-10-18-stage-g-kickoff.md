@@ -34,6 +34,7 @@ See [`research/decision-register.md`](../research/decision-register.md) § Phase
 1. ~~Dedupe mantra~~ — **skipped by author** (intentional repetition)  
 2. ~~Part III practice labs + ch08 settle duration~~ — **done** (2026-10-18)  
 3. ~~Bookwide tone P1–P2~~ — **done** (2026-10-18)  
-4. Voice trim (shared metaphors only — optional, low priority)  
-5. Evidence pass (IMDT-002, microchip, charity URLs)  
-6. Cold read when P1 complete  
+4. ~~Evidence pass (IMDT-002, microchip, charity URLs)~~ — **done** (2026-10-18): GOV.UK ID, PDSA URL, ABTC; ch02 ABTC/DEFRA prose; IMDT-002 human verify at print  
+5. ~~Humour drift (ch04–06, ch12–14)~~ — **done** (2026-10-18); checklist updated  
+6. Voice trim (shared metaphors only — optional, low priority)  
+7. Cold read  
