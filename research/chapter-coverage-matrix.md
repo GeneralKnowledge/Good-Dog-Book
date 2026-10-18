@@ -7,7 +7,7 @@
 
 | Read # | ID | Status | Core claims / sources | Gap / action |
 | ---: | --- | --- | --- | --- |
-| 1 | ch01 | **Green** | `claim-imdt-001`, `book-research-defra-001`; TTH meta-frame (E4) | Mantra in proposition; not clinical advice |
+| 1 | ch01 | **Green** (draft v1 in `manuscript/ch01-the-deal.md`) | `claim-imdt-001`, `book-research-defra-001`; TTH meta-frame (E4) | Mantra in proposition; not clinical advice |
 | 2 | ch02 | **Green** | `claim-dt-pr-001`, `claim-imdt-002`, `book-research-defra-002`, optional `claim-hiby-*` (E1, context) | Hiby = survey, not prescription |
 | 3 | ch03 | **Green** | `claim-dt-marker-001`, `claim-abtc-003`, `claim-rspca-002` | — |
 | 4 | ch04 | **Green** | `claim-dt-marker-*`, `claim-dt-pr-003`, `claim-rspca-005` (cue timing) | Install owner mantra (E4) |
