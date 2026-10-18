@@ -10,3 +10,5 @@ Do not add chapters in this folder until:
 4. Mandatory professional review completed where listed in `editorial/qualified-review-plan.md`
 
 Use `writing/CHAPTER_TEMPLATE.md` when drafting begins.
+
+**File naming:** `chNN-slug.md` where **NN is read order** from [`architecture/CHAPTER_MAP.md`](../architecture/CHAPTER_MAP.md) (e.g. read #7 is still `ch12-….md`, not `ch07`).

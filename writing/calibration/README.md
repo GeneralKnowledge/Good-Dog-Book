@@ -4,7 +4,7 @@
 
 | Sample | File | Shows |
 | --- | --- | --- |
-| Instructional + warmth | [`sample-instructional.md`](sample-instructional.md) | Teaching loop tone |
+| Instructional + warmth | [`sample-instructional.md`](sample-instructional.md) | Teaching loop + **Training the Human** mantra |
 | Humour + welfare | [`sample-humour-welfare.md`](sample-humour-welfare.md) | Comic observation with stop rule |
 | Referral seriousness | [`sample-referral-tone.md`](sample-referral-tone.md) | Boundaries without fear-mongering |
 

@@ -1,6 +1,6 @@
 # Good Dog Book
 
-A standalone, practical guide to training dogs for ordinary owners — warm, witty, British English, reward-based and welfare-centred.
+**Working title:** *Good Dog: Training the Human* — a standalone, practical guide for ordinary owners (warm, witty, British English, reward-based, welfare-centred).
 
 **Stage:** Foundation (Stages B–D + research sprint). Working title: **Good Dog: Training the Human**. **No manuscript chapters yet.**
 
@@ -10,8 +10,9 @@ This repository is independent of [Good Dog](https://github.com/GeneralKnowledge
 
 1. [`STATUS.md`](STATUS.md) — current stage and gates  
 2. [`docs/INDEX.md`](docs/INDEX.md) — navigation by task  
-3. [`proposition/proposition.md`](proposition/proposition.md) — reader, promise, voice  
-4. [`architecture/CHAPTER_MAP.md`](architecture/CHAPTER_MAP.md) — chapter sequence and briefs  
+3. [`proposition/proposition.md`](proposition/proposition.md) — reader, promise, **Training the Human**, mantra  
+4. [`architecture/CHAPTER_MAP.md`](architecture/CHAPTER_MAP.md) — **read order** (ch12 before live skills) and briefs  
+5. [`research/chapter-coverage-matrix.md`](research/chapter-coverage-matrix.md) — evidence readiness per chapter  
 
 ## Directory map
 
