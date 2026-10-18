@@ -22,5 +22,5 @@
 | Voice samples (not chapters) | [`writing/calibration/`](../writing/calibration/) |
 | Terminology register | [`continuity/terminology.md`](../continuity/terminology.md) |
 | Professional review plan | [`editorial/qualified-review-plan.md`](../editorial/qualified-review-plan.md) |
-| ch01 trainer review slice | [`editorial/review-slices/ch01-trainer-review.md`](../editorial/review-slices/ch01-trainer-review.md) |
+| ch01 trainer review slice (v2) | [`editorial/review-slices/ch01-trainer-review-v2.md`](../editorial/review-slices/ch01-trainer-review-v2.md) · [`export/review-slices/Good-Dog-Ch01-Trainer-Review-Slice-v2.docx`](../export/review-slices/Good-Dog-Ch01-Trainer-Review-Slice-v2.docx) |
 | Upstream snapshot metadata | [`sources/SNAPSHOT.md`](../sources/SNAPSHOT.md) |

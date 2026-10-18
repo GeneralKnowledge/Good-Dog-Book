@@ -9,3 +9,4 @@
 | 2026-10-18 | ch11 | §1 §3 added | Doors + handling after partial agent draft |
 | 2026-10-18 | ch09–11, ch13 | Method blockers resolved | DT URLs 200; prose updated; `method-decisions-from-sources.md` |
 | 2026-10-18 | ch08–11, ch14 | Stage G Part III pass | Practice labs + ch08 duration; mantra dedupe skipped (author) |
+| 2026-10-18 | ch01 | Review slice v2 + DOCX | `editorial/review-slices/ch01-trainer-review-v2.md`; `export/review-slices/` |
