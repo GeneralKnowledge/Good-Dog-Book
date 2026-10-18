@@ -5,7 +5,7 @@
 
 ## Opening
 
-Recall is not a magic word. It is a **trust bank**: every cheerful return you pay in, every grumpy grab you withdraw from. Get it wrong and “come” becomes optional — or worse, something to avoid. Get it right in boring places first, and you earn the right to ask in harder ones **later**, with management and professional judgement where this book marks limits.
+Recall is not a magic word. It is a **trust bank**: every cheerful return you pay in, every grumpy grab you withdraw from. Get it wrong and “come” becomes optional — or worse, something to avoid. Get it right in boring places first, and you earn the right to ask in harder ones **later**, with sensible prevention (long line, secure space) and professional judgement where this book marks limits.
 
 This chapter gives you **foundation recall**, a **long-line safety plan**, and **conservative guidance** on distraction and off-lead judgement (Section 3) — grounded in Dogs Trust public guidance, not bravado.
 
@@ -35,9 +35,9 @@ Run the teaching loop: setup (quiet), cue, run to you, mark, pay, release, reset
 - **Do:**Sprint toward you when the cue is fresh and paid. learn that checking in is not a trap.  
 - **Don't:** Learn that coming back means scolding, lead jerk, or end of walk every time.
 
-## Section 2 — Long lines, secure areas, and UK management
+## Section 2 — Long lines, secure areas, and staying legal outdoors
 
-Outdoors, **management is recall’s partner**. A long line (fixed or training line) lets the dog move, sniff, and practise returns without giving you off-lead bravado on day one. Use **secure fields or enclosed spaces** where local rules allow, and keep identification legal: in the UK dogs in public should wear a collar with name and address, and microchipping is a legal requirement — compliance is not the same as “safe off lead everywhere.”
+Outdoors, **a long line is your friend**. A long line (fixed or training line) lets the dog move, sniff, and practise returns without giving you off-lead bravado on day one. Use **secure fields or enclosed spaces** where local rules allow, and keep identification legal: in the UK dogs in public should wear a collar with name and address, and microchipping is a legal requirement — compliance is not the same as “safe off lead everywhere.”
 
 **Plan before the gate opens:**
 

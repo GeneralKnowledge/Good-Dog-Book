@@ -8,6 +8,8 @@ Write as a knowledgeable friend who has mud on their shoes and treats on their j
 
 **Basics-first:** Most readers want **sit, come, and walk nicely** — done kindly. Celebrate that. Advanced skills and extra chapters are optional, not homework. Plain words beat trainer jargon in early chapters (say “ask once” and “pay with a treat” before “cue”, “mark”, or “criterion” unless the chapter is installing vocabulary on purpose).
 
+**Chapter 1 is not a glossary:** humour, story, and **Train yourself** lead; defer numbered system lists to later chapters. One bookmark table is enough navigation in ch01.
+
 **Cookbook use:** Encourage **bookmarking** the chapter or section they need. Cover-to-cover is optional; navigation tables and “if you mainly want…” pointers are on-brand.
 
 **Stealth self-help:** In many sections the real lesson is **don’t take your bad day out on the dog** — notice frustration, impatience, and stress, then simplify, pause, or manage. Dog-training prose on the outside; owner emotional hygiene on the inside. Never label it “self-help” in the manuscript unless the tone would make the reader smirk.

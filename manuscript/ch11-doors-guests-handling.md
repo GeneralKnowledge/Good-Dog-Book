@@ -35,7 +35,7 @@ The door is not a test of rank. It is a **safety pinch point**: darting into tra
 
 **Default setup:**
 
-1. **Lead or secure room before the door opens.** Dog cannot rehearse jumping, bolting, or snapping at the gap. Baby gate or behind a door is fine — management is smart.  
+1. **Lead or secure room before the door opens.** Dog cannot rehearse jumping, bolting, or snapping at the gap. Baby gate or behind a door is fine — preventing chaos is smart.  
 2. **Distance is non-negotiable.** Guest stays outside or in hallway; dog sees or smells at a distance where body language stays **loose enough to eat** (if food-motivated). If they stiffen, whale-eye, or bark tight — **abort**: guest steps back or you move the dog further away.  
 3. **One calm helper optional.** If you practise at all, one adult who follows your script beats a party of enthusiastic greeters.  
 4. **Exit on stiffening.** Stiffening is data. End the approach; pay calm at distance; try another day.  
@@ -66,7 +66,7 @@ No child carriers, no leaning over, no “dogs love me” exceptions.
 2. **Bed cue** — knock means go to bed for long-lasting chew; guest enters while dog settles; clear release word before approach.  
 3. **Real guests** — same routine; optional meet if dog is soft; jump-up and barking sections on DT site if needed.
 
-**Hard stop:** stiffening, growling, or unable to eat → management-only (gate, separate room, no guest contact). No flooding to “socialise.”
+**Hard stop:** stiffening, growling, or unable to eat → **prevent only** (gate, separate room, no guest contact). No flooding to “socialise.”
 
 ## Section 3 — Gentle handling for vet and groom prep
 
@@ -90,7 +90,7 @@ Growling means **stop and reassess** — distance, pace, or professional help. R
 
 ## Practice lab — Door routine and knock-to-bed (pick one)
 
-**Comfort first:** if Chapter 12 says this dog is over threshold around the door, do **management-only** reps — gate, lead, no guest — until body language softens. No practice lab beats a stiff dog.
+**Comfort first:** if Chapter 12 says this dog is over threshold around the door, do **prevent-only** reps — gate, lead, no guest — until body language softens. No practice lab beats a stiff dog.
 
 ### Lab A — Door routine with nobody there (five minutes)
 
@@ -104,7 +104,7 @@ Growling means **stop and reassess** — distance, pace, or professional help. R
 1. Dog on mat or bed with long-lasting chew **before** knock.  
 2. Helper gives **one quiet knock**; you pay calm on bed; guest does not enter yet.  
 3. Build to knock → guest enters hallway while dog stays on bed; **release word** before any optional hello.  
-4. **Stop if** stiffening, growling, or won’t eat — abort guest; management-only next time.
+4. **Stop if** stiffening, growling, or won’t eat — abort guest; prevent-only next time.
 
 **Make it easier — then ask again:** quieter knock, guest further away, or Lab A only until the door stops predicting chaos.
 

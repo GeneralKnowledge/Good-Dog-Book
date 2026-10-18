@@ -14,3 +14,4 @@
 | 2026-10-18 | ch01 | System intro pass | Training the Human as integrated concept; loop + five-check names in §2; install map §4 |
 | 2026-10-18 | ch01 | Basics-first + bookmarks | Plain language; sit/come/walk nicely; bookmark table §4; VOICE_BRIEF update |
 | 2026-10-18 | ch02–ch14 | Bookwide tone pass | Dual-track semicolons; bookmark openings; ch14 plain checks; [`editorial/2026-10-18-bookwide-tone-audit.md`](../editorial/2026-10-18-bookwide-tone-audit.md) |
+| 2026-10-18 | ch01 | Anti-glossary rewrite | Humour + Train yourself forward; ch09–11 prevent/plain; slice DOCX regen |

@@ -67,7 +67,7 @@ One variable at a time. If they buck or bite the lead, pause — mouthing gear i
 
 Expect walks to take longer while learning.
 
-**If you truly cannot be consistent today** (late for work, injury, chaos at home): Dogs Trust mentions using two harnesses — one that signals “okay to pull today” and one for training walks. This book treats that as a **last resort**, not a lifestyle: dogs learn slowly when rules flip by wardrobe. Prefer a **shorter management walk** on the usual kit, or skip training and try tomorrow — over letting pulling pay on days you are too rushed for stop-start.
+**If you truly cannot be consistent today** (late for work, injury, chaos at home): Dogs Trust mentions using two harnesses — one that signals “okay to pull today” and one for training walks. This book treats that as a **last resort**, not a lifestyle: dogs learn slowly when rules flip by wardrobe. Prefer a **shorter leisure walk** on the usual kit, or skip training and try tomorrow — over letting pulling pay on days you are too rushed for stop-start.
 
 ### Train yourself
 
@@ -128,7 +128,7 @@ British walks include rain, mud, and dark afternoons. Adjust criteria: a wet dog
 ## Troubleshooting
 
 - **If they plant and won’t move** → Comfort check; try easier location; vet if sudden. Do not drag.  
-- **If they lunge at dogs or people** → Distance and management; not a §3 mechanics fix in this draft — refer if frequent.  
+- **If they lunge at dogs or people** → More distance and prevention (cross the road, turn away). Not a loose-lead mechanics fix alone — refer if frequent.  
 - **If your hands hurt** → Equipment and grip; shorter walks; professional help for serious pulling.
 
 ## Stop if
