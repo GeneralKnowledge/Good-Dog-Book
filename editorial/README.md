@@ -11,4 +11,6 @@ Append-only, dated milestone reports (diagnosis, pass logs, final audit). Do not
 
 **Review slices (share externally):** [`review-slices/README.md`](review-slices/README.md) — e.g. [`ch01-trainer-review-v2.md`](review-slices/ch01-trainer-review-v2.md) (DOCX in [`export/review-slices/`](../export/review-slices/)).
 
+**Tone pass (bookwide):** [`2026-10-18-bookwide-tone-audit.md`](2026-10-18-bookwide-tone-audit.md) · checklist [`writing/TONE_PASS_CHECKLIST.md`](../writing/TONE_PASS_CHECKLIST.md).
+
 Living direction: [`proposition/proposition.md`](../proposition/proposition.md), [`STATUS.md`](../STATUS.md).

@@ -9,6 +9,8 @@ You made a deal in Chapter 1: clarity, kindness, honest stops. Now the mechanics
 
 Dogs are not small humans in fur coats. They are excellent learners of **what works**: which behaviour buys cheese, which buys freedom, which buys nothing but your increasingly theatrical sighing. This chapter retires **stubborn** as a diagnosis and replaces it with something more useful: consequences, timing, and a fair plan on your side of the lead.
 
+Chapter 1 gave you the map: **sit, come, walk nicely**, bookmarks welcome, plain habits first. This chapter stays in plain language — payoffs and timing, not trainer homework.
+
 ## Section 1 — Dogs learn what works — consequences, not lectures
 
 If learning were about moral lectures, every dog who heard “we don’t do that” would be a saint. Learning is about **outcomes**. Behaviour that is followed by something the dog wants tends to happen again. Behaviour that is followed by nothing useful, or by pain and fear, tends to change in ways you may not enjoy — shutdown, avoidance, or a dog who only cooperates when you are looming over them.
@@ -19,15 +21,15 @@ UK welfare guidance and professional force-free codes agree on the practical lin
 
 ### Train yourself
 
-- **Know:** Reinforcement is really about **your** consistency. The dog is running experiments; you are the vending machine. If the machine is random, they keep pressing buttons — including the ones you hate.  
+- **Know:** Reinforcement is really about **your** consistency. The dog is running experiments. you are the vending machine. If the machine is random, they keep pressing buttons — including the ones you hate.  
 - **Do:** Pay for what you want **when it happens**, especially in early learning. One clear consequence beats a paragraph of explanation.  
-- **Don't:** Nag like a lecture and call it training; repeat a cue five times hoping volume will install meaning; assume the dog “understands” because you explained it to your partner.
+- **Don't:** Nag like a lecture and call it training. repeat a cue five times hoping volume will install meaning. assume the dog “understands” because you explained it to your partner.  
 
 ### Train the dog
 
-- **Know:** Behaviour follows payoff. “Sit” is not a vow of obedience; it is a movement that has, in the past, produced good things.  
+- **Know:** Behaviour follows payoff. “Sit” is not a vow of obedience. it is a movement that has, in the past, produced good things.  
 - **Do:** Let them repeat what got paid — that is learning, not defiance when you stop paying.  
-- **Don't:** Expect moral understanding, guilt, or respect for your schedule; punish fear and call it teaching.
+- **Don't:** Expect moral understanding, guilt, or respect for your schedule. punish fear and call it teaching.  
 
 ## Section 2 — Markers, rewards, and the gap between behaviour and emotion
 
@@ -40,14 +42,14 @@ Here is the welfare-sensitive bit: **emotion is not disobedience**. A dog who wi
 ### Train yourself
 
 - **Know:** A marker is precision for **you**, not a magic spell. One system, charged before you ask for real work (Chapter 3).  
-- **Do:** Mark the instant the behaviour you want appears; then pay. One marker, one pay — no click storms.  
-- **Don't:** Mark late and blame the dog; train through obvious stress because the book said “sit”; confuse “bored” with “overwhelmed.”
+- **Do:** Mark the instant the behaviour you want appears. then pay. One marker, one pay — no click storms.  
+- **Don't:** Mark late and blame the dog. train through obvious stress because the book said “sit”. confuse “bored” with “overwhelmed.”.  
 
 ### Train the dog
 
-- **Know:** The marker predicts pay; emotion can block learning even when the food is fancy.  
-- **Do:** Learn in contexts where success is likely; let scared mean **simplify or manage**, not push.  
-- **Don't:** Learn that hands approaching mean intimidation; rehearse failure in chaos and call it proofing.
+- **Know:** The marker predicts pay. emotion can block learning even when the food is fancy.  
+- **Do:** Learn in contexts where success is likely. let scared mean **simplify or manage**, not push.  
+- **Don't:** Learn that hands approaching mean intimidation. rehearse failure in chaos and call it proofing.  
 
 ## Section 3 — Individual differences and realistic timelines
 
@@ -57,15 +59,15 @@ Realistic timelines are boring and kind: **small steps**, many paid reps, genera
 
 ### Train yourself
 
-- **Know:** One dog, one plan. TikTok timelines are edited; your Tuesday is not.  
-- **Do:** Celebrate modest wins; adjust criteria when progress stalls (you will get a formal checklist in Chapter 4).  
-- **Don't:** Timeline from someone else’s highlight reel; flood to “get it over with”; train angry because development is inconvenient.
+- **Know:** One dog, one plan. TikTok timelines are edited. your Tuesday is not.  
+- **Do:** Celebrate modest wins. adjust criteria when progress stalls (you will get a formal checklist in Chapter 4).  
+- **Don't:** Timeline from someone else’s highlight reel. flood to “get it over with”. train angry because development is inconvenient.  
 
 ### Train the dog
 
 - **Know:** Breed, age, and history matter — not as excuses, as **design inputs**.  
-- **Do:** Succeed in easy places first; grow difficulty in one dimension at a time.  
-- **Don't:** Learn that the world is always too loud; rehearse panic as the price of walks.
+- **Do:** Succeed in easy places first. grow difficulty in one dimension at a time.  
+- **Don't:** Learn that the world is always too loud. rehearse panic as the price of walks.  
 
 ## Practice lab — 60-second “what got rewarded?”
 

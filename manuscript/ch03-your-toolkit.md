@@ -11,6 +11,8 @@ This chapter’s promise is modest and powerful: a **three-minute session** almo
 
 Think of yourself as a stage manager, not a sergeant major. Your job before the curtain rises is mundane and decisive: pockets checked, distractions reduced, reward ranked, marker charged. The dog’s job is simply to show up and collect wins. When those roles are clear, training stops feeling like a moral exam.
 
+You do not need every gadget in the pet shop. **Bookmark this chapter** when treats “stop working” — usually place or pay, not a broken dog.
+
 ## Section 1 — Reward menus (food, play, access)
 
 Rewards are not bribes if you use them **before** refusal as setup and **after** behaviour as pay. The bribe mistake is waving sausage at a dog who will not come, then paying for the standoff. The skilled move is ranking what **this dog, today, in this room** cares about.
@@ -28,14 +30,14 @@ A practical habit: before you cue, ask *“Would I get out of bed for this?”* 
 ### Train yourself
 
 - **Know:** Value is contextual. Rank rewards **before** the session, not after a flop.  
-- **Do:** Keep treats visible only as part of the pay ritual; vary the menu so life stays interesting.  
-- **Don't:** Bribe after refusal; pay for ignoring you then wonder why ignoring repeats; use food as the only love language if play or access motivates more today.
+- **Do:** Keep treats visible only as part of the pay ritual. vary the menu so life stays interesting.  
+- **Don't:** Bribe after refusal. pay for ignoring you then wonder why ignoring repeats. use food as the only love language if play or access motivates more today.  
 
 ### Train the dog
 
-- **Know:** Payday drives effort. Effort is not moral; it is economics with a wag.  
+- **Know:** Payday drives effort. Effort is not moral. it is economics with a wag.  
 - **Do:** Discover what counts as a jackpot — sometimes it is tripe, sometimes it is “keys jingling = walk.”  
-- **Don't:** Learn that only kibble exists when steak-level focus is needed; learn that jumping on you is how treats appear.
+- **Don't:** Learn that only kibble exists when steak-level focus is needed. learn that jumping on you is how treats appear.  
 
 ## Section 2 — Marker word or click — mechanics without frenzy
 
@@ -52,36 +54,36 @@ Professional guidance in the UK reward-based world is blunt: **no training need 
 ### Train yourself
 
 - **Know:** Charge the marker **before** behaviour work — same as checking batteries before a torch walk.  
-- **Do:** One marker, one treat; still body; sessions short (RSPCA-aligned advice favours brief, happy reps over marathons).  
-- **Don't:** Click storm because you are excited; mark while fumbling the bag and teach sloppiness; pair the marker with rough grabs or scary noise.
+- **Do:** One marker, one treat. still body. sessions short (RSPCA-aligned advice favours brief, happy reps over marathons).  
+- **Don't:** Click storm because you are excited. mark while fumbling the bag and teach sloppiness. pair the marker with rough grabs or scary noise.  
 
 ### Train the dog
 
 - **Know:** The sound predicts pay — classical conditioning in plain English.  
-- **Do:** Ten to fifteen charge reps until ears perk; then use on easy wins only at first.  
-- **Don't:** Associate marker with fear; hear “yes” and still not know which behaviour paid.
+- **Do:** Ten to fifteen charge reps until ears perk. then use on easy wins only at first.  
+- **Don't:** Associate marker with fear. hear “yes” and still not know which behaviour paid.  
 
-## Section 3 — Where to train first; management when the world is too loud
+## Section 3 — Where to train first; prevent chaos when the world is too loud
 
-Environment is half the lesson. The hallway beats the high street. The garden beats the dog park. **Management** — gates, leads, choosing quiet times — is how you stop rehearsing disaster while you teach.
+Environment is half the lesson. The hallway beats the high street. The garden beats the dog park. **Prevention** — gates, leads, choosing quiet times — is how you stop rehearsing disaster while you teach.
 
 When the world is too loud, you are not failing. You are **designing**. Baby steps are not babyish; they are how fluent dogs happen. Proofing on day one is how people conclude their dog is “spiteful” when the dog is simply **learning in a casino**.
 
-If visitors, builders, or small humans turn the kitchen into a funfair, train elsewhere or skip training and manage. A skipped session beats a bad one.
+If visitors, builders, or small humans turn the kitchen into a funfair, train elsewhere or skip training and **prevent** the wrong rehearsal (gate up, lead on, or a calm nap instead). A skipped session beats a bad one.
 
 **Session length:** RSPCA-aligned guidance favours short, positive reps over grinding (`claim-rspca-002-short-sessions`). Set a timer if you must — three minutes is a feature, not an apology. Ending while eager teaches the dog that training is a highlight, not a sentence. Put the treat bag away **before** they walk off bored; you want them mildly offended that the fun stopped.
 
 ### Train yourself
 
 - **Know:** Environment is a dial, not a virtue test. You control more of it than you think.  
-- **Do:** Hallway before park; one distraction at a time later; use leads and gates so “don’t practice the wrong thing” is a plan.  
-- **Don't:** “Proof” on the busiest pavement because you are embarrassed; blame the dog for a lesson you taught in chaos.
+- **Do:** Hallway before park. one distraction at a time later. use leads and gates so “don’t practice the wrong thing” is a plan.  
+- **Don't:** “Proof” on the busiest pavement because you are embarrassed. blame the dog for a lesson you taught in chaos.  
 
 ### Train the dog
 
 - **Know:** Success in quiet builds confidence for later noise.  
-- **Do:** Win where winning is likely; generalise with intention in later chapters.  
-- **Don't:** Learn failure loops in overstimulation; associate training with overwhelm.
+- **Do:** Win where winning is likely. generalise with intention in later chapters.  
+- **Don't:** Learn failure loops in overstimulation. associate training with overwhelm.  
 
 ## Practice lab — Charge marker + one easy win
 

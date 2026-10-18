@@ -18,6 +18,10 @@
 - **Practice lab** sidebars: blockquote prefix `> **Practice lab.**`  
 - **Evidence note** (maintainer-facing during draft): HTML comment `<!-- EVIDENCE: claim-id E2 verified 2026-... -->` — strip or convert to notes before print.
 
+## Dual-track bullets (Know / Do / Don't)
+
+- **One idea per bullet** where possible. Use short sentences instead of semicolon chains (dyslexia-friendly plain language).
+
 ## Instructions
 
 - Numbered steps for procedures.  

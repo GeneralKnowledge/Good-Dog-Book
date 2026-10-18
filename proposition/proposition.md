@@ -72,6 +72,10 @@ Say it before you repeat a cue louder or blame the dog. It maps to the five chec
 
 ch04 installs the mantra alongside the teaching loop; ch06 and ch14 call it back when progress wobbles. The mantra is a **pedagogical device**, not medical or behavioural diagnosis.
 
+## External influences (concepts, not evidence)
+
+Popular owner books that align with our force-free basics may be referenced as **further reading** — e.g. Steve Mann’s *Easy Peasy Puppy Squeezy* (puppy optimism, three Ds, mutually exclusive behaviours). See [`concepts/external-influences.md`](../concepts/external-influences.md). **E2 claims** still come from DEFRA, Dogs Trust, RSPCA, ABTC/IMDT public pages — not from bestseller prose.
+
 ## Intended reader
 
 **Primary:** Ordinary dog owners who want to raise or live successfully with a dog and are not professional trainers. Accessible to first-time owners; still useful to experienced owners who want clearer behaviour literacy and better troubleshooting.

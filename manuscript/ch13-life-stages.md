@@ -5,11 +5,13 @@
 
 ## Opening
 
-Same book, different tempo. A twelve-week puppy, a seven-month teenager, and a rescue on day twelve in your hallway are not three versions of the same checklist. They share one method — reward-based teaching, management, vet when health is in question, comfort checks when stress clusters — but **expectations** and **first priorities** differ. This chapter sorts the noise so you do not punish a rescue for missing “puppy class” or treat an adolescent like a finished adult.
+Same book, different tempo. A twelve-week puppy, a seven-month teenager, and a rescue on day twelve in your hallway are not three versions of the same checklist. They share one method — reward-based teaching, sensible prevention (gates, leads), vet when health is in question, comfort checks when stress clusters — but **expectations** and **first priorities** differ. This chapter sorts the noise so you do not punish a rescue for missing “puppy class” or treat an adolescent like a finished adult.
+
+**Bookmark this chapter** for puppy, teenage, or rescue tempo — basics still apply. Sit, come, and walk nicely just move slower on some days.
 
 ## Section 1 — Puppies: toilet, mouthing, gentle exposure principles
 
-**Toilet training** is management plus pay for outdoor success: frequent trips, quiet praise, clean accidents without drama. Puppies have small bladders and honest mistakes — shouting teaches them to hide puddles, not to hold.
+**Toilet training** is prevention plus pay for outdoor success: frequent trips, quiet praise, clean accidents without drama. Puppies have small bladders and honest mistakes — shouting teaches them to hide puddles, not to hold.
 
 **Mouthing** is normal play and exploration. Redirect to legal chew items; reward calm handling; supervise children. If jaws close harder when frustrated, shorten sessions and check sleep and hunger — not a dominance battle.
 
@@ -25,16 +27,18 @@ Dogs Trust advises going at **your puppy’s pace** with **rewards they like** �
 
 If exposure goes wrong (panic, shutdown), **stop**, simplify, speak to your vet or a qualified trainer — not louder socialisation.
 
+**Puppy optimism (feel first, then teach).** Many popular puppy books — including Steve Mann’s *Easy Peasy Puppy Squeezy* — stress the same idea in plain language: **how your puppy feels matters more than what they do on the first try.** Safe, rested, and gently curious beats overwhelmed and “proofed.” We call that **Training the Human** too: your hurry and your volume are part of their emotional weather. This book adds bookmarks and stop rules; if EPPS worked for you, stay with reward-based kindness and use Chapter 12 when worry shows up.
+
 ### Train yourself
 
-- **Know:** Puppyhood is **short on sleep, long on mess**; comparison to adult dogs on Instagram is cruelty to yourself.  
-- **Do:** Schedule toilet trips; stock chews; log one gentle exposure win per week.  
-- **Don't:** Punish accidents indoors; “socialise” by handing to every stranger; blast scary sounds to “desensitise.”
+- **Know:** Puppyhood is **short on sleep, long on mess**. comparison to adult dogs on Instagram is cruelty to yourself.  
+- **Do:** Schedule toilet trips. stock chews. log one gentle exposure win per week.  
+- **Don't:** Punish accidents indoors. “socialise” by handing to every stranger. blast scary sounds to “desensitise.”.  
 
 ### Train the dog
 
-- **Know:** World is new; bladder is small; teeth are for exploring.  
-- **Do:** Learn where toilet pays; learn soft mouth on hands with redirects.  
+- **Know:** World is new. bladder is small. teeth are for exploring.  
+- **Do:** Learn where toilet pays. learn soft mouth on hands with redirects.  
 - **Don't:** Learn that humans are unpredictable grabbers or that fear must be endured.
 
 ## Section 2 — Adolescent regression — normal chaos, same method
@@ -48,39 +52,39 @@ Somewhere after the cute phase, many dogs **forget** everything you thought you 
 - **Mantra on repeat:** “Make it easier — then ask again.”  
 - **Vet check** if change is sudden or includes pain signs — adolescence is not an excuse to ignore health.
 
-Do not swap to harsh tools because the neighbour’s dog “respects” a shout. Regression responds to **consistency and management**, not intimidation.
+Do not swap to harsh tools because the neighbour’s dog “respects” a shout. Regression responds to **consistency and prevention** (gates, leads, shorter outings), not intimidation.
 
 ### Train yourself
 
 - **Know:** Adolescence is a **season**, not a verdict on your training career.  
-- **Do:** Lower the bar publicly; train the hard bits privately; celebrate small wins.  
-- **Don't:** Add three new tricks because sit “stopped working”; train angry after work; give up on management.
+- **Do:** Lower the bar publicly. train the hard bits privately. celebrate small wins.  
+- **Don't:** Add three new tricks because sit “stopped working”. Train angry after work. Give up on prevention when the world is too loud.  
 
 ### Train the dog
 
-- **Know:** Brain and body are remodelling; old paths need repaving.  
+- **Know:** Brain and body are remodelling. old paths need repaving.  
 - **Do:** Relearn that check-ins and calm still pay in boring places.  
 - **Don't:** Learn that ignoring you is the only way to reach the fun — because you only practise in chaos.
 
 ## Section 3 — Rescue settling — decompression, safety, refer early
 
-Rescue dogs arrive with **unknown history**. Day one is not “show them the city.” **Decompression** means quiet routine, predictable meals, sleep, and limited novelty. Let them choose distance from doorways, visitors, and hands. Management — crate, gate, separate room — prevents rehearsed fear or escape while trust builds.
+Rescue dogs arrive with **unknown history**. Day one is not “show them the city.” **Decompression** means quiet routine, predictable meals, sleep, and limited novelty. Let them choose distance from doorways, visitors, and hands. Prevention — crate, gate, separate room — stops rehearsed fear or escape while trust builds.
 
 **Safety:** Assume nothing about other dogs, children, or handling until you have data. Growling is information; punish it at your peril. **Refer early** for repeated fear, aggression, or shutdown — kindness is getting help before crisis, not waiting until someone is bitten.
 
-Match training to **readiness**, not your adoption timeline. Some dogs bloom in weeks; some need months of management-first life. Both are valid.
+Match training to **readiness**, not your adoption timeline. Some dogs bloom in weeks; some need months of prevention-first life. Both are valid.
 
 ### Train yourself
 
 - **Know:** You are building **safety and predictability**, not a showcase dog for social media.  
-- **Do:** Keep a simple schedule; note triggers in a notebook; call reward-based professionals when stuck.  
-- **Don't:** Host a welcome party; flood with family visits; blame “abuse” for every behaviour without vet and behaviour assessment.
+- **Do:** Keep a simple schedule. note triggers in a notebook. call reward-based professionals when stuck.  
+- **Don't:** Host a welcome party. flood with family visits. blame “abuse” for every behaviour without vet and behaviour assessment.  
 
 ### Train the dog
 
-- **Know:** New home may have been scary before; your job is to prove this one has exit ramps.  
+- **Know:** New home may have been scary before. your job is to prove this one has exit ramps.  
 - **Do:** Learn names of rooms, routines, and where rest is undisturbed.  
-- **Don't:** Learn that new people always mean cornering; that mistakes mean exile.
+- **Don't:** Learn that new people always mean cornering. that mistakes mean exile.  
 
 > **Practice lab (pick one).** *Puppy:* mouthing redirect — ten seconds calm petting, treat for soft mouth, stop if arousal rises. *Adolescent:* two good recall reps in garden, out. *Rescue:* decompression day — one room, scatter feed, no guests; note comfort clusters.
 
@@ -89,7 +93,7 @@ Match training to **readiness**, not your adoption timeline. Some dogs bloom in 
 | Stage | First priority | Common mistake |
 | --- | --- | --- |
 | Puppy | Toilet, sleep, gentle novelty | Flooding to “socialise” |
-| Adolescent | Shrink world, re-pay basics | New gadgets instead of management |
+| Adolescent | Shrink world, re-pay basics | New gadgets instead of prevention |
 | Rescue | Decompression, safety data | Welcome party on day one |
 
 Same loop, same five checks — different patience setting on your dial.
@@ -116,4 +120,5 @@ Whichever stage you are in, the question is the same: *what is fair to ask today
 
 1. Puppy pace/exposure: `book-research-dt-puppy-pace`, DEFRA avoid harsh; `method-decisions-from-sources.md`.  
 2. Adolescent and rescue framing adapted from project guides; not a unified timeline checklist.  
-3. App sources: `ex-toilet-routine`, `ex-puppy-mouthing`, `ex-puppy-surfaces` — principles referenced, not verbatim lesson copy.
+3. App sources: `ex-toilet-routine`, `ex-puppy-mouthing`, `ex-puppy-surfaces` — principles referenced, not verbatim lesson copy.  
+4. EPPS / Steve Mann further-reading alignment (E3): [`research/influence-easy-peasy-puppy-squeezy.md`](../research/influence-easy-peasy-puppy-squeezy.md) — not endorsement or E2 source.

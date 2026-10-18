@@ -21,10 +21,19 @@ See [`research/decision-register.md`](../research/decision-register.md) § Phase
 - ch14: “If you are worried right now” navigation (P1-6)  
 - **Mantra:** author confirmed **no dedupe** — keep *Make it easier — then ask again.* as repeated stall phrase  
 
+## Bookwide tone + influences (2026-10-18)
+
+- ch01 casual / anti-glossary; bookmark cookbook §4  
+- Semicolon split on dual-track (ch02–14); chapter bookmark openings  
+- ch14 plain five-check names; worry-now table  
+- EPPS (Steve Mann) research map — concept alignment only; DT loose-lead unchanged  
+- P2 plain language: reader-facing “prevention” gloss; [`writing/FURTHER_READING.md`](../writing/FURTHER_READING.md)  
+
 ## Next (Phase 3 §9)
 
 1. ~~Dedupe mantra~~ — **skipped by author** (intentional repetition)  
 2. ~~Part III practice labs + ch08 settle duration~~ — **done** (2026-10-18)  
-3. Voice trim (shared metaphors only — optional, low priority)  
-4. Evidence pass (IMDT-002, microchip, charity URLs)  
-5. Cold read when P1 complete  
+3. ~~Bookwide tone P1–P2~~ — **done** (2026-10-18)  
+4. Voice trim (shared metaphors only — optional, low priority)  
+5. Evidence pass (IMDT-002, microchip, charity URLs)  
+6. Cold read when P1 complete  

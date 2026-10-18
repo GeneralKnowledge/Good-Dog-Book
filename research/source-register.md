@@ -15,6 +15,12 @@
 
 **Citation rule:** Public guidance (IMDT, ABTC, RSPCA, Dogs Trust) is **independent third-party guidance** — not endorsement of this book.
 
+## Influences (E3 — not verification sources)
+
+| source_id | Title | Use in book |
+| --- | --- | --- |
+| book-influence-epps-mann | *Easy Peasy Puppy Squeezy* (Steve Mann) | Concept map only — [`influence-easy-peasy-puppy-squeezy.md`](influence-easy-peasy-puppy-squeezy.md); ch05, ch11, ch13 pointers |
+
 ## Book-owned sources (sprint 2026-10-18)
 
 | source_id | Title | URL | verified_date | Notes |

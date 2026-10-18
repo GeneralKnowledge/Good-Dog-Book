@@ -5,6 +5,7 @@
 | Project status and gates | [`STATUS.md`](../STATUS.md), [`research/foundation-gates.md`](../research/foundation-gates.md) |
 | Phase 3 whole-manuscript diagnosis | [`editorial/2026-10-18-phase3-whole-manuscript-diagnosis.md`](../editorial/2026-10-18-phase3-whole-manuscript-diagnosis.md) |
 | Reader, promise, voice | [`proposition/proposition.md`](../proposition/proposition.md) |
+| External influences (e.g. EPPS) | [`concepts/external-influences.md`](../concepts/external-influences.md), [`research/influence-easy-peasy-puppy-squeezy.md`](../research/influence-easy-peasy-puppy-squeezy.md) |
 | In/out of scope | [`proposition/scope.md`](../proposition/scope.md) |
 | Evidence classes and verification | [`research/evidence-policy.md`](../research/evidence-policy.md) |
 | Claim and source register | [`research/source-register.md`](../research/source-register.md) |
@@ -17,6 +18,7 @@
 | Chapter order and briefs | [`architecture/CHAPTER_MAP.md`](../architecture/CHAPTER_MAP.md) |
 | Chapter plan (master outline) | [`architecture/CHAPTER_PLAN.md`](../architecture/CHAPTER_PLAN.md) |
 | Voice and house style | [`writing/VOICE_BRIEF.md`](../writing/VOICE_BRIEF.md), [`writing/HOUSE_STYLE.md`](../writing/HOUSE_STYLE.md) |
+| Optional further reading (reader signpost) | [`writing/FURTHER_READING.md`](../writing/FURTHER_READING.md) |
 | Chapter drafting template | [`writing/CHAPTER_TEMPLATE.md`](../writing/CHAPTER_TEMPLATE.md) |
 | Train yourself / train the dog pattern | [`writing/dual-track-pattern.md`](../writing/dual-track-pattern.md) |
 | Voice samples (not chapters) | [`writing/calibration/`](../writing/calibration/) |

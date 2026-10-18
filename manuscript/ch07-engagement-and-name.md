@@ -11,6 +11,8 @@ You should have read **Chapter 12** first: comfort clusters beat single-pixel in
 
 Part III is where skills meet real life — parks, sofas, doorbells. Engagement and name are the polite knock before we ask for bigger favours. Get them solid in boring rooms first; the exciting world can wait its turn.
 
+**Bookmark this chapter** for name and focus — the base for **come** (Chapter 9) and **walk nicely** (Chapter 10). Basics-first is allowed: a reliable name in the house is a win.
+
 ## Section 1 — Engagement games
 
 Engagement is not staring contests. It is **approach pays**: you move away slightly, dog follows, mark, pay; you hide behind a door for two seconds, dog finds you, jackpot; you scatter a treat, they look back — mark, pay. Playful, short, opt-in.
@@ -24,8 +26,8 @@ Engagement is the opposite of looming: you become interesting by being **predict
 ### Train yourself
 
 - **Know:** Play beats drill. If it feels like a job interview, simplify.  
-- **Do:** Make checking in profitable; move yourself so following is fun; stop while the dog still wants more.  
-- **Don't:** Force eye contact; corner; train engagement while you are furious about the morning walk.
+- **Do:** Make checking in profitable. move yourself so following is fun. stop while the dog still wants more.  
+- **Don't:** Force eye contact. corner. train engagement while you are furious about the morning walk.  
 
 ### Train the dog
 
@@ -46,13 +48,13 @@ In busy homes, practise when the dog is already oriented — not as a wake-up sh
 ### Train yourself
 
 - **Know:** Every repeated name without pay teaches “ignore the first four.”  
-- **Do:** Say name once; mark any orient; pay generously; release.  
-- **Don't:** Nag; pair name with anger; test in chaos before the kitchen is solid.
+- **Do:** Say name once. mark any orient. pay generously. release.  
+- **Don't:** Nag. pair name with anger. test in chaos before the kitchen is solid.  
 
 ### Train the dog
 
 - **Know:** Name predicts good stuff when taught cleanly.  
-- **Do:** Turn when called once; expect pay for the orient, not a full sit unless that is the game.  
+- **Do:** Turn when called once. expect pay for the orient, not a full sit unless that is the game.  
 - **Don't:** Learn that name means trouble or endless repetition.
 
 ## Section 3 — Mild distraction — criteria and abort
@@ -66,13 +68,13 @@ Abort rules are a feature, not a failure: two misses in a row, you **leave** the
 ### Train yourself
 
 - **Know:** Distraction level is a dial you control, not a virtue test.  
-- **Do:** Shrink world when orient fails; jackpot the first win in a harder spot; end early.  
-- **Don't:** Stack distractions to impress strangers; train through worry because “socialisation.”
+- **Do:** Shrink world when orient fails. jackpot the first win in a harder spot. end early.  
+- **Don't:** Stack distractions to impress strangers. train through worry because “socialisation.”.  
 
 ### Train the dog
 
-- **Know:** Success at current level first; harder places come later.  
-- **Do:** Win orient with mild novelty; trust that pay still arrives.  
+- **Know:** Success at current level first. harder places come later.  
+- **Do:** Win orient with mild novelty. trust that pay still arrives.  
 - **Don't:** Learn that name means pressure in scary places.
 
 ## Practice lab — Name game, ten reps max

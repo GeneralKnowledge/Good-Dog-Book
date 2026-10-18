@@ -5,9 +5,11 @@
 
 ## Opening
 
-Recall is not a magic word. It is a **trust bank**: every cheerful return you pay in, every grumpy grab you withdraw from. Get it wrong and “come” becomes optional — or worse, something to avoid. Get it right in boring places first, and you earn the right to ask in harder ones **later**, with management and professional judgement where this book marks limits.
+Recall is not a magic word. It is a **trust bank**: every cheerful return you pay in, every grumpy grab you withdraw from. Get it wrong and “come” becomes optional — or worse, something to avoid. Get it right in boring places first, and you earn the right to ask in harder ones **later**, with sensible prevention (long line, secure space) and professional judgement where this book marks limits.
 
-This chapter gives you **foundation recall**, a **long-line management plan**, and **conservative guidance** on distraction and off-lead judgement (Section 3) — grounded in Dogs Trust public guidance, not bravado.
+This chapter gives you **foundation recall**, a **long-line safety plan**, and **conservative guidance** on distraction and off-lead judgement (Section 3) — grounded in Dogs Trust public guidance, not bravado.
+
+**Bookmark this chapter** if **come when called** is your main goal. Good enough for most owners: reliable in the garden and on a long line before you dream about empty beaches.
 
 ## Section 1 — Foundation recall
 
@@ -24,18 +26,18 @@ Run the teaching loop: setup (quiet), cue, run to you, mark, pay, release, reset
 ### Train yourself
 
 - **Know:** Recall fails when **your side** is inconsistent — sometimes jackpot, sometimes wrath.  
-- **Do:** Carry rewards on every outing even when “they never need them”; practise when nothing exciting is competing.  
-- **Don't:** Call when you cannot enforce or pay; use recall to vent after they ignored you twice; chase games that teach running away pays.
+- **Do:** Carry rewards on every outing even when “they never need them”. practise when nothing exciting is competing.  
+- **Don't:** Call when you cannot enforce or pay. use recall to vent after they ignored you twice. chase games that teach running away pays.  
 
 ### Train the dog
 
 - **Know:** “Come” predicts **arrival = worth it**, then often freedom again.  
-- **Do:** Sprint toward you when the cue is fresh and paid; learn that checking in is not a trap.  
+- **Do:** Sprint toward you when the cue is fresh and paid. learn that checking in is not a trap.  
 - **Don't:** Learn that coming back means scolding, lead jerk, or end of walk every time.
 
-## Section 2 — Long lines, secure areas, and UK management
+## Section 2 — Long lines, secure areas, and staying legal outdoors
 
-Outdoors, **management is recall’s partner**. A long line (fixed or training line) lets the dog move, sniff, and practise returns without giving you off-lead bravado on day one. Use **secure fields or enclosed spaces** where local rules allow, and keep identification legal: in the UK dogs in public should wear a collar with name and address, and microchipping is a legal requirement — compliance is not the same as “safe off lead everywhere.”
+Outdoors, **a long line is your friend**. A long line (fixed or training line) lets the dog move, sniff, and practise returns without giving you off-lead bravado on day one. Use **secure fields or enclosed spaces** where local rules allow, and keep identification legal: in the UK dogs in public should wear a collar with name and address, and microchipping is a legal requirement — compliance is not the same as “safe off lead everywhere.”
 
 **Plan before the gate opens:**
 
@@ -48,13 +50,13 @@ If you cannot recall on a long line in a quiet field, you are not ready to debat
 ### Train yourself
 
 - **Know:** The law and land rules (livestock, beaches, parks) outrank your dog’s good day.  
-- **Do:** Practise clip-on, line handling, and cheerful pays without an audience; end walks early while the bank still has credit.  
-- **Don't:** Let the long line go slack then snap tight as “correction”; assume microchip replaces training; practise recall toward traffic “to proof it.”
+- **Do:** Practise clip-on, line handling, and cheerful pays without an audience. end walks early while the bank still has credit.  
+- **Don't:** Let the long line go slack then snap tight as “correction”. assume microchip replaces training. practise recall toward traffic “to proof it.”.  
 
 ### Train the dog
 
 - **Know:** The line is a safety net, not a punishment tether.  
-- **Do:** Experience recall with room to move; get paid for returns in grass and mud.  
+- **Do:** Experience recall with room to move. get paid for returns in grass and mud.  
 - **Don't:** Learn that freedom only exists when the line is off — so running away is the jackpot.
 
 ## Practice lab — Foundation recall, then long-line prep
@@ -90,7 +92,7 @@ Progression is **boring before it is brave**. You add distraction only when the 
 1. **Bank reps** in garden and quiet streets — jackpot, release, never punish late returns (`claim-dt-recall-003-no-punish-late-return`).  
 2. **Long line** outdoors so the dog can move without “freedom = run away.” If they do not always come when called, Dogs Trust advises **not** relying on off-lead freedom — use the line (`claim-dt-escape-001-unreliable-recall-management`).  
 3. **One distraction dimension at a time** — another person at distance, then dog at distance, then sniff-rich grass — with the **five-second rule**: give time to respond before calling again; do not repeat if unlikely to work (`claim-dt-recall-002-five-second-rule`).  
-4. **Off-lead only when you are confident they will come back** in that place (`claim-dt-recall-004-offlead-criteria`). Secure area first; open country later; **not** near roads, livestock, or cliffs without professional management plan.  
+4. **Off-lead only when you are confident they will come back** in that place (`claim-dt-recall-004-offlead-criteria`). Secure area first; open country later; **not** near roads, livestock, or cliffs without a professional safety plan.  
 5. **UK ID:** microchip and identification are legal requirements for dogs — compliance is not the same as “safe to be off lead everywhere” (`claim-dt-recall-005-uk-id-law` — cross-check GOV.UK at print).
 
 If recall breaks down in distraction: **stop advancing**, shrink the world, return to long line, run five checks (Chapter 14). Seek reward-based professional help if escape or chasing is frequent.
@@ -98,8 +100,8 @@ If recall breaks down in distraction: **stop advancing**, shrink the world, retu
 ### Train yourself
 
 - **Know:** Off-lead is a **privilege you earn**, not a right on day one.  
-- **Do:** Write down where recall is “banked” vs “not yet”; use long line when unsure.  
-- **Don't:** Drop the lead to prove a point; call repeatedly; punish returns.
+- **Do:** Write down where recall is “banked” vs “not yet”. use long line when unsure.  
+- **Don't:** Drop the lead to prove a point. call repeatedly. punish returns.  
 
 ### Train the dog
 
@@ -107,9 +109,9 @@ If recall breaks down in distraction: **stop advancing**, shrink the world, retu
 - **Do:** Learn recall works in harder places in small steps.  
 - **Don't:** Learn that off-lead means “never come back until angry.”
 
-## Escape and safety (management, not machismo)
+## Escape and safety (prevention, not machismo)
 
-Some dogs learn that **running away** from handlers is safer than staying — previous homes, rough grabs, or chase games you did not mean to teach. If your dog bolts, fix **prevention** first: secure garden, double gates, long line before open spaces. Recall rebuilds with **choice** at short distance; never chase as punishment. If escape is frequent or toward roads, treat as a **serious management and behaviour** issue — Chapter 14, not more shouted cues.
+Some dogs learn that **running away** from handlers is safer than staying — previous homes, rough grabs, or chase games you did not mean to teach. If your dog bolts, fix **prevention** first: secure garden, double gates, long line before open spaces. Recall rebuilds with **choice** at short distance; never chase as punishment. If escape is frequent or toward roads, treat as a **serious safety and behaviour** issue — Chapter 14, not more shouted cues.
 
 ## Troubleshooting
 
@@ -119,7 +121,7 @@ Some dogs learn that **running away** from handlers is safer than staying — pr
 
 ## Stop if
 
-- Near roads, cliffs, water, or livestock without secure management — **stop** asking; use line or lead.  
+- Near roads, cliffs, water, or livestock without secure prevention (line, lead, fence) — **stop** asking; use line or lead.  
 - Growling, avoidance, or shutdown when you call — comfort failed; simplify, do not chase.  
 - You are calling to prove dominance or vent — **stop**; walk home in silence, train tomorrow.
 
