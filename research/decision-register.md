@@ -99,7 +99,7 @@ Optional pre-print review: [`qualified-review-plan.md`](../editorial/qualified-r
 | Decision | Source |
 | --- | --- |
 | **Tagline** *Train the human first* — comic, warm **wit** (owners are the slow learners in the joke); sparing use | Author 2026-10-18; [`writing/VOICE_BRIEF.md`](../writing/VOICE_BRIEF.md) |
-| **Mantra** *Make it easier — then ask again.* — pedagogical when stuck; pairs with five checks | [`proposition/proposition.md`](../proposition/proposition.md) |
+| **Mantra** *Make it easier — then ask again.* — pedagogical when stuck; pairs with five checks; **intentional repetition** across chapters (not deduped — it is the stall phrase) | [`proposition/proposition.md`](../proposition/proposition.md); author 2026-10-18 |
 | Optional **Good human.** — quiet self-reward when *you* fix the plan | `proposition.md`, `terminology.md` |
 
 ### Dual track (train yourself / train the dog)
@@ -135,6 +135,7 @@ Optional pre-print review: [`qualified-review-plan.md`](../editorial/qualified-r
 | Leave-it | **Out of scope** for one-book plan (no dedicated protocol) | ch11 brief; register app scope cut |
 | Second draft shape | **Expand depth** toward useful book length — prioritise Part III + ch08 per Phase 3 §9 (not uniform padding) | [`editorial/2026-10-18-phase3-whole-manuscript-diagnosis.md`](../editorial/2026-10-18-phase3-whole-manuscript-diagnosis.md) |
 | Stage G revision plan | **Proceed** with Phase 3 prioritised sequence | Author confirmation 2026-10-18 |
+| Mantra dedupe | **Not planned** — repetition is deliberate pedagogy, not editorial waste | Author 2026-10-18 |
 
 ---
 

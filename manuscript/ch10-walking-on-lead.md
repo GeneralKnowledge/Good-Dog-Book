@@ -99,7 +99,25 @@ When gear is boring at home, take **short reinforced segments** outside. Pick qu
 - **Do:** Learn that checking in sometimes pays; sniffing is part of the deal.  
 - **Don't:** Learn that pulling is the only way to reach the good bit because slack never gets there.
 
-> **Practice lab.** Sections 1–2 only until §3 clears: gear-up game indoors, five pays, harness off while still happy. Optional: one quiet pavement segment with check-in pays — **stop if** lead goes tight repeatedly or comfort fails.
+## Practice lab — Gear-up, then stop-start on a quiet street
+
+Two parts in one week — not both in one grumpy hour.
+
+### Part 1 — Gear-up (indoors)
+
+1. Harness on → five scatter treats or five mark-and-pays for standing still → harness off while still happy.  
+2. Add light lead: hold slack; dog moves toward a treat one step → pay → unclip.  
+3. **Stop if** they bite the gear, freeze, or you are late for work — tomorrow counts.
+
+### Part 2 — Stop-start on a quiet street (when Part 1 is dull)
+
+1. Same harness you trained in; treats in pocket; pick a **quiet** time and block.  
+2. **Loose lead = forward.** The instant you feel tension, **stop** — quiet feet, no jerk.  
+3. When slack returns, one step forward or one treat at your side — your choice today, not both.  
+4. Three to six stop-start cycles, then **turn home** while the lead still felt survivable.  
+5. **Stop if** lead stays tight every cycle, dog won’t eat, or you shout — end walk; no lesson worth that.
+
+**Make it easier — then ask again:** shorter route, more pays at side before moving, or Part 1 only this week.
 
 ## Weather, kit, and realistic walks
 
@@ -121,7 +139,7 @@ British walks include rain, mud, and dark afternoons. Adjust criteria: a wet dog
 
 Chapter 11 handles **doors and greetings** — another flashpoint for arousal. A dog who can check in on a quiet street is better prepared for “someone’s at the door,” even before full loose-lead mechanics land.
 
-Until §3 clears, measure progress in **check-ins and comfort**, not in metres without tension. A walk that ends early with a loose moment and a treat is a better training walk than a grim lap counted as “exercise.”
+Measure progress in **check-ins, stop-start wins, and comfort**, not in metres without tension. A walk that ends early with one loose moment and a treat is a better training walk than a grim lap counted as “exercise.”
 
 ## Chapter notes
 

@@ -7,6 +7,22 @@
 
 You will have days when the treat pouch feels pointless, the recall fails in front of witnesses, and you wonder if you are the only person whose dog “doesn’t get it.” You are not. Dogs are living animals; life stages, pain, and pavement chaos all interfere. This chapter is the **systematic pause** promised since Chapter 1: troubleshoot without blame, rule out health, and know when this book — and any app beside it — must step aside for professionals.
 
+## If you are worried right now
+
+You do not have to read cover to cover before you act. Use this table, then return to the chapter map when you have breath.
+
+| If you are mainly worried about… | Start here | Then |
+| --- | --- | --- |
+| Growling, snapping, bites, or you fear your dog | **Stop** training pressure; manage safety | This chapter §2 vet, §3 professionals; ch12 comfort |
+| Sudden change — was fine, now isn’t | **Vet first** | §2 below; then five checks if health is clear |
+| Fear on walks, freezes, won’t go | ch12 stress lens | Shrink the world; ch10 management walks |
+| Recall in distractions | ch07 name, ch08 settle | **ch12**, then ch09 practice labs |
+| Door jumping, guests, handling meltdowns | ch11 management + labs | ch08 parallel settle; abort if stiff |
+| Puppy / teenager / rescue tempo | ch13 life stages | Match criteria to stage; do not rush Part III |
+| Stuck anywhere, grumpy trainer, everything fell apart | **Five checks below** | Mantra: *Make it easier — then ask again.* |
+
+Chapter 1 lists the same shortcuts for readers who started at the beginning; this copy lives here so **help is one flip away** when things go wrong.
+
 ## Section 1 — Troubleshooting the loop and the five checks
 
 When a skill stalls, run the **teaching loop** in your head: setup → cue → behaviour → mark/reward → release → reset. Something in that chain broke. Before you repeat the cue louder, use the **five checks** and the owner mantra:
