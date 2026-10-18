@@ -30,14 +30,14 @@ A practical habit: before you cue, ask *“Would I get out of bed for this?”* 
 ### Train yourself
 
 - **Know:** Value is contextual. Rank rewards **before** the session, not after a flop.  
-- **Do:**Keep treats visible only as part of the pay ritual. vary the menu so life stays interesting.  
-- **Don't:**Bribe after refusal. pay for ignoring you then wonder why ignoring repeats. use food as the only love language if play or access motivates more today.  
+- **Do:** Keep treats visible only as part of the pay ritual. vary the menu so life stays interesting.  
+- **Don't:** Bribe after refusal. pay for ignoring you then wonder why ignoring repeats. use food as the only love language if play or access motivates more today.  
 
 ### Train the dog
 
-- **Know:**Payday drives effort. Effort is not moral. it is economics with a wag.  
+- **Know:** Payday drives effort. Effort is not moral. it is economics with a wag.  
 - **Do:** Discover what counts as a jackpot — sometimes it is tripe, sometimes it is “keys jingling = walk.”  
-- **Don't:**Learn that only kibble exists when steak-level focus is needed. learn that jumping on you is how treats appear.  
+- **Don't:** Learn that only kibble exists when steak-level focus is needed. learn that jumping on you is how treats appear.  
 
 ## Section 2 — Marker word or click — mechanics without frenzy
 
@@ -54,14 +54,14 @@ Professional guidance in the UK reward-based world is blunt: **no training need 
 ### Train yourself
 
 - **Know:** Charge the marker **before** behaviour work — same as checking batteries before a torch walk.  
-- **Do:**One marker, one treat. still body. sessions short (RSPCA-aligned advice favours brief, happy reps over marathons).  
-- **Don't:**Click storm because you are excited. mark while fumbling the bag and teach sloppiness. pair the marker with rough grabs or scary noise.  
+- **Do:** One marker, one treat. still body. sessions short (RSPCA-aligned advice favours brief, happy reps over marathons).  
+- **Don't:** Click storm because you are excited. mark while fumbling the bag and teach sloppiness. pair the marker with rough grabs or scary noise.  
 
 ### Train the dog
 
 - **Know:** The sound predicts pay — classical conditioning in plain English.  
-- **Do:**Ten to fifteen charge reps until ears perk. then use on easy wins only at first.  
-- **Don't:**Associate marker with fear. hear “yes” and still not know which behaviour paid.  
+- **Do:** Ten to fifteen charge reps until ears perk. then use on easy wins only at first.  
+- **Don't:** Associate marker with fear. hear “yes” and still not know which behaviour paid.  
 
 ## Section 3 — Where to train first; management when the world is too loud
 
@@ -76,14 +76,14 @@ If visitors, builders, or small humans turn the kitchen into a funfair, train el
 ### Train yourself
 
 - **Know:** Environment is a dial, not a virtue test. You control more of it than you think.  
-- **Do:**Hallway before park. one distraction at a time later. use leads and gates so “don’t practice the wrong thing” is a plan.  
-- **Don't:**“Proof” on the busiest pavement because you are embarrassed. blame the dog for a lesson you taught in chaos.  
+- **Do:** Hallway before park. one distraction at a time later. use leads and gates so “don’t practice the wrong thing” is a plan.  
+- **Don't:** “Proof” on the busiest pavement because you are embarrassed. blame the dog for a lesson you taught in chaos.  
 
 ### Train the dog
 
 - **Know:** Success in quiet builds confidence for later noise.  
-- **Do:**Win where winning is likely. generalise with intention in later chapters.  
-- **Don't:**Learn failure loops in overstimulation. associate training with overwhelm.  
+- **Do:** Win where winning is likely. generalise with intention in later chapters.  
+- **Don't:** Learn failure loops in overstimulation. associate training with overwhelm.  
 
 ## Practice lab — Charge marker + one easy win
 

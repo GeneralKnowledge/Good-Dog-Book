@@ -22,8 +22,8 @@ This chapter covers **comfortable kit**, **positive introduction to lead and har
 ### Train yourself
 
 - **Know:** Equipment discomfort mimics “bad on lead” behaviour — vet or fitter before months of “training.”  
-- **Do:**Let the dog wear gear indoors for seconds, then minutes, before the street. check fit after puppy growth spurts.  
-- **Don't:**Buy the tightest harness “so they feel it”. yank to teach. blame the dog for ducking away from a scary collar.  
+- **Do:** Let the dog wear gear indoors for seconds, then minutes, before the street. check fit after puppy growth spurts.  
+- **Don't:** Buy the tightest harness “so they feel it”. yank to teach. blame the dog for ducking away from a scary collar.  
 
 ### Train the dog
 
@@ -45,13 +45,13 @@ One variable at a time. If they buck or bite the lead, pause — mouthing gear i
 ### Train yourself
 
 - **Know:** This is **classical conditioning**, not heelwork — your patience here saves months of pavement war.  
-- **Do:**Keep reps under a minute. end before they try to strip the harness off.  
-- **Don't:**Drag them out the door to “get used to it”. train when you are already late for work.  
+- **Do:** Keep reps under a minute. end before they try to strip the harness off.  
+- **Don't:** Drag them out the door to “get used to it”. train when you are already late for work.  
 
 ### Train the dog
 
 - **Know:** Clips and straps are neutral objects that can predict snacks and garden.  
-- **Do:**Stand still for gear-up. move when lead is slack in easy indoor games.  
+- **Do:** Stand still for gear-up. move when lead is slack in easy indoor games.  
 - **Don't:** Learn that fighting the harness is the only way to stop the session.
 
 ## Section 3 — Soft-lead mechanics
@@ -72,13 +72,13 @@ Expect walks to take longer while learning.
 ### Train yourself
 
 - **Know:** Pulling often worked before — one step forward taught them that. Patience is the method.  
-- **Do:**Stop the instant you feel tension. pay side position. quit while calm.  
+- **Do:** Stop the instant you feel tension. pay side position. quit while calm.  
 - **Don't:** Jerk, shout, or march through tight lead because people are watching.
 
 ### Train the dog
 
-- **Know:**Tight lead = pause. slack = explore with you.  
-- **Do:**Check in at your side for pay. learn direction changes predict treats.  
+- **Know:** Tight lead = pause. slack = explore with you.  
+- **Do:** Check in at your side for pay. learn direction changes predict treats.  
 - **Don't:** Learn that pulling is the only way to reach the smell.
 
 *Note:* Some trainers teach loose-lead without stop-start. This book follows **Dogs Trust public guidance** above. Avoid jerking the lead or kit that works through pain or startle — if a method needs that, it is not in this book’s kit.
@@ -91,14 +91,14 @@ When gear is boring at home, take **short reinforced segments** outside. Pick qu
 
 ### Train yourself
 
-- **Know:**Passers-by are not scoring you. ending early is professional, not embarrassing.  
-- **Do:**Plan turn-back points. carry rewards. note which streets spike arousal.  
-- **Don't:**March until everyone is miserable. practise only at rush hour because “they must learn.”.  
+- **Know:** Passers-by are not scoring you. ending early is professional, not embarrassing.  
+- **Do:** Plan turn-back points. carry rewards. note which streets spike arousal.  
+- **Don't:** March until everyone is miserable. practise only at rush hour because “they must learn.”.  
 
 ### Train the dog
 
 - **Know:** Streets differ — new smells, new rules.  
-- **Do:**Learn that checking in sometimes pays. sniffing is part of the deal.  
+- **Do:** Learn that checking in sometimes pays. sniffing is part of the deal.  
 - **Don't:** Learn that pulling is the only way to reach the good bit because slack never gets there.
 
 ## Practice lab — Gear-up, then stop-start on a quiet street

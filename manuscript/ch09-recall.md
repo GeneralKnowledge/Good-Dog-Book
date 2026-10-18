@@ -26,13 +26,13 @@ Run the teaching loop: setup (quiet), cue, run to you, mark, pay, release, reset
 ### Train yourself
 
 - **Know:** Recall fails when **your side** is inconsistent — sometimes jackpot, sometimes wrath.  
-- **Do:**Carry rewards on every outing even when “they never need them”. practise when nothing exciting is competing.  
-- **Don't:**Call when you cannot enforce or pay. use recall to vent after they ignored you twice. chase games that teach running away pays.  
+- **Do:** Carry rewards on every outing even when “they never need them”. practise when nothing exciting is competing.  
+- **Don't:** Call when you cannot enforce or pay. use recall to vent after they ignored you twice. chase games that teach running away pays.  
 
 ### Train the dog
 
 - **Know:** “Come” predicts **arrival = worth it**, then often freedom again.  
-- **Do:**Sprint toward you when the cue is fresh and paid. learn that checking in is not a trap.  
+- **Do:** Sprint toward you when the cue is fresh and paid. learn that checking in is not a trap.  
 - **Don't:** Learn that coming back means scolding, lead jerk, or end of walk every time.
 
 ## Section 2 — Long lines, secure areas, and staying legal outdoors
@@ -50,13 +50,13 @@ If you cannot recall on a long line in a quiet field, you are not ready to debat
 ### Train yourself
 
 - **Know:** The law and land rules (livestock, beaches, parks) outrank your dog’s good day.  
-- **Do:**Practise clip-on, line handling, and cheerful pays without an audience. end walks early while the bank still has credit.  
-- **Don't:**Let the long line go slack then snap tight as “correction”. assume microchip replaces training. practise recall toward traffic “to proof it.”.  
+- **Do:** Practise clip-on, line handling, and cheerful pays without an audience. end walks early while the bank still has credit.  
+- **Don't:** Let the long line go slack then snap tight as “correction”. assume microchip replaces training. practise recall toward traffic “to proof it.”.  
 
 ### Train the dog
 
 - **Know:** The line is a safety net, not a punishment tether.  
-- **Do:**Experience recall with room to move. get paid for returns in grass and mud.  
+- **Do:** Experience recall with room to move. get paid for returns in grass and mud.  
 - **Don't:** Learn that freedom only exists when the line is off — so running away is the jackpot.
 
 ## Practice lab — Foundation recall, then long-line prep
@@ -100,8 +100,8 @@ If recall breaks down in distraction: **stop advancing**, shrink the world, retu
 ### Train yourself
 
 - **Know:** Off-lead is a **privilege you earn**, not a right on day one.  
-- **Do:**Write down where recall is “banked” vs “not yet”. use long line when unsure.  
-- **Don't:**Drop the lead to prove a point. call repeatedly. punish returns.  
+- **Do:** Write down where recall is “banked” vs “not yet”. use long line when unsure.  
+- **Don't:** Drop the lead to prove a point. call repeatedly. punish returns.  
 
 ### Train the dog
 

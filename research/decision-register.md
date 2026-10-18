@@ -136,6 +136,7 @@ Optional pre-print review: [`qualified-review-plan.md`](../editorial/qualified-r
 | Second draft shape | **Expand depth** toward useful book length — prioritise Part III + ch08 per Phase 3 §9 (not uniform padding) | [`editorial/2026-10-18-phase3-whole-manuscript-diagnosis.md`](../editorial/2026-10-18-phase3-whole-manuscript-diagnosis.md) |
 | Stage G revision plan | **Proceed** with Phase 3 prioritised sequence | Author confirmation 2026-10-18 |
 | Mantra dedupe | **Not planned** — repetition is deliberate pedagogy, not editorial waste | Author 2026-10-18 |
+| *Easy Peasy Puppy Squeezy* (Steve Mann) | **Concept alignment only** — puppy optimism, three Ds, MEB in our voice; further reading in ch13; **not** method endorsement; loose-lead stays Dogs Trust | [`research/influence-easy-peasy-puppy-squeezy.md`](influence-easy-peasy-puppy-squeezy.md); [`concepts/external-influences.md`](../concepts/external-influences.md) |
 
 ---
 

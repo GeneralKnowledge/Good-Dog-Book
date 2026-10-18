@@ -26,8 +26,8 @@ Watch for **accidental cues** — the treat bag rustle, your leaning forward, th
 ### Train yourself
 
 - **Know:** Repeating a cue teaches the dog the first three do not count.  
-- **Do:**Say the cue once. if no behaviour, simplify and try again — or stop.  
-- **Don't:**Nag. change the word mid-stream because you are embarrassed. punish “wrong” guesses when the criterion was unclear.  
+- **Do:** Say the cue once. if no behaviour, simplify and try again — or stop.  
+- **Don't:** Nag. change the word mid-stream because you are embarrassed. punish “wrong” guesses when the criterion was unclear.  
 
 ### Train the dog
 
@@ -37,7 +37,9 @@ Watch for **accidental cues** — the treat bag rustle, your leaning forward, th
 
 ## Section 2 — Duration, distance, distraction — pick one
 
-The classic three **D**s are where patience goes to die. You want a sit until the kettle boils, at the far end of the garden, while ducks conduct opera. Fine — **not in one session**.
+The classic three **D**s — **distance, distraction, duration** — are where patience goes to die. You will see them in many kind training books (Steve Mann’s *Easy Peasy Puppy Squeezy* is one famous UK example). Same rule here: **one D per session**, not all three because you are bored on a Sunday.
+
+You want a sit until the kettle boils, at the far end of the garden, while ducks conduct opera. Fine — **not in one session**.
 
 Pick **one** dimension:
 
@@ -52,7 +54,7 @@ A humble schedule: first teach the behaviour, then steady pay, then — much lat
 ### Train yourself
 
 - **Know:** Impatience adds three variables and calls it “proofing.”  
-- **Do:**Write the one-line criterion. change only one D per session.  
+- **Do:** Write the one-line criterion. change only one D per session.  
 - **Don't:** Stand across the room with ducks and expect a sit you only paid for in silence.
 
 ### Train the dog
@@ -71,15 +73,15 @@ Generalisation is also about **you**: different hat, sitting down, holding the l
 
 ### Train yourself
 
-- **Know:**“He knows it at home” is not an insult. it is how learning works.  
-- **Do:**Re-run easy reps in each new context. jackpot the first wins in a harder place.  
-- **Don't:**Assume telepathy. blame defiance when the criterion was never taught with that distraction present.  
+- **Know:** “He knows it at home” is not an insult. it is how learning works.  
+- **Do:** Re-run easy reps in each new context. jackpot the first wins in a harder place.  
+- **Don't:** Assume telepathy. blame defiance when the criterion was never taught with that distraction present.  
 
 ### Train the dog
 
 - **Know:** New place, new smells, new rules until proven otherwise.  
-- **Do:**Bank paid reps in each environment. grow difficulty slowly.  
-- **Don't:**Learn that parks mean failure. learn that cues only work in one room.  
+- **Do:** Bank paid reps in each environment. grow difficulty slowly.  
+- **Don't:** Learn that parks mean failure. learn that cues only work in one room.  
 
 ## Practice lab — One generalisation step
 

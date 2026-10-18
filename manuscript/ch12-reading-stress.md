@@ -29,7 +29,7 @@ None of these alone proves panic. **Clusters in context** tell you the dog’s n
 
 - **Know:** Stress is **information about the setup**, not a moral failing. Your job is to believe what you see, even when Auntie insists “he’s fine, he just needs confidence.”  
 - **Do:** Name what you notice in plain language (“stiff, won’t eat, backing up”) and **pause the lesson** — shorter distance, quieter street, or full stop.  
-- **Don't:**Fixate on one pixel from an internet chart. train “through it” because you paid for a six-week course. punish growling and call it manners.  
+- **Don't:** Fixate on one pixel from an internet chart. train “through it” because you paid for a six-week course. punish growling and call it manners.  
 
 ### Train the dog
 
@@ -50,15 +50,15 @@ Compare your dog **to their own baseline**: how do they greet you when relaxed? 
 
 ### Train yourself
 
-- **Know:**Charts help you **ask better questions**. they do not replace your vet or a qualified behaviourist when fear or aggression is frequent.  
+- **Know:** Charts help you **ask better questions**. they do not replace your vet or a qualified behaviourist when fear or aggression is frequent.  
 - **Do:** Film ten seconds of a tricky moment (safely, from distance) and watch without sound — often you see tension you missed live.  
-- **Don't:**Label the dog “anxious” as identity. guilt-spiral because a stranger’s collie looks “happier”. diagnose medical pain from a blog post.  
+- **Don't:** Label the dog “anxious” as identity. guilt-spiral because a stranger’s collie looks “happier”. diagnose medical pain from a blog post.  
 
 ### Train the dog
 
-- **Know:**They are not performing for your camera. they are responding to pressure in the environment.  
+- **Know:** They are not performing for your camera. they are responding to pressure in the environment.  
 - **Do:** Build trust by **shrinking the world** until their body loosens again — same method as harder skills, different goal.  
-- **Don't:**Flood them with “socialisation” to fix fear. pair every scary moment with shouted cues.  
+- **Don't:** Flood them with “socialisation” to fix fear. pair every scary moment with shouted cues.  
 
 ## Section 3 — Stop, simplify, manage (comfort in the five checks)
 
@@ -77,13 +77,13 @@ Comfort is not softness. It is **safety for learning**. A dog who cannot eat chi
 ### Train yourself
 
 - **Know:** Ending early is a **success metric**, especially before Part III. Impatience is your cue to shrink the world, not to push.  
-- **Do:**Write one line after a hard outing: “Comfort check failed at ___. next time I will ___.”.  
-- **Don't:**Treat stop rules as defeat. keep score of “sessions finished while still okay” instead of “minutes drilled.”.  
+- **Do:** Write one line after a hard outing: “Comfort check failed at ___. next time I will ___.”.  
+- **Don't:** Treat stop rules as defeat. keep score of “sessions finished while still okay” instead of “minutes drilled.”.  
 
 ### Train the dog
 
 - **Know:** They learn whether you are safe to be honest with — or whether they must endure to the end of the walk.  
-- **Do:**Experience relief when you retreat. pair your presence with **exit ramps** from pressure.  
+- **Do:** Experience relief when you retreat. pair your presence with **exit ramps** from pressure.  
 - **Don't:** Learn that stress must be ignored to keep you happy.
 
 ## Observation exercise (not a practice lab)

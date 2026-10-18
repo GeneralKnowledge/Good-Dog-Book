@@ -27,16 +27,18 @@ Dogs Trust advises going at **your puppy’s pace** with **rewards they like** �
 
 If exposure goes wrong (panic, shutdown), **stop**, simplify, speak to your vet or a qualified trainer — not louder socialisation.
 
+**Puppy optimism (feel first, then teach).** Many popular puppy books — including Steve Mann’s *Easy Peasy Puppy Squeezy* — stress the same idea in plain language: **how your puppy feels matters more than what they do on the first try.** Safe, rested, and gently curious beats overwhelmed and “proofed.” We call that **Training the Human** too: your hurry and your volume are part of their emotional weather. This book adds bookmarks and stop rules; if EPPS worked for you, stay with reward-based kindness and use Chapter 12 when worry shows up.
+
 ### Train yourself
 
-- **Know:**Puppyhood is **short on sleep, long on mess**. comparison to adult dogs on Instagram is cruelty to yourself.  
-- **Do:**Schedule toilet trips. stock chews. log one gentle exposure win per week.  
-- **Don't:**Punish accidents indoors. “socialise” by handing to every stranger. blast scary sounds to “desensitise.”.  
+- **Know:** Puppyhood is **short on sleep, long on mess**. comparison to adult dogs on Instagram is cruelty to yourself.  
+- **Do:** Schedule toilet trips. stock chews. log one gentle exposure win per week.  
+- **Don't:** Punish accidents indoors. “socialise” by handing to every stranger. blast scary sounds to “desensitise.”.  
 
 ### Train the dog
 
-- **Know:**World is new. bladder is small. teeth are for exploring.  
-- **Do:**Learn where toilet pays. learn soft mouth on hands with redirects.  
+- **Know:** World is new. bladder is small. teeth are for exploring.  
+- **Do:** Learn where toilet pays. learn soft mouth on hands with redirects.  
 - **Don't:** Learn that humans are unpredictable grabbers or that fear must be endured.
 
 ## Section 2 — Adolescent regression — normal chaos, same method
@@ -55,12 +57,12 @@ Do not swap to harsh tools because the neighbour’s dog “respects” a shout.
 ### Train yourself
 
 - **Know:** Adolescence is a **season**, not a verdict on your training career.  
-- **Do:**Lower the bar publicly. train the hard bits privately. celebrate small wins.  
-- **Don't:**Add three new tricks because sit “stopped working”. train angry after work. give up on management.  
+- **Do:** Lower the bar publicly. train the hard bits privately. celebrate small wins.  
+- **Don't:** Add three new tricks because sit “stopped working”. train angry after work. give up on management.  
 
 ### Train the dog
 
-- **Know:**Brain and body are remodelling. old paths need repaving.  
+- **Know:** Brain and body are remodelling. old paths need repaving.  
 - **Do:** Relearn that check-ins and calm still pay in boring places.  
 - **Don't:** Learn that ignoring you is the only way to reach the fun — because you only practise in chaos.
 
@@ -75,14 +77,14 @@ Match training to **readiness**, not your adoption timeline. Some dogs bloom in 
 ### Train yourself
 
 - **Know:** You are building **safety and predictability**, not a showcase dog for social media.  
-- **Do:**Keep a simple schedule. note triggers in a notebook. call reward-based professionals when stuck.  
-- **Don't:**Host a welcome party. flood with family visits. blame “abuse” for every behaviour without vet and behaviour assessment.  
+- **Do:** Keep a simple schedule. note triggers in a notebook. call reward-based professionals when stuck.  
+- **Don't:** Host a welcome party. flood with family visits. blame “abuse” for every behaviour without vet and behaviour assessment.  
 
 ### Train the dog
 
-- **Know:**New home may have been scary before. your job is to prove this one has exit ramps.  
+- **Know:** New home may have been scary before. your job is to prove this one has exit ramps.  
 - **Do:** Learn names of rooms, routines, and where rest is undisturbed.  
-- **Don't:**Learn that new people always mean cornering. that mistakes mean exile.  
+- **Don't:** Learn that new people always mean cornering. that mistakes mean exile.  
 
 > **Practice lab (pick one).** *Puppy:* mouthing redirect — ten seconds calm petting, treat for soft mouth, stop if arousal rises. *Adolescent:* two good recall reps in garden, out. *Rescue:* decompression day — one room, scatter feed, no guests; note comfort clusters.
 
@@ -118,4 +120,5 @@ Whichever stage you are in, the question is the same: *what is fair to ask today
 
 1. Puppy pace/exposure: `book-research-dt-puppy-pace`, DEFRA avoid harsh; `method-decisions-from-sources.md`.  
 2. Adolescent and rescue framing adapted from project guides; not a unified timeline checklist.  
-3. App sources: `ex-toilet-routine`, `ex-puppy-mouthing`, `ex-puppy-surfaces` — principles referenced, not verbatim lesson copy.
+3. App sources: `ex-toilet-routine`, `ex-puppy-mouthing`, `ex-puppy-surfaces` — principles referenced, not verbatim lesson copy.  
+4. EPPS / Steve Mann further-reading alignment (E3): [`research/influence-easy-peasy-puppy-squeezy.md`](../research/influence-easy-peasy-puppy-squeezy.md) — not endorsement or E2 source.

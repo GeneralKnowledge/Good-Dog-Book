@@ -34,14 +34,14 @@ Keep sessions **short** — a handful of successes beats marathon “calm down�
 
 ### Train yourself
 
-- **Know:**Duration grows in **tiny increments**. your impatience is the usual reason “settle” becomes a fight.  
-- **Do:**Count successes, not minutes. use a release word so “off mat” is legal and fun.  
-- **Don't:**Train settle while you are cooking a stressful dinner. punish leaving the mat. expect adult nap length on day one.  
+- **Know:** Duration grows in **tiny increments**. your impatience is the usual reason “settle” becomes a fight.  
+- **Do:** Count successes, not minutes. use a release word so “off mat” is legal and fun.  
+- **Don't:** Train settle while you are cooking a stressful dinner. punish leaving the mat. expect adult nap length on day one.  
 
 ### Train the dog
 
 - **Know:** Mat means “good things happen when I hang out here.”  
-- **Do:**Discover that stillness pays better than pacing. learn a clear end to the exercise.  
+- **Do:** Discover that stillness pays better than pacing. learn a clear end to the exercise.  
 - **Don't:** Learn that “settle” means “trapped until human is less angry.”
 
 ## Section 2 — Calm around movement — honest expectations
@@ -55,13 +55,13 @@ Reward **recovery**: the moment they soften after a startle is worth a mark. You
 ### Train yourself
 
 - **Know:** “Calm” is a **behaviour you reinforce**, not a vibe you demand. Television dogs are edited.  
-- **Do:**Lower excitement in the room when practising. one movement trigger per session.  
-- **Don't:**Punish alertness. rehearse chaos daily without management. train through shutdown (see Chapter 12).  
+- **Do:** Lower excitement in the room when practising. one movement trigger per session.  
+- **Don't:** Punish alertness. rehearse chaos daily without management. train through shutdown (see Chapter 12).  
 
 ### Train the dog
 
 - **Know:** Movement predicts different things in different houses — sometimes play, sometimes nothing.  
-- **Do:**Learn that quiet watching or softening after a bark can pay. practise in easy versions first.  
+- **Do:** Learn that quiet watching or softening after a bark can pay. practise in easy versions first.  
 - **Don't:** Learn that barking is the only way to make the post disappear when shouting is the main consequence.
 
 ## Section 3 — Rest spot and choice to leave
@@ -72,14 +72,14 @@ Household realism: teach humans the script. “Dog on bed = we walk past.” Pai
 
 ### Train yourself
 
-- **Know:**Choice reduces bite risk and burnout. forced “cuddles” on the rest spot undo the lesson.  
-- **Do:**Post a family rule on the fridge. supervise kid–dog contact until settle is reliable.  
-- **Don't:**Drag the dog to the bed for a photo. train when the dog is already over threshold.  
+- **Know:** Choice reduces bite risk and burnout. forced “cuddles” on the rest spot undo the lesson.  
+- **Do:** Post a family rule on the fridge. supervise kid–dog contact until settle is reliable.  
+- **Don't:** Drag the dog to the bed for a photo. train when the dog is already over threshold.  
 
 ### Train the dog
 
 - **Know:** Rest spot means predictable quiet and escape from hassle.  
-- **Do:**Choose to rest when tired. trust that leaving is allowed.  
+- **Do:** Choose to rest when tired. trust that leaving is allowed.  
 - **Don't:** Learn that beds are ambush sites for grabbing and loud handling.
 
 ## Practice lab — Mat settle, three minutes max

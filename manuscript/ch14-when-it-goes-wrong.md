@@ -69,13 +69,13 @@ Optional habit: when **you** fix the plan instead of blaming the dog, a quiet **
 ### Train yourself
 
 - **Know:** Stalls are usually **plan problems**, not character flaws in either species.  
-- **Do:**Write which check failed. change one variable. end session on a small win or a clean stop.  
-- **Don't:**Drill until both of you hate the skill. skip comfort because “we’re already out”. treat referral as defeat.  
+- **Do:** Write which check failed. change one variable. end session on a small win or a clean stop.  
+- **Don't:** Drill until both of you hate the skill. skip comfort because “we’re already out”. treat referral as defeat.  
 
 ### Train the dog
 
 - **Know:** They need predictable payoffs and escape from pressure.  
-- **Do:**Experience easier reps after failure. trust that you will notice stress.  
+- **Do:** Experience easier reps after failure. trust that you will notice stress.  
 - **Don't:** Learn that your name or cue means “ignore until human shouts.”
 
 ## Section 2 — Vet first
@@ -91,7 +91,7 @@ Your vet may refer to a behaviourist; medical rule-out is not optional drama. RS
 ### Train yourself
 
 - **Know:** “He’s fine at the vet” once a year is not a behaviour consultation.  
-- **Do:**Book a check when change is sudden. bring notes and video (safely).  
+- **Do:** Book a check when change is sudden. bring notes and video (safely).  
 - **Don't:** Increase exercise or corrections to “burn off” unexplained aggression.
 
 ### Train the dog
@@ -127,8 +127,8 @@ Clear answers beat vague charisma. You are hiring help for a family member, not 
 ### Train yourself
 
 - **Know:** A charismatic social media account is not a credential.  
-- **Do:**Interview professionals. ask for plain-language plan and stop rules.  
-- **Don't:**Hire someone who blames dominance for everything. let anyone “fix” aggression in one session on your kitchen floor.  
+- **Do:** Interview professionals. ask for plain-language plan and stop rules.  
+- **Don't:** Hire someone who blames dominance for everything. let anyone “fix” aggression in one session on your kitchen floor.  
 
 ### Train the dog
 
@@ -171,7 +171,7 @@ Many owners delay the vet or the behaviourist because they fear judgement — fr
 
 ### Train the dog
 
-- **Know:**They cannot read the chapter list. they need relief now when suffering.  
+- **Know:** They cannot read the chapter list. they need relief now when suffering.  
 - **Do:** Benefit from qualified teams when problems exceed kitchen-scale teaching.  
 - **Don't:** Wait until everyone is injured to admit scope.
 
