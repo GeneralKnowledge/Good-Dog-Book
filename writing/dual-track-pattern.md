@@ -25,6 +25,8 @@ For each **topic** (skill, habit, or problem slice), give **both** sides. The su
 
 British English; sentence case after the bold label.
 
+**Accessibility:** Prefer **one idea per bullet** and full stops over semicolon lists in Know / Do / Don't (see [`HOUSE_STYLE.md`](HOUSE_STYLE.md)).
+
 ## What each line means
 
 | Track | Know | Do | Don't |

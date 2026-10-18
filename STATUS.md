@@ -1,6 +1,6 @@
 # Project status
 
-**Last updated:** 2026-10-18 (Stage G Part III practice pass)  
+**Last updated:** 2026-10-18 (ch01 casual rewrite)  
 **Branch workflow:** Feature work on `cursor/*-5834`; merge via PR.
 
 ## Current stage
