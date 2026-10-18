@@ -16,3 +16,4 @@
 | 2026-10-18 | GET RSPCA handling URL (attempt) | 404 — use Dogs Trust handling or defer | — |
 | 2026-10-18 | Mapped ch05/ch07 claims | RSPCA sit cue timing; DT name/recall prerequisite | `claim-rspca-005`, `claim-dt-recall-001`, `claim-dt-marker-*` |
 | 2026-10-18 | Added DEFRA book-owned claims | Reward-based preference; avoid harsh/frightening methods | `book-research-defra-001`, `book-research-defra-002` |
+| 2026-10-18 | GET DT walking-nicely, visitor, puppy 101 | 200 | `book-research-src-dt-walking-nicely`, `visitor-training`, `puppy-training` |

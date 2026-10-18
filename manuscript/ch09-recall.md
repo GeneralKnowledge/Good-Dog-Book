@@ -59,19 +59,33 @@ If you cannot recall on a long line in a quiet field, you are not ready to debat
 
 > **Practice lab.** Indoor or garden recall only in this manuscript version: five to ten reps, jackpot plus release. **Stop if** they avoid you, you repeat the cue, or stress signs appear.
 
-## Section 3 — Distraction and off-lead progression — E5 PLACEHOLDER (qualified review pending)
+## Section 3 — Distraction, long line, and off-lead judgement
 
-**This section is intentionally not drafted for owners.**
+**Source:** Dogs Trust recall and escaping guidance (verified 2026-10-18 — `src-dt-recall-training`, `src-dt-escaping-running-away`).
 
-Advancing recall from long line to off-lead work near distractions (other dogs, wildlife, traffic noise) needs **qualified professional review** of owner-facing steps and stop rules. Open questions — including criteria for dropping the line and how to phrase UK ID law without implying off-lead is safe — are logged in `research/e5-reviewer-questions.md`.
+Progression is **boring before it is brave**. You add distraction only when the trust bank is full in easier places — not when you need recall to work for the first time at the beach.
 
-**Until sign-off:**
+**Steps (conservative):**
 
-- Do **not** use this book for off-lead progression plans in stimulating environments.  
-- Rely on **management** (long line, secure areas, lead where required) and Sections 1–2.  
-- If recall breaks down in distraction, run the **five checks** (Chapter 14), shrink the world, and seek reward-based professional help if needed.
+1. **Bank reps** in garden and quiet streets — jackpot, release, never punish late returns (`claim-dt-recall-003-no-punish-late-return`).  
+2. **Long line** outdoors so the dog can move without “freedom = run away.” If they do not always come when called, Dogs Trust advises **not** relying on off-lead freedom — use the line (`claim-dt-escape-001-unreliable-recall-management`).  
+3. **One distraction dimension at a time** — another person at distance, then dog at distance, then sniff-rich grass — with the **five-second rule**: give time to respond before calling again; do not repeat if unlikely to work (`claim-dt-recall-002-five-second-rule`).  
+4. **Off-lead only when you are confident they will come back** in that place (`claim-dt-recall-004-offlead-criteria`). Secure area first; open country later; **not** near roads, livestock, or cliffs without professional management plan.  
+5. **UK ID:** microchip and identification are legal requirements for dogs — compliance is not the same as “safe to be off lead everywhere” (`claim-dt-recall-005-uk-id-law` — cross-check GOV.UK at print).
 
-*Placeholder text for production:* `[E5 — ch09 §3: owner steps + stop rules for distraction/off-lead progression — await qualified reviewer sign-off in source-register.md]`
+If recall breaks down in distraction: **stop advancing**, shrink the world, return to long line, run five checks (Chapter 14). Seek reward-based professional help if escape or chasing is frequent.
+
+### Train yourself
+
+- **Know:** Off-lead is a **privilege you earn**, not a right on day one.  
+- **Do:** Write down where recall is “banked” vs “not yet”; use long line when unsure.  
+- **Don't:** Drop the lead to prove a point; call repeatedly; punish returns.
+
+### Train the dog
+
+- **Know:** Coming back must stay better than ignoring you.  
+- **Do:** Learn recall works in harder places in small steps.  
+- **Don't:** Learn that off-lead means “never come back until angry.”
 
 ## Escape and safety (management, not machismo)
 
@@ -93,10 +107,10 @@ Some dogs learn that **running away** from handlers is safer than staying — pr
 
 Chapter 10 is **walking together on a lead** — another place trust shows up in your hands. Keep recall deposits going in easy places; do not spend them all on one heroic park visit.
 
-Record one line after each recall session: *where, how many reps, how it felt.* Boring data beats heroic memory when §3 eventually clears and you need to know what your dog was actually ready for.
+Record one line after each recall session: *where, how many reps, how it felt.* Boring data beats heroic memory when deciding if off-lead is fair today.
 
 ## Chapter notes
 
-1. No punishment for late return: core recall ethics (`claim-dt-recall-003-no-punish-late-return`).  
-2. Off-lead criteria claim (`claim-dt-recall-004-offlead-criteria`) applies to §3 only — **blocked** pending E5 review; §1–2 do not advance off-lead progression.  
-3. App: `ex-recall-foundation` adapted; **not** `ex-recall-mild-distract` until review clears §3.
+1. No punishment for late return: `claim-dt-recall-003-no-punish-late-return`.  
+2. §3 progression: `claim-dt-recall-002`, `004`, `005`, `claim-dt-escape-001`; method decision [`research/method-decisions-from-sources.md`](../research/method-decisions-from-sources.md).  
+3. App: `ex-recall-foundation` adapted only; not unaudited distraction exercise copy.

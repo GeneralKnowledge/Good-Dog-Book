@@ -303,14 +303,14 @@ flowchart TB
 
 ---
 
-## Section-red summary (do not draft until cleared)
+## Method sections (resolved from research)
 
-| Chapter | Section | Action |
+| Chapter | Section | Source decision |
 | --- | --- | --- |
-| ch09 | §3 | Qualified review → owner steps + stop rules |
-| ch10 | §3 | E5 loose-lead method sign-off |
-| ch11 | §2 | Stay management-first; expand after review |
-| ch13 | §1 | Puppy socialisation/sounds framing after review |
+| ch09 | §3 | Dogs Trust recall + escape claims — [`method-decisions-from-sources.md`](../research/method-decisions-from-sources.md) |
+| ch10 | §3 | Dogs Trust walking-nicely page |
+| ch11 | §2 | Dogs Trust visitor training + threshold abort |
+| ch13 | §1 | Dogs Trust puppy 101 + DEFRA avoid harsh |
 
 ---
 
@@ -321,10 +321,8 @@ flowchart TB
 3. **ch04 → ch05 → ch06** — Part II  
 4. **ch12** — before any Part III prose  
 5. **ch07 → ch08** — low red risk  
-6. **ch09 §1–2, ch10 §1–2 & §4, ch11 §1 & §3** — skip reds  
-7. **ch13 §2–3** before §1 if §1 still E5  
-8. **ch14** — after enough Part III exists to reference  
-9. **Red sections** — after [`editorial/qualified-review-plan.md`](../editorial/qualified-review-plan.md)  
+6. **ch09–ch11, ch13** — full draft from register (optional polish pass)  
+7. **ch14** — after enough Part III exists to reference  
 
 ---
 

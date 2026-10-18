@@ -20,6 +20,9 @@
 | source_id | Title | URL | verified_date | Notes |
 | --- | --- | --- | --- | --- |
 | book-research-src-defra-dog-code | Code of practice for the welfare of dogs | https://www.gov.uk/government/publications/code-of-practice-for-the-welfare-of-dogs | 2026-10-18 | GOV.UK 200; last updated 6 Apr 2018 |
+| book-research-src-dt-walking-nicely | Teach your dog to walk nicely on a lead | https://www.dogstrust.org.uk/dog-advice/training/outdoors/walking-nicely-training | 2026-10-18 | GET 200 |
+| book-research-src-dt-visitor-training | How to prepare your dog for visitors | https://www.dogstrust.org.uk/dog-advice/training/home/visitor-training | 2026-10-18 | GET 200 |
+| book-research-src-dt-puppy-training | Puppy Training 101 | https://www.dogstrust.org.uk/dog-advice/training/basics/puppy-training | 2026-10-18 | GET 200 |
 
 ## Pinned sources (summary)
 
@@ -51,7 +54,7 @@
 | claim-dt-recall-001-prerequisite-name | E2 | verified | ch07, ch09 | Dogs Trust recall page 200 |
 | claim-dt-recall-002-five-second-rule | E2 | verified | ch09 | Dogs Trust 200 |
 | claim-dt-recall-003-no-punish-late-return | E2 | verified | ch09 | Dogs Trust 200 |
-| claim-dt-recall-004-offlead-criteria | E2 | verified | ch09 | §3 wording needs review |
+| claim-dt-recall-004-offlead-criteria | E2 | verified | ch09 | Off-lead only when confident recall; §3 drafted |
 | claim-dt-recall-005-uk-id-law | E2 | verified | ch09 | Cross-check GOV.UK microchip at draft |
 | claim-dt-escape-001-unreliable-recall-management | E2 | verified | ch09 | Dogs Trust 200 |
 | claim-rspca-001-all-reward-based | E2 | verified | ch02 | RSPCA 200 |
@@ -63,7 +66,9 @@
 | book-research-defra-002-avoid-harsh | E2 | verified | ch02, ch12 | Paraphrase DEFRA: avoid harsh/painful/frightening methods |
 | book-research-name-page-001 | E2 | verified | ch07 | Paraphrase Dogs Trust name-training page (200); no separate pin claim |
 | claim-hiby-001-reward-obedience-correlation | E1 | draft | ch02 optional | Survey; E3 for individual dogs |
-| book-claim-loose-lead-method | E5 | blocked-professional-review | ch10 §3 | See `e5-reviewer-questions.md` |
+| book-research-dt-loose-lead-mechanics | E2 | verified | ch10 §3 | Paraphrase DT walking-nicely: stop when tight, slack to move, +R at side |
+| book-research-dt-visitor-bed-knock | E2 | verified | ch11 §2 | Paraphrase DT visitor-training |
+| book-research-dt-puppy-pace | E2 | verified | ch13 §1 | Paraphrase DT puppy 101: pace, rewards, individual needs |
 | book-claim-owner-mantra | E4 | draft | ch01, ch04, ch06, ch14 | Pedagogical device “Make it easier — then ask again.” |
 | book-claim-ch12-stress-charity | E2 | draft | ch12 | Charity stress/body-language pages — URLs to be logged at draft |
 
@@ -71,11 +76,11 @@
 
 | App reference | Topic | Status |
 | --- | --- | --- |
-| `ex-lead-loose` | Loose lead | blocked |
-| `ex-leave-it-easy` | Leave it | blocked-professional-review |
-| `ex-greeting-calm` | Greetings | blocked-professional-review |
-| `ex-recall-mild-distract` | Recall distraction | blocked-professional-review |
-| `ex-puppy-sounds` | Sound exposure | blocked-professional-review |
+| `ex-lead-loose` | Loose lead | not used — book uses `book-research-src-dt-walking-nicely` |
+| `ex-leave-it-easy` | Leave it | scope cut ch11; DT leave page optional later |
+| `ex-greeting-calm` | Greetings | not used — book uses `book-research-src-dt-visitor-training` |
+| `ex-recall-mild-distract` | Recall distraction | not used — book uses pinned recall claims |
+| `ex-puppy-sounds` | Sound exposure | not used — book uses puppy 101 + gentle exposure E4 |
 
 ## Internal-only (not evidence)
 

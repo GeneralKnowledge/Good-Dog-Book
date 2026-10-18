@@ -28,7 +28,7 @@ Publication marketing polish is **deferred** (does not block drafting) in [`deci
 | E1–E5 classes; welfare severity separate | [`evidence-policy.md`](evidence-policy.md) |
 | Claim register + sprint verification | [`source-register.md`](source-register.md), [`research-sprint-log.md`](research-sprint-log.md) |
 | Citation independence (no implied endorsement) | `evidence-policy.md` § Citation independence |
-| E5 / section reds documented | [`chapter-coverage-matrix.md`](chapter-coverage-matrix.md), [`e5-reviewer-questions.md`](e5-reviewer-questions.md) |
+| Method sections traced to verified sources | [`method-decisions-from-sources.md`](method-decisions-from-sources.md), [`source-register.md`](source-register.md) |
 
 Drafting may proceed for green/amber chapters; blocked sections stay blocked per matrix.
 
@@ -41,7 +41,7 @@ Drafting may proceed for green/amber chapters; blocked sections stay blocked per
 | Fourteen chapters retained | [`architecture/CHAPTER_MAP.md`](../architecture/CHAPTER_MAP.md) |
 | Read order: ch12 before Part III Live | Author decision 2026-10-18; Phase 2 P0-1 resolved |
 | Teaching loop + five checks + dual track (train yourself / train the dog) + Training the Human | [`proposition/proposition.md`](../proposition/proposition.md), [`writing/dual-track-pattern.md`](../writing/dual-track-pattern.md) |
-| ch11 greetings management-first until review | [`architecture/briefs/ch11.md`](../architecture/briefs/ch11.md) |
+| ch11 greetings from DT visitor guidance + threshold abort | [`method-decisions-from-sources.md`](method-decisions-from-sources.md) |
 | Per-chapter readiness | [`chapter-coverage-matrix.md`](chapter-coverage-matrix.md) |
 
 ## G4 — Voice calibration
@@ -60,5 +60,5 @@ Drafting may proceed for green/amber chapters; blocked sections stay blocked per
 ## What approval allows
 
 - **Stage E** may begin with **ch01** and other **green/amber** chapters in the coverage matrix.  
-- **Do not** draft **red** sections (ch09 §3, ch10 §3, ch11 §2 expansion, ch13 §1) until qualified review or scope rules in briefs.  
+- Method prose follows **verified E2 sources** in the register; optional review before print (`qualified-review-plan.md`).  
 - Amend gates only if foundation documents change materially.

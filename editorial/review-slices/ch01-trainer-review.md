@@ -8,7 +8,7 @@
 
 This chapter sets **tone, scope, and owner habits** for ordinary UK-oriented pet owners (not pro trainers). We need your view on whether the foundation is **responsible, accurate enough at this level, and safe to build on** — not whether you would teach every line the same way in a class.
 
-**Please do not treat this as sign-off for the whole book**, E5 method sections (recall distraction, loose-lead mechanics, greetings protocol, puppy socialisation), or publication legal/endorsement claims.
+**Please do not treat this as sign-off for the whole book** or publication legal/endorsement claims. Later method chapters draft from **verified Dogs Trust / register sources** (`research/method-decisions-from-sources.md`); your ch01 feedback still sets the tone bar.
 
 ## Evidence note (maintainer)
 

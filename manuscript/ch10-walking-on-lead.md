@@ -52,19 +52,32 @@ One variable at a time. If they buck or bite the lead, pause — mouthing gear i
 - **Do:** Stand still for gear-up; move when lead is slack in easy indoor games.  
 - **Don't:** Learn that fighting the harness is the only way to stop the session.
 
-## Section 3 — Soft-lead mechanics — BLOCKED (E5 professional review)
+## Section 3 — Soft-lead mechanics
 
-**This section is not owner-ready.**
+**Source:** Dogs Trust “Teach your dog to walk nicely on a lead” (`book-research-src-dt-walking-nicely`, verified 2026-10-18). Comfortable flat harness or collar — no pain-based “anti-pull” kit (`claim-abtc-003-no-aversives`).
 
-Step-by-step loose-lead teaching — what to do when the lead tightens, how to combine check-ins and direction changes without stalemates — requires **qualified sign-off** on method and public ethics (`book-claim-loose-lead-method`, E5). Questions are listed in `research/e5-reviewer-questions.md`.
+**Build in order:**
 
-**Until review clears:**
+1. **Reward at your side** indoors or in the garden — calm places first.  
+2. **Add movement** — pay for position; slowly stretch time and distance between rewards.  
+3. **Change direction** occasionally so they learn to watch you.  
+4. **Core rule:** **Loose lead = forward.** The instant the lead tightens, **stop**. Stand quiet; do not jerk or scold. Move again only when slack returns. If they do not reorient, take a few steps **the other way** to reset focus (`book-research-dt-loose-lead-mechanics`).
 
-- Use **management**: distance from triggers, quieter routes, appropriate line length where recall chapters apply.  
-- Reinforce **check-ins** when the dog offers them; pay generously on easy streets.  
-- Do **not** copy unreviewed app steps for loose-lead drills (`ex-lead-loose` is out of scope for this draft).
+Expect walks to take longer while learning. If you cannot be consistent one day (late for work), Dogs Trust notes some people use a clear “training vs management” harness signal — but mixed signals slow learning; prefer short consistent sessions.
 
-*Stub for production:* `[E5 — ch10 §3: loose-lead owner mechanics + stop rules — await reviewer sign-off]`
+### Train yourself
+
+- **Know:** Pulling often worked before — one step forward taught them that. Patience is the method.  
+- **Do:** Stop the instant you feel tension; pay side position; quit while calm.  
+- **Don't:** Jerk, shout, or march through tight lead because people are watching.
+
+### Train the dog
+
+- **Know:** Tight lead = pause; slack = explore with you.  
+- **Do:** Check in at your side for pay; learn direction changes predict treats.  
+- **Don't:** Learn that pulling is the only way to reach the smell.
+
+*Note:* Some trainers prefer pure positive shaping without stop-start; this book follows **public Dogs Trust guidance** — see `research/disagreements.md`.
 
 ## Section 4 — Real walks: environment, check-ins, ending early
 
@@ -110,6 +123,6 @@ Until §3 clears, measure progress in **check-ins and comfort**, not in metres w
 
 ## Chapter notes
 
-1. Loose-lead method claim (`book-claim-loose-lead-method`) — **E5 blocked**; §3 stub only.  
+1. Loose-lead mechanics: `book-research-dt-loose-lead-mechanics` / `book-research-src-dt-walking-nicely`.  
 2. Early sections adapt `ex-lead-intro`; do not copy `ex-lead-loose` steps.  
 3. Welfare risk serious — equipment and management emphasised over confrontation.

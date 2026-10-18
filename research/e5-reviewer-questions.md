@@ -1,6 +1,8 @@
-# E5 topics — questions for qualified review
+# E5 topics — historical review queue
 
-**Purpose:** Document open method questions without choosing a side in prose. See [`research/disagreements.md`](disagreements.md).
+**Status (2026-10-18):** **Superseded for drafting** — method blockers resolved via verified Dogs Trust / register claims. See [`method-decisions-from-sources.md`](method-decisions-from-sources.md). Optional trainer pass may still use questions below as a checklist.
+
+**Purpose (archive):** Document method questions when no verified source existed. See [`research/disagreements.md`](disagreements.md).
 
 ## Loose-lead (ch10 §3)
 

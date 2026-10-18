@@ -1,41 +1,42 @@
 # Qualified professional review plan
 
-**Status:** Stage B foundation.  
-**Purpose:** Document topics that require a suitably qualified reward-based trainer or clinical animal behaviourist (via vet referral where appropriate) **before drafting the flagged section** and before publication claims for that section. Other chapters may draft while reviews are scheduled.
+**Status:** Updated 2026-10-18 — **mandatory pre-draft review removed** when verified E2 public guidance exists (`research/method-decisions-from-sources.md`).
+
+**Purpose:** Optional expert pass before **publication** — not a gate for drafting when the source register has verified charity/pro guidance.
 
 ## Not a substitute for
 
-- Internal Good Dog audits (2026-10-09)  
-- DogResearch `reviewed_pilot_export` status  
-- This document does **not** assert any review has occurred yet
+- Verified rows in [`research/source-register.md`](../research/source-register.md)  
+- Good Dog internal audits — book does **not** treat app exercise copy as settled evidence
 
-## Mandatory review before drafting section
+## Former mandatory topics (now drafted from research)
 
-| Topic | Chapter | Trigger | Deliverable |
-| --- | --- | --- | --- |
-| Loose-lead method | ch10 §3 | E5 blocker; app/KB disagreement | Written sign-off on method steps + stop rules |
-| Recall under distraction / off-lead criteria | ch09 §3 | Safety + audit flag | Sign-off on progression language |
-| Leave-it / impulse control | ch11 (if included beyond management) | Audit substantial revision | Sign-off or scope cut |
-| Calm greetings with helper | ch11 §2 | Qualified review in exercise audit | Sign-off on protocol |
-| Puppy sound/socialisation exposure | ch13 §1 | KB `requires_human_review` / audit | Sign-off on exposure framing |
+| Topic | Chapter | Book source |
+| --- | --- | --- |
+| Loose-lead method | ch10 §3 | Dogs Trust walking-nicely (`book-research-dt-loose-lead-mechanics`) |
+| Recall distraction / off-lead | ch09 §3 | Pinned + book recall/escape claims |
+| Calm greetings / visitors | ch11 §2 | Dogs Trust visitor training |
+| Puppy socialisation framing | ch13 §1 | Dogs Trust puppy 101 + DEFRA avoid harsh |
+
+Optional reviewer may still comment; log outcomes in `source-register.md` if claims change.
 
 ## Recommended review before publication
 
 | Topic | Chapter | Notes |
 | --- | --- | --- |
 | Body language / stress literacy | ch12 | Clinical boundary copy |
-| Handling / vet prep | ch11 §3 | Order and intensity for puppies vs adults |
+| Handling / vet prep intensity | ch11 §3 | Puppies vs adults |
 | Referral / UK regulatory accuracy | ch14 | Fact-check URLs and role descriptions |
-| Adolescent / rescue management guides | ch13 | Align with KB advisory lessons |
+| Adolescent / rescue management | ch13 §2–3 | Align with charity pages |
+| ch01 foundation tone | ch01 | [`review-slices/ch01-trainer-review.md`](review-slices/ch01-trainer-review.md) |
 
-## Process
+## Process (when review happens)
 
-1. Draft manuscript section with `EVIDENCE:E5` flags where method unsettled.  
-2. Send **brief + proposed owner steps + stop rules** to reviewer (no full book required).  
-3. Log outcome in `research/source-register.md` — new claim or `book-claim-*` with E2/E4 and reviewer record (name, date, scope).  
-4. Do **not** claim “professionally reviewed book” unless full scope agreed and documented.
+1. Send **slice or chapter** + linked `claim_id`s — not necessarily full book.  
+2. Log outcome in `source-register.md` with reviewer name, date, scope.  
+3. Do **not** claim “professionally reviewed book” unless full scope agreed.
 
 ## Author decision
 
-- [ ] Budget and select reviewer(s)  
-- [ ] Scope: sign-off on flagged sections only vs full manuscript read  
+- [ ] Budget and select reviewer(s) for **optional** pre-print pass  
+- [x] Draft method sections from verified public research (2026-10-18)

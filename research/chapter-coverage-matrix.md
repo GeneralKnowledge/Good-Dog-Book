@@ -16,10 +16,10 @@
 | 7 | ch12 | **Amber** (draft v1) | `book-research-defra-002`; app KB stress guide (not in pin) | Add Blue Cross/PDSA URLs; clinical boundary review recommended |
 | 8 | ch07 | **Green** (draft v1) | `claim-dt-recall-001`, `claim-dt-name-training` via `src-dt-name-training` | Mild distraction: cross-check ch09 |
 | 9 | ch08 | **Green** (draft v1) | `claim-rspca-002`, mat/settle (E4 + app adapt) | — |
-| 10 | ch09 | **Amber** (draft v1) | §1–2: `claim-dt-recall-003`, `004`, `005`, `claim-dt-escape-001` | **§3 Red:** E5 placeholder in manuscript |
-| 11 | ch10 | **Amber** (draft v1) | §1–2: `claim-abtc-003`, lead intro (E4) | **§3 Red:** E5 stub in manuscript |
-| 12 | ch11 | **Amber** (draft v1) | §1, §3: doors/handling (E4) | **§2:** management-first only until review |
-| 13 | ch13 | **Amber** (draft v1) | §2–3: adolescent/rescue guides (KB, E2 draft) | **§1:** principles only (E5) |
+| 10 | ch09 | **Green** (draft v1) | §1–3: recall claims + `method-decisions-from-sources.md` | Optional trainer polish |
+| 11 | ch10 | **Green** (draft v1) | `book-research-dt-loose-lead-mechanics`, `claim-abtc-003` | DT vs IMDT note in disagreements |
+| 12 | ch11 | **Green** (draft v1) | `book-research-dt-visitor-bed-knock`, doors/handling E4 | Abort over threshold |
+| 13 | ch13 | **Green** (draft v1) | `book-research-dt-puppy-pace`, §2–3 life-stage | Puppy class still recommended |
 | 14 | ch14 | **Amber** (draft v1) | `claim-abtc-001`, `claim-imdt-003`, `claim-rspca-003`, `004` | Fact-check roles at revision; five-check table E4 |
 
 ## Multi-dog households

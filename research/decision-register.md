@@ -61,19 +61,21 @@ Amend entries only when foundation documents or qualified review materially chan
 
 ---
 
-## Method (E5 — qualified review)
+## Method (former E5 blockers)
 
-**Status:** **Blocked until review** (drafting forbidden for listed sections)
+**Status:** **Decided from verified public research** (2026-10-18)
 
-| Topic | Book handling until sign-off | Source |
+Author rule: **reputable verified source → draft allowed.** Good Dog audit flags do not block when E2 charity guidance is on the register.
+
+| Topic | Decision | Source |
 | --- | --- | --- |
-| Loose-lead method (ch10 §3) | No settled owner protocol in prose | [`e5-reviewer-questions.md`](e5-reviewer-questions.md); ch10 brief |
-| Recall with mild distraction (ch09 §3) | Blocked | Matrix + E5 queue |
-| Calm greetings expansion (ch11 §2) | **Management-first only** in draft | [`architecture/briefs/ch11.md`](../architecture/briefs/ch11.md) |
-| Leave-it beyond ch11 | Scope cut unless reviewer adds protocol | E5 queue |
-| Puppy sound exposure / socialisation (ch13 §1) | Blocked | Matrix + E5 queue |
+| Recall / off-lead progression (ch09 §3) | Draft from Dogs Trust recall + escape guidance | [`method-decisions-from-sources.md`](method-decisions-from-sources.md); recall claims in register |
+| Loose-lead mechanics (ch10 §3) | Draft from Dogs Trust walking-nicely page | `book-research-dt-loose-lead-mechanics` |
+| Greetings / visitors (ch11 §2) | DT visitor training + abort if over threshold | `book-research-dt-visitor-bed-knock` |
+| Puppy exposure / socialisation (ch13 §1) | DT puppy 101 pace + gentle exposure; no flooding | `book-research-dt-puppy-pace`, DEFRA avoid harsh |
+| Leave-it beyond ch11 | Scope cut for one-book plan | ch11 brief |
 
-Reviewer deliverable: owner steps + stop rules per section → log in [`source-register.md`](source-register.md).
+Optional pre-print review: [`qualified-review-plan.md`](../editorial/qualified-review-plan.md) (recommended topics only).
 
 ---
 

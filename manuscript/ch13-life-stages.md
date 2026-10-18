@@ -13,14 +13,17 @@ Same book, different tempo. A twelve-week puppy, a seven-month teenager, and a r
 
 **Mouthing** is normal play and exploration. Redirect to legal chew items; reward calm handling; supervise children. If jaws close harder when frustrated, shorten sessions and check sleep and hunger — not a dominance battle.
 
-**Gentle exposure principles (not a full socialisation protocol):**
+**Gentle exposure (Dogs Trust puppy 101 + welfare defaults):**
+
+Dogs Trust advises going at **your puppy’s pace** with **rewards they like** — needs differ by individual (`book-research-dt-puppy-pace`, `book-research-src-dt-puppy-training`). DEFRA-aligned rule: avoid frightening or harsh methods (`book-research-defra-002-avoid-harsh`).
 
 - **Quality over quota.** One calm, positive experience beats ten overwhelming ones.  
-- **Distance and choice.** Let the puppy observe scary things from far enough to stay loose; do not lure them into strangers’ laps.  
+- **Distance and choice.** Observe from far enough to stay loose; do not lure into strangers’ laps.  
 - **Pair novelty with pay** — treats, play, retreat — not forced petting.  
-- **Sounds and surfaces:** introduce at low volume and optional approach; **never** flood with fireworks playlists or “throw them in” mantras.
+- **Sounds and surfaces:** low volume, optional approach, escape route; **never** flood with fireworks playlists or “throw them in” mantras.  
+- **Puppy class:** a reward-based class is still worth it — this book complements, not replaces, hands-on help.
 
-**E5 boundary:** Detailed puppy socialisation and sound-habituation **owner protocols** are withheld until qualified review (`research/e5-reviewer-questions.md` — habituation vs counter-conditioning, DIY flooding). This section states **principles only**; do not treat this book as a substitute for a reviewed socialisation plan or puppy class with a reward-based trainer.
+If exposure goes wrong (panic, shutdown), **stop**, simplify, speak to your vet or a qualified trainer — not louder socialisation.
 
 ### Train yourself
 
@@ -111,6 +114,6 @@ Whichever stage you are in, the question is the same: *what is fair to ask today
 
 ## Chapter notes
 
-1. Puppy socialisation/sounds: **E5** — principles only in §1; no reviewed protocol in this draft.  
+1. Puppy pace/exposure: `book-research-dt-puppy-pace`, DEFRA avoid harsh; `method-decisions-from-sources.md`.  
 2. Adolescent and rescue framing adapted from project guides; not a unified timeline checklist.  
 3. App sources: `ex-toilet-routine`, `ex-puppy-mouthing`, `ex-puppy-surfaces` — principles referenced, not verbatim lesson copy.

@@ -25,9 +25,11 @@ The door is not a test of rank. It is a **safety pinch point**: darting into tra
 - **Do:** Learn wait behind barrier, or go to mat when bell rings, at sub-threshold excitement first.  
 - **Don't:** Learn that bolting works because someone always chases.
 
-## Section 2 — Greetings: management-first only
+## Section 2 — Greetings and visitors
 
-**Goal:** Everyone stays safe and below threshold. You are **not** running a full guest-training choreography in this book version — no flooding, no “make them say hello to fix fear,” no multi-person drills until qualified review expands §2.
+**Sources:** Dogs Trust visitor training (`book-research-src-dt-visitor-training`, verified 2026-10-18) plus threshold management when the dog is worried.
+
+**Goal:** Calm arrivals — not forced face-to-face hellos. If the dog is over threshold, **abort** (distance, guest leaves, try another day) even if you have not finished the polite script.
 
 **Default setup:**
 
@@ -56,7 +58,13 @@ No child carriers, no leaning over, no “dogs love me” exceptions.
 - **Do:** Learn that staying back or looking at you can pay; experience guests as **optional**, not mandatory assault.  
 - **Don't:** Rehearse full-contact greetings while over threshold; learn that growling is ignored until snap.
 
-**What we are not rehearsing yet (E5):** expanded helper protocols, face-to-face flooding, or step-by-step “calm greeting” sequences copied from app content (`ex-greeting-calm` withheld). See `research/e5-reviewer-questions.md` for review scope.
+**Dogs Trust-style progression (when the dog is sub-threshold):**
+
+1. **Desensitise knock/bell** — quiet table knock, then louder; then real door with helper; reward calm (`book-research-dt-visitor-bed-knock`).  
+2. **Bed cue** — knock means go to bed for long-lasting chew; guest enters while dog settles; clear release word before approach.  
+3. **Real guests** — same routine; optional meet if dog is soft; jump-up and barking sections on DT site if needed.
+
+**Hard stop:** stiffening, growling, or unable to eat → management-only (gate, separate room, no guest contact). No flooding to “socialise.”
 
 ## Section 3 — Gentle handling for vet and groom prep
 
@@ -96,6 +104,6 @@ Life-stage chapters come next: puppies, teenagers, and rescues each need differe
 
 ## Chapter notes
 
-1. Management-first greetings scope per E5 (`research/e5-reviewer-questions.md` — ch11 §2); no flooding protocol in this draft.  
+1. Visitor/greeting steps: `book-research-dt-visitor-bed-knock`; abort over threshold; `method-decisions-from-sources.md`.  
 2. Avoid harsh corrections on fear-related behaviour: DEFRA-aligned tone (`book-research-defra-002-avoid-harsh`).  
 3. §3 handling: adapt conceptually from `ex-handling-touch`; intensity review recommended before print.

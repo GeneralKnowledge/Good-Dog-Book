@@ -55,9 +55,19 @@ Each material claim gets a row in [`source-register.md`](source-register.md) wit
 - **Back matter:** Full reference list.  
 - **Maintainer:** `source-register.md` maps claims → chapters.
 
+## Resolving method blockers (book policy)
+
+When Good Dog app/KB audits conflict with **verified public guidance** (Dogs Trust, RSPCA, DEFRA, ABTC pages logged in [`source-register.md`](source-register.md)):
+
+1. **Draft from the public guidance** at E2 unless disputed in [`disagreements.md`](disagreements.md).  
+2. Do **not** copy unaudited app exercise steps as evidence.  
+3. Record the choice in [`method-decisions-from-sources.md`](method-decisions-from-sources.md).
+
+E5 applies when **no** reputable source is available — not when research has already verified one.
+
 ## Qualified review
 
-Subjects requiring documented professional review before final manuscript are listed in [`editorial/qualified-review-plan.md`](../editorial/qualified-review-plan.md).
+**Recommended** before print for some topics — see [`editorial/qualified-review-plan.md`](../editorial/qualified-review-plan.md). Mandatory review is **not** required to draft when E2+ claims cover the section (author decision 2026-10-18).
 
 ## Citation independence
 
@@ -72,6 +82,6 @@ When citing IMDT, ABTC, RSPCA, Dogs Trust, or DEFRA guidance, prose must make cl
 
 ## Preventing unsupported claims at final audit
 
-- Chapter briefs list required `claim_id`s; sections blocked if any dependency is `blocked-professional-review`.  
+- Chapter briefs list required `claim_id`s; sections blocked if any dependency is E5 **with no verified source row**.  
 - Grep banned patterns (see `writing/HOUSE_STYLE.md`).  
 - Final pass: every `EVIDENCE:E5` flag in manuscript resolved or removed.
