@@ -6,7 +6,7 @@
 **Branch at inspection:** `cursor/book-foundation-stage-b-5834` (clean working tree; no changes since foundation PR)  
 **Scope:** Editorial stress test of Stages B–D. No manuscript drafted. Author gates G1–G4 remain **pending**.
 
-**Follow-up on main (2026-10-18):** P0-1 (ch12 before Live) and P1-1 (loop + five checks + **Training the Human** mantra) implemented — see [`architecture/CHAPTER_MAP.md`](../architecture/CHAPTER_MAP.md) and [`proposition/proposition.md`](../proposition/proposition.md). Treat table rows below as **historical findings** unless marked open.
+**Follow-up on main (2026-10-18):** P0-1 (ch12 before Live) and P1-1 (loop + five checks + **Training the Human** mantra) implemented — see [`architecture/CHAPTER_MAP.md`](../architecture/CHAPTER_MAP.md) and [`proposition/proposition.md`](../proposition/proposition.md). **G1–G4 approved** from those decisions plus research sprint — see [`research/foundation-gates.md`](../research/foundation-gates.md). Treat table rows below as **historical findings** unless marked open.
 
 ---
 

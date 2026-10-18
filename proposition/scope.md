@@ -1,6 +1,6 @@
 # Scope and boundaries
 
-**Status:** Living document (Stage B). **Author gate G1.**
+**Status:** Living document (Stage B). **G1 approved** — see [`research/foundation-gates.md`](../research/foundation-gates.md).
 
 ## Feasibility in one volume
 
@@ -54,10 +54,10 @@ The subtitle frame and repeatable mantra (“Make it easier — then ask again.�
 
 ## Companion product (decision)
 
-**Recommendation:** Book stands alone; optional short appendix or back-cover note referencing Good Dog as a practice companion. **Author to confirm** before publication copy.
+**Decision (G1):** Book stands alone; optional short appendix or back-cover note referencing Good Dog as a practice companion. Final publication copy still TBD in [`research/open-questions.md`](../research/open-questions.md).
 
 ## Success criteria for scope lock
 
-- [ ] Author confirms primary reader and UK-first orientation  
-- [ ] Author confirms out-of-scope list or requests one inclusion with corresponding scope cut elsewhere  
-- [ ] Author confirms companion-app mention preference  
+- [x] Primary reader and UK-first orientation — confirmed via foundation gates  
+- [x] Out-of-scope list accepted for one-book plan — no extra inclusions requested  
+- [x] Companion-app mention — standalone + optional back matter pointer (default)  

@@ -65,6 +65,7 @@
 | claim-hiby-001-reward-obedience-correlation | E1 | draft | ch02 optional | Survey; E3 for individual dogs |
 | book-claim-loose-lead-method | E5 | blocked-professional-review | ch10 §3 | See `e5-reviewer-questions.md` |
 | book-claim-owner-mantra | E4 | draft | ch01, ch04, ch06, ch14 | Pedagogical device “Make it easier — then ask again.” |
+| book-claim-ch12-stress-charity | E2 | draft | ch12 | Charity stress/body-language pages — URLs to be logged at draft |
 
 ## Good Dog / app-derived (not evidence)
 

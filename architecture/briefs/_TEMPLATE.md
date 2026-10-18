@@ -16,6 +16,10 @@ Copy to `chNN.md` when adding chapters.
 
 Reader can …
 
+## Prerequisites (reading order)
+
+Which chapters must be read first — see [`CHAPTER_MAP.md`](../CHAPTER_MAP.md) read #.
+
 ## Prerequisites (reader knowledge)
 
 - 

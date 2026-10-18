@@ -1,0 +1,64 @@
+# Foundation gates G1–G4 — approval record
+
+**Date:** 2026-10-18  
+**Basis:** Author decisions (loop + read order), Phase 2 foundation challenge, research sprint, and living foundation documents — not a separate questionnaire.
+
+Gates approve **foundation for drafting**. They do **not** approve E5 method text, qualified review, or publication legal clearance.
+
+## G1 — Proposition and scope
+
+**Status:** **Approved**
+
+| Decision | Source |
+| --- | --- |
+| Primary reader: ordinary UK-oriented owners, not pro trainers | [`proposition/scope.md`](../proposition/scope.md) |
+| One-book scope; specialist topics referral-only | `scope.md` out-of-scope table |
+| UK-first; law/equipment at high level | `scope.md` in-scope |
+| Companion app: standalone book; optional back matter pointer (default) | Phase 2 §G default; [`scope.md`](../proposition/scope.md) companion section |
+| Working title *Good Dog: Training the Human* (Option A) | [`proposition/proposition.md`](../proposition/proposition.md) |
+
+Publication wording (final subtitle, back-cover copy) remains an open product question in [`open-questions.md`](open-questions.md).
+
+## G2 — Evidence policy
+
+**Status:** **Approved**
+
+| Decision | Source |
+| --- | --- |
+| E1–E5 classes; welfare severity separate | [`evidence-policy.md`](evidence-policy.md) |
+| Claim register + sprint verification | [`source-register.md`](source-register.md), [`research-sprint-log.md`](research-sprint-log.md) |
+| Citation independence (no implied endorsement) | `evidence-policy.md` § Citation independence |
+| E5 / section reds documented | [`chapter-coverage-matrix.md`](chapter-coverage-matrix.md), [`e5-reviewer-questions.md`](e5-reviewer-questions.md) |
+
+Drafting may proceed for green/amber chapters; blocked sections stay blocked per matrix.
+
+## G3 — Chapter architecture
+
+**Status:** **Approved**
+
+| Decision | Source |
+| --- | --- |
+| Fourteen chapters retained | [`architecture/CHAPTER_MAP.md`](../architecture/CHAPTER_MAP.md) |
+| Read order: ch12 before Part III Live | Author decision 2026-10-18; Phase 2 P0-1 resolved |
+| Teaching loop + five checks + Training the Human | [`proposition/proposition.md`](../proposition/proposition.md) |
+| ch11 greetings management-first until review | [`architecture/briefs/ch11.md`](../architecture/briefs/ch11.md) |
+| Per-chapter readiness | [`chapter-coverage-matrix.md`](chapter-coverage-matrix.md) |
+
+## G4 — Voice calibration
+
+**Status:** **Approved**
+
+| Decision | Source |
+| --- | --- |
+| Warm, witty, welfare-serious voice brief | [`writing/VOICE_BRIEF.md`](../writing/VOICE_BRIEF.md) |
+| Mantra + tagline rules | `VOICE_BRIEF.md`, [`continuity/terminology.md`](../continuity/terminology.md) |
+| Samples (instructional includes mantra) | [`writing/calibration/`](../writing/calibration/) |
+| Phase 2 voice verdict: conditionally ready — conditions met | [`editorial/2026-10-18-foundation-challenge-report.md`](../editorial/2026-10-18-foundation-challenge-report.md) |
+
+---
+
+## What approval allows
+
+- **Stage E** may begin with **ch01** and other **green/amber** chapters in the coverage matrix.  
+- **Do not** draft **red** sections (ch09 §3, ch10 §3, ch11 §2 expansion, ch13 §1) until qualified review or scope rules in briefs.  
+- Amend gates only if foundation documents change materially.

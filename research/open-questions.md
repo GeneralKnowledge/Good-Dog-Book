@@ -4,7 +4,7 @@
 
 ## Scope and product
 
-- [ ] **Companion app mention:** Standalone only vs optional Good Dog pointer (`proposition/scope.md`)
+- [x] **Companion app mention (G1):** Standalone book; optional back matter pointer — publication copy TBD
 - [ ] **Display title:** Confirmed working pattern *Good Dog: Training the Human* — final subtitle wording for publication
 
 ## Evidence and sources
@@ -32,8 +32,8 @@
 ## Voice / brand
 
 - [x] **Training the Human** — Option A subtitle + in-book concept (`proposition/proposition.md`)
-- [x] **Owner mantra** — M2 + M4 tagline adopted pending author gate G4
-- [ ] **Author gate G4:** Calibration samples — mantra line added to instructional sample
+- [x] **Owner mantra** — M2 + M4 tagline adopted (G4)
+- [x] **G4 calibration** — instructional sample includes mantra; gates in [`foundation-gates.md`](foundation-gates.md)
 
 ## Resolved (foundation pass)
 

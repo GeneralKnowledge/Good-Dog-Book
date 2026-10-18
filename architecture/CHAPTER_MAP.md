@@ -1,6 +1,6 @@
 # Chapter map (hypothesis)
 
-**Status:** Stage C — architecture only, no manuscript. **Author gate G3.**
+**Status:** Stage C — architecture only, no manuscript. **G3 approved** — see [`research/foundation-gates.md`](../research/foundation-gates.md).
 
 **Drafting rule:** One chapter at a time in Stage E, only after G1–G4 approval. Each chapter must satisfy the [contribution test](#contribution-test).
 

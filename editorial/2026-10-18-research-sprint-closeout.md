@@ -16,8 +16,8 @@
 
 ## Author gates
 
-G1–G4 remain **pending** — sprint does not equal approval.
+G1–G4 **approved** 2026-10-18 on research + prior decisions — see [`research/foundation-gates.md`](../research/foundation-gates.md).
 
 ## Next milestone
 
-Author confirms G1–G3 (and G4 if satisfied with updated calibration sample) → Stage E **ch01**.
+Stage E **ch01** (and other green/amber sections per coverage matrix).

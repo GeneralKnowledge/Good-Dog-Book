@@ -1,6 +1,6 @@
 # Voice brief
 
-**Status:** Stage D. **Author gate G4** applies to calibration samples.
+**Status:** Stage D. **G4 approved** — see [`research/foundation-gates.md`](../research/foundation-gates.md).
 
 ## Positioning
 

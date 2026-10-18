@@ -2,7 +2,7 @@
 
 | If you need… | Go to… |
 | --- | --- |
-| Project status and gates | [`STATUS.md`](../STATUS.md) |
+| Project status and gates | [`STATUS.md`](../STATUS.md), [`research/foundation-gates.md`](../research/foundation-gates.md) |
 | Reader, promise, voice | [`proposition/proposition.md`](../proposition/proposition.md) |
 | In/out of scope | [`proposition/scope.md`](../proposition/scope.md) |
 | Evidence classes and verification | [`research/evidence-policy.md`](../research/evidence-policy.md) |

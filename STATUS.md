@@ -1,6 +1,6 @@
 # Project status
 
-**Last updated:** 2026-10-18 (research sprint + Training the Human)  
+**Last updated:** 2026-10-18 (G1–G4 approved on research + prior decisions)  
 **Branch workflow:** Feature work on `cursor/*-5834`; merge via PR.
 
 ## Current stage
@@ -12,21 +12,23 @@
 | B+ | Research sprint (book-owned verification) | **Complete** (2026-10-18) |
 | C | Architecture and chapter design | **Complete** (hypothesis TOC + briefs) |
 | D | Voice and templates | **Complete** (brief + calibration samples) |
-| E | First manuscript | **Not started** |
+| E | First manuscript | **Ready to start** (see gates below) |
 | F | Whole-manuscript diagnosis | Not started |
 | G | Targeted revision passes | Not started |
 | H | Cold read and final audit | Not started |
 
 ## Author approval gates
 
+Recorded in [`research/foundation-gates.md`](research/foundation-gates.md). Approved from **documented author decisions**, Phase 2 challenge resolutions, and **research sprint** — not ad hoc.
+
 | Gate | Question | Status |
 | --- | --- | --- |
-| G1 | Scope and primary reader (`proposition/scope.md`) | **Pending author** |
-| G2 | Evidence policy (`research/evidence-policy.md`) | **Pending author** |
-| G3 | Chapter architecture (`architecture/CHAPTER_MAP.md`) | **Pending author** |
-| G4 | Voice calibration (`writing/calibration/`) | **Pending author** |
+| G1 | Scope and primary reader (`proposition/scope.md`) | **Approved** (2026-10-18) |
+| G2 | Evidence policy (`research/evidence-policy.md`) | **Approved** (2026-10-18) |
+| G3 | Chapter architecture (`architecture/CHAPTER_MAP.md`) | **Approved** (2026-10-18) |
+| G4 | Voice calibration (`writing/calibration/`) | **Approved** (2026-10-18) |
 
-Do **not** begin Stage E (chapter drafting) until G1–G4 are approved or amended.
+**Stage E:** May begin with **ch01** and other green/amber chapters in [`research/chapter-coverage-matrix.md`](research/chapter-coverage-matrix.md). **Red** sections remain blocked until qualified review (see below).
 
 ## Author decisions recorded (2026-10-18)
 

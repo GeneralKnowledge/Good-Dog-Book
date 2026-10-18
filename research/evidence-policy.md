@@ -1,6 +1,6 @@
 # Evidence policy
 
-**Status:** Living document (Stage B). **Author gate G2.**
+**Status:** Living document (Stage B). **G2 approved** — see [`foundation-gates.md`](foundation-gates.md).
 
 This policy governs factual, welfare, and safety claims in the manuscript. It adapts the certainty discipline used in the Ides project (`A/B/C/D`) to practical nonfiction.
 
