@@ -44,7 +44,7 @@ Secondary readers (experienced owners, new puppy guardians, rescue adopters) are
 
 ## Training the Human / owner mantra
 
-The subtitle frame and repeatable mantra (“Make it easier — then ask again.”) teach **owner habit change**. They are not clinical advice, guarantees, or a substitute for vet or behaviourist assessment.
+The subtitle is **humour and wit** (owners as the trainee in the joke). The mantra (“Make it easier — then ask again.”) teaches **owner habit change**. Neither is clinical advice, a guarantee, or a substitute for vet or behaviourist assessment.
 
 ## Good Dog app content
 
@@ -54,7 +54,7 @@ The subtitle frame and repeatable mantra (“Make it easier — then ask again.�
 
 ## Companion product (decision)
 
-**Decision (G1):** Book stands alone; optional short appendix or back-cover note referencing Good Dog as a practice companion. Final publication copy still TBD in [`research/open-questions.md`](../research/open-questions.md).
+**Decision (G1):** Book stands alone; optional short appendix or back-cover note referencing Good Dog as a practice companion. Publication marketing polish: [`research/decision-register.md`](../research/decision-register.md).
 
 ## Success criteria for scope lock
 

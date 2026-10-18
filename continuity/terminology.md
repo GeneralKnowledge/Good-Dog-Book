@@ -4,8 +4,8 @@
 
 | Term | Use | Avoid |
 | --- | --- | --- |
-| Training the Human | Book subtitle / concept (capitalised) | Implying certified “human training” programme |
-| Train the human first | Tagline | Every paragraph |
+| Training the Human | Subtitle / in-book **wit** (capitalised) | Certified “human training” programme; sneering at owners |
+| Train the human first | Comic tagline (sparing) | Every paragraph; jokes about fear or pain |
 | Make it easier — then ask again. | Owner mantra when stuck | Promising it fixes all behaviour problems |
 | Good human. | Quiet self-marker after adjusting plan | Said at the dog in mockery |
 | Lead | UK default | Leash (unless quoting US source) |
@@ -24,7 +24,6 @@
 
 When drafting, cross-check Good Dog glossary ids in `sources` pin — prefer book definitions in plain English; import technical ids only when needed.
 
-## Open terminology decisions
+## Terminology decisions (2026-10-18)
 
-- [ ] “Clicker” vs “marker word” prominence in early chapters  
-- [ ] Translate or retain “negative reinforcement” in glossary (educational caution)
+Recorded in [`research/decision-register.md`](../research/decision-register.md): **marker word / yes word** primary; clicker optional sidebar; **negative reinforcement** in glossary with plain English + caution.

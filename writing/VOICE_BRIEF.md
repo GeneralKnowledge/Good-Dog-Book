@@ -33,10 +33,15 @@ Write as a knowledgeable friend who has mud on their shoes and treats on their j
 - No guilt trips when readers struggle  
 - Referral without shame: “This is the sensible next step.”
 
+## Training the Human (brand wit)
+
+- **Training the Human** / *Train the human first* — **humour and wit**: the owner is often the slow learner in the room. Warm, precise absurdity (mud, cheese, Tuesday rain), not mockery of fear or distress.  
+- Use the tagline **sparingly** (openings, part heads, one earned callback) — if it stops being funny, cut it.  
+- The **mantra** carries the teaching weight; the tagline carries the smile.
+
 ## Owner mantra
 
 - Everyday stall phrase: **“Make it easier — then ask again.”** (see `proposition/proposition.md`)  
-- Tagline **“Train the human first”** — use sparingly (openings, part heads), not every section  
 - Optional **“Good human.”** when the *owner* fixes setup — never sarcastically at the dog  
 - **Do not** repeat the same bold mantra line at every chapter close; vary prose (Phase 2 P2-1)
 

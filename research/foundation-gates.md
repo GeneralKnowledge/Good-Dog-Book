@@ -1,7 +1,7 @@
 # Foundation gates G1–G4 — approval record
 
 **Date:** 2026-10-18  
-**Basis:** Author decisions (loop + read order), Phase 2 foundation challenge, research sprint, and living foundation documents — not a separate questionnaire.
+**Basis:** Author decisions (loop + read order), Phase 2 foundation challenge, research sprint, and living foundation documents — not a separate questionnaire. Other Q&A uses the same traceability in [`decision-register.md`](decision-register.md).
 
 Gates approve **foundation for drafting**. They do **not** approve E5 method text, qualified review, or publication legal clearance.
 
@@ -15,9 +15,9 @@ Gates approve **foundation for drafting**. They do **not** approve E5 method tex
 | One-book scope; specialist topics referral-only | `scope.md` out-of-scope table |
 | UK-first; law/equipment at high level | `scope.md` in-scope |
 | Companion app: standalone book; optional back matter pointer (default) | Phase 2 §G default; [`scope.md`](../proposition/scope.md) companion section |
-| Working title *Good Dog: Training the Human* (Option A) | [`proposition/proposition.md`](../proposition/proposition.md) |
+| Working title *Good Dog: Training the Human* (Option A; subtitle wit) | [`proposition/proposition.md`](../proposition/proposition.md) |
 
-Publication wording (final subtitle, back-cover copy) remains an open product question in [`open-questions.md`](open-questions.md).
+Publication marketing polish is **deferred** (does not block drafting) in [`decision-register.md`](decision-register.md).
 
 ## G2 — Evidence policy
 
@@ -51,7 +51,7 @@ Drafting may proceed for green/amber chapters; blocked sections stay blocked per
 | Decision | Source |
 | --- | --- |
 | Warm, witty, welfare-serious voice brief | [`writing/VOICE_BRIEF.md`](../writing/VOICE_BRIEF.md) |
-| Mantra + tagline rules | `VOICE_BRIEF.md`, [`continuity/terminology.md`](../continuity/terminology.md) |
+| Mantra + tagline (wit, sparing) | `VOICE_BRIEF.md`, [`continuity/terminology.md`](../continuity/terminology.md); author clarification 2026-10-18 |
 | Samples (instructional includes mantra) | [`writing/calibration/`](../writing/calibration/) |
 | Phase 2 voice verdict: conditionally ready — conditions met | [`editorial/2026-10-18-foundation-challenge-report.md`](../editorial/2026-10-18-foundation-challenge-report.md) |
 

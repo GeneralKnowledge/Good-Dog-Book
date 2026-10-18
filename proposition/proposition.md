@@ -5,7 +5,7 @@
 
 ## Working title
 
-**Good Dog: Training the Human** (working title — Option A: subtitle / series frame; display wording subject to author approval)
+**Good Dog: Training the Human** (working title — Option A: subtitle / series frame; adds a wink, not a second syllabus)
 
 The companion app remains [*Good Dog*](https://github.com/GeneralKnowledge/Good-Dog); this book is a standalone work.
 
@@ -41,11 +41,13 @@ Before repeating a cue louder or assuming the dog is “being difficult”, chec
 
 ch01 frames the **fair contract** (clarity, kindness, honest stop); the **loop and checks** are what owners *do*. ch12 deepens **comfort** and reading stress without playing vet.
 
-## Training the Human (meta-frame)
+## Training the Human (wit + habit)
 
-This book trains **you** before it trains the dog — on purpose. Dogs learn through consequences; so do owners. When you adjust setup, reward, criteria, or context, you are doing the same kind of learning you ask of your dog: clear cues, fair pay, honest stops.
+**Training the Human** is the book’s gentle joke: in most kitchens the dog learns faster than the person with the treat bag. The subtitle is there for **humour and wit** — self-aware, warm, never sneering at a struggling owner.
 
-**Tagline:** *Train the human first.*
+Under the joke sits a real habit: dogs learn through consequences; so do owners. When you adjust setup, reward, criteria, or context, you are doing the same kind of learning you ask of your dog: clear cues, fair pay, honest stops.
+
+**Tagline (comic, sparing):** *Train the human first.*
 
 ### Owner mantra (repeat when stuck)
 

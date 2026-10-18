@@ -7,7 +7,8 @@
 | In/out of scope | [`proposition/scope.md`](../proposition/scope.md) |
 | Evidence classes and verification | [`research/evidence-policy.md`](../research/evidence-policy.md) |
 | Claim and source register | [`research/source-register.md`](../research/source-register.md) |
-| Open research questions | [`research/open-questions.md`](../research/open-questions.md) |
+| Decisions (gates method) | [`research/foundation-gates.md`](../research/foundation-gates.md), [`research/decision-register.md`](../research/decision-register.md) |
+| True open unknowns | [`research/open-questions.md`](../research/open-questions.md) |
 | Good Dog audit vs current code | [`research/good-dog-gap-reconciliation.md`](../research/good-dog-gap-reconciliation.md) |
 | Research sprint (2026-10-18) | [`research/research-sprint-brief.md`](../research/research-sprint-brief.md), [`research/chapter-coverage-matrix.md`](../research/chapter-coverage-matrix.md) |
 | E5 reviewer questions | [`research/e5-reviewer-questions.md`](../research/e5-reviewer-questions.md) |

@@ -34,8 +34,9 @@ Recorded in [`research/foundation-gates.md`](research/foundation-gates.md). Appr
 
 - **Method:** Teaching loop + five checks; “shrink the world” for context (`proposition/proposition.md`).  
 - **Read order:** ch12 before Part III Live (`architecture/CHAPTER_MAP.md`).  
-- **Brand (Option A):** *Good Dog: Training the Human* — subtitle / series frame.  
-- **Mantra:** “Make it easier — then ask again.” Tagline: “Train the human first.”  
+- **Brand (Option A):** *Good Dog: Training the Human* — subtitle wit, not a second syllabus.  
+- **Mantra:** “Make it easier — then ask again.” **Tagline (humour):** “Train the human first.”  
+- **All other Q&A:** [`research/decision-register.md`](research/decision-register.md) (same method as gates).  
 - **Research sprint:** [`research/chapter-coverage-matrix.md`](research/chapter-coverage-matrix.md) — ch01–ch08/ch12 green or amber; section reds on ch09–11, ch13.
 
 ## Upstream pins

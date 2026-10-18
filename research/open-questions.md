@@ -1,43 +1,20 @@
 # Open questions
 
-**Purpose:** Track unresolved research and editorial questions. Do **not** fill gaps in the manuscript with plausible guesses.
+**Purpose:** Flag **true unknowns** that still need new evidence or qualified review. Everything else lives in the [**decision register**](decision-register.md) (same method as [foundation gates](foundation-gates.md): decided, deferred with a rule, or blocked — **not** ad hoc checklists).
 
-## Scope and product
+## Still open (do not invent in prose)
 
-- [x] **Companion app mention (G1):** Standalone book; optional back matter pointer — publication copy TBD
-- [ ] **Display title:** Confirmed working pattern *Good Dog: Training the Human* — final subtitle wording for publication
+| Area | Question | Status | Where tracked |
+| --- | --- | --- | --- |
+| E5 method | Loose-lead, recall distraction, greetings protocol expansion, leave-it scope, puppy socialisation/sounds | **Blocked** — qualified review | [`e5-reviewer-questions.md`](e5-reviewer-questions.md), [`decision-register.md`](decision-register.md) |
+| Publication | Final trade subtitle / back-cover marketing polish | **Deferred** — does not block drafting | [`decision-register.md`](decision-register.md) |
+| Pre-print | Manual URL re-check (IMDT 403, BVA/RSPCA paths) | **Rule at draft/print** | [`decision-register.md`](decision-register.md), [`research-sprint-log.md`](research-sprint-log.md) |
+| Legal | Long quotation / endorsement beyond paraphrase | **Deferred to publication legal** | [`evidence-policy.md`](evidence-policy.md) |
 
-## Evidence and sources
+## Resolved via decision register (2026-10-18)
 
-- [ ] **Legal/display eligibility:** DogResearch sources marked `paraphrase_ok_pending_legal` — confirm reuse approach for book citations
-- [x] **Re-verify DEFRA Code of Practice** — GOV.UK page live 2026-10-18 (`book-research-src-defra-dog-code`)
-- [ ] **IMDT Code of Ethics URL** — automated 403; manual browser verify before print
-- [ ] **BVA abnormal behaviour URL** — 404 on attempted policy path; find current BVA page or omit
-- [ ] **RSPCA handling URL** — 404; use Dogs Trust handling at draft or omit until sourced
-- [ ] **ch12 stress sources** — add Blue Cross/PDSA URLs when drafting (not in pin)
+Companion app mention, display title for drafting, Training the Human / mantra / tagline (wit), architecture, multi-dog scope, DEFRA verify, marker vs clicker, glossary handling for negative reinforcement, paraphrase approach for ethics sources — see [`decision-register.md`](decision-register.md).
 
-## Method (E5 until qualified review)
+## Historical
 
-- [ ] **Loose-lead method** — see [`e5-reviewer-questions.md`](e5-reviewer-questions.md)
-- [ ] **Leave-it** — scope cut vs qualified protocol
-- [ ] **Calm greetings** — management-first in ch11 until review
-- [ ] **Recall with mild distraction** — ch09 §3
-- [ ] **Puppy sound exposure / socialisation** — ch13 §1
-
-## Architecture
-
-- [x] **Multi-dog households** — brief mention in ch14 only (`chapter-coverage-matrix.md`)
-- [x] **Chapter count** — fourteen retained; read order includes ch12 before Live
-
-## Voice / brand
-
-- [x] **Training the Human** — Option A subtitle + in-book concept (`proposition/proposition.md`)
-- [x] **Owner mantra** — M2 + M4 tagline adopted (G4)
-- [x] **G4 calibration** — instructional sample includes mantra; gates in [`foundation-gates.md`](foundation-gates.md)
-
-## Resolved (foundation pass)
-
-- [x] Repository structure and evidence class system defined
-- [x] Primary reader and one-book scope hypothesis documented
-- [x] Upstream commits pinned in `sources/PINNED_COMMITS.json`
-- [x] Research sprint coverage matrix and spine claim IDs for ch04–ch07
+Foundation structure, evidence classes, reader scope, upstream pins, research sprint matrix — logged in register + [`research-sprint-log.md`](research-sprint-log.md).
