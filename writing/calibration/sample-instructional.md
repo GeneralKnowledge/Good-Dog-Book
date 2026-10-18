@@ -13,6 +13,10 @@ Here’s the whole game in one loop: **make it easy, mark the moment, pay genero
 **Look for:** Eager approach, soft body, willing repeats.  
 **Stop if:** They turn away, freeze, or start scanning for exits. Smaller steps, better rewards, or a break — not louder cues.
 
-If you’re about to repeat the cue like a broken car alarm, try the owner mantra first: **make it easier — then ask again.** That’s you training the human.
+If you’re about to repeat the cue like a broken car alarm, that’s not the dog failing — that’s **you** overheating. Try the owner mantra first: **make it easier — then ask again.** End on a small win or walk away; tomorrow’s you will have a longer fuse.
+
+**Train yourself — Do:** one cue, mark, pay, release, stop early. **Don't:** repeat the cue until the cheese runs out.
+
+**Train the dog — Do:** learn “this movement → that sound → food.” **Don't:** learn “cue noise means nothing until Mum shouts.”
 
 That’s it. No mystique. Just clear cause and effect, with kindness built in.

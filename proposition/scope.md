@@ -44,7 +44,7 @@ Secondary readers (experienced owners, new puppy guardians, rescue adopters) are
 
 ## Training the Human / owner mantra
 
-The subtitle is **humour and wit** (owners as the trainee in the joke). The mantra (“Make it easier — then ask again.”) teaches **owner habit change**. Neither is clinical advice, a guarantee, or a substitute for vet or behaviourist assessment.
+The subtitle is **humour and wit** (owners as the trainee in the joke). The mantra and **Train yourself** blocks teach **owner habit change** — especially catching frustration before it becomes harsher training. Stealth self-help, not therapy copy. Neither is clinical advice, a guarantee, or a substitute for vet or behaviourist assessment.
 
 ## Good Dog app content
 

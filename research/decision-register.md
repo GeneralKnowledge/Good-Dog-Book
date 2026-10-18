@@ -107,6 +107,7 @@ Reviewer deliverable: owner steps + stop rules per section → log in [`source-r
 | Decision | Source |
 | --- | --- |
 | Every major topic: **Train yourself** and **Train the dog**, each with **Know / Do / Don't** | Author request; [`writing/dual-track-pattern.md`](../writing/dual-track-pattern.md) |
+| **Train yourself** primary aim: reduce owner **frustration / stress / impatience** leaking into training — stealth self-help in dog-training clothes | Author 2026-10-18; [`proposition/proposition.md`](../proposition/proposition.md), [`writing/VOICE_BRIEF.md`](../writing/VOICE_BRIEF.md) |
 | Introduce in ch01; install in ch04; repeat Part III | [`architecture/briefs/ch01.md`](../architecture/briefs/ch01.md), [`ch04.md`](../architecture/briefs/ch04.md) |
 
 ### Terminology choices

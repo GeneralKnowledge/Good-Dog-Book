@@ -5,6 +5,8 @@
 
 For each **topic** (skill, habit, or problem slice), give **both** sides. The subtitle joke lands here: you and the dog are learning different jobs in the same scene.
 
+**Primary job of Train yourself:** Steer the owner away from **frustration, stress, and impatience** becoming training method. The book is a dog manual on the surface; **Train yourself** is where the stealth self-help lives — without calling it that on the page.
+
 ## Section heads (use as-is in manuscript)
 
 ```markdown
@@ -27,7 +29,7 @@ British English; sentence case after the bold label.
 
 | Track | Know | Do | Don't |
 | --- | --- | --- | --- |
-| **Train yourself** | What you need to understand before you cue (setup, timing, expectations, when to manage instead) | Concrete owner actions (environment, reward choice, one criterion, mark/pay, stop rules) | Owner habits that wreck training (repeat cue, bribe after refusal, train through freeze, blame “stubborn”) |
+| **Train yourself** | Setup, timing, expectations — and **what your frustration is telling you** (usually “too hard / too long / wrong moment”) | Environment, reward, one criterion, mark/pay, **pause or end session**, choose manage over drill | Train while hot: repeat cue, nag, corner the dog, “one more” when you’re done, blame “stubborn”, compare to other dogs |
 | **Train the dog** | What the dog is learning *from their side* (association, not morality); readiness / stress note if relevant | What you’re teaching *right now* (behaviour, cue, release); keep one skill per block | Dog-facing mistakes *you* cause (flooding, unclear criteria, poisoned cue) — still written to the owner |
 
 **Train the dog** is not anthropomorphism for comedy. It is “what the dog’s job is in this exercise” vs “what your job is.”
@@ -44,9 +46,14 @@ Skip dual-track only for short transitions (< ~200 words) or pure narrative open
 
 ## Voice
 
-- **Train yourself** may use dry wit; **Don't** is blunt, not shaming.  
+- **Train yourself** = dry wit + **honest owner feelings** (embarrassment, hurry, envy of the perfect spaniel). Name impatience; offer an exit ramp. Not therapy-speak — “You’re allowed to stop.”  
+- **Don't** is blunt, not shaming: forbidden behaviours are **doing something to the dog while dysregulated**, not “being a bad person.”  
 - **Train the dog** stays plain and observational — no “naughty”, “dominant”, or guilt.  
 - If a topic is **management-only** (E5 greetings), **Train the dog** becomes “what we’re *not* rehearsing yet” plus manage/prevent.
+
+## Reflective beats (optional, short)
+
+One sentence in **Train yourself — Know** or Troubleshooting is enough: “If you feel yourself speeding up, that’s a cue for *you*.” Do not turn chapters into mindfulness workbooks.
 
 ## Brief and register
 

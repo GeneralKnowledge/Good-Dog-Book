@@ -6,13 +6,15 @@
 
 Write as a knowledgeable friend who has mud on their shoes and treats on their jumper — not as a lecturer, not as a dominance coach, not as a breathless influencer.
 
+**Stealth self-help:** In many sections the real lesson is **don’t take your bad day out on the dog** — notice frustration, impatience, and stress, then simplify, pause, or manage. Dog-training prose on the outside; owner emotional hygiene on the inside. Never label it “self-help” in the manuscript unless the tone would make the reader smirk.
+
 ## Registers
 
 | Register | Use |
 | --- | --- |
 | Conversational | Default narration and explanation |
 | Instructional | Numbered steps, second person “you”, imperative verbs |
-| Reflective | Short asides on owner feelings — never mocking |
+| Reflective | Short asides on **your** hurry, shame, or snap — normalise, then redirect to action; never mocking |
 | Comic | Understatement, precise observation of dog-human absurdity |
 
 ## Sentence craft
@@ -36,6 +38,7 @@ Write as a knowledgeable friend who has mud on their shoes and treats on their j
 ## Dual track (train yourself / train the dog)
 
 - Default structure for skills and takeaways — see [`dual-track-pattern.md`](dual-track-pattern.md).  
+- **Train yourself** carries the **anti-frustration** lesson: impatience is data, not moral failure; stop rules protect the dog *and* you.  
 - **Know / Do / Don't** under each heading; blunt **Don't** lines, never mocking a distressed reader.  
 - Wit lives mostly in **Train yourself**; **Train the dog** stays clear and kind.
 

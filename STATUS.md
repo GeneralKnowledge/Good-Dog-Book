@@ -36,7 +36,7 @@ Recorded in [`research/foundation-gates.md`](research/foundation-gates.md). Appr
 - **Read order:** ch12 before Part III Live (`architecture/CHAPTER_MAP.md`).  
 - **Brand (Option A):** *Good Dog: Training the Human* — subtitle wit, not a second syllabus.  
 - **Mantra:** “Make it easier — then ask again.” **Tagline (humour):** “Train the human first.”  
-- **Dual track:** each topic → **Train yourself** / **Train the dog** with **Know / Do / Don't** ([`writing/dual-track-pattern.md`](writing/dual-track-pattern.md)).  
+- **Dual track:** each topic → **Train yourself** (patience, anti-frustration, stop rules) / **Train the dog** (the skill) — **Know / Do / Don't** ([`writing/dual-track-pattern.md`](writing/dual-track-pattern.md)).  
 - **All other Q&A:** [`research/decision-register.md`](research/decision-register.md) (same method as gates).  
 - **Research sprint:** [`research/chapter-coverage-matrix.md`](research/chapter-coverage-matrix.md) — ch01–ch08/ch12 green or amber; section reds on ch09–11, ch13.
 
