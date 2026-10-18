@@ -16,3 +16,4 @@
 | 2026-10-18 | ch02–ch14 | Bookwide tone pass | Dual-track semicolons; bookmark openings; ch14 plain checks; [`editorial/2026-10-18-bookwide-tone-audit.md`](../editorial/2026-10-18-bookwide-tone-audit.md) |
 | 2026-10-18 | ch01 | Anti-glossary rewrite | Humour + Train yourself forward; ch09–11 prevent/plain; slice DOCX regen |
 | 2026-10-18 | ch05,11,13 + research | EPPS (Steve Mann) influence map | E3 only; puppy optimism, MEB, three Ds cross-ref; not endorsement |
+| 2026-10-18 | ch01–14 + writing | Tone P2 + further reading | Prevention gloss; `FURTHER_READING.md`; ch14 list; ch01 slice v2 + DOCX regen |

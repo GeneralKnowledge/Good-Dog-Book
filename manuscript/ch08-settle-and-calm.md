@@ -56,7 +56,7 @@ Reward **recovery**: the moment they soften after a startle is worth a mark. You
 
 - **Know:** “Calm” is a **behaviour you reinforce**, not a vibe you demand. Television dogs are edited.  
 - **Do:** Lower excitement in the room when practising. one movement trigger per session.  
-- **Don't:** Punish alertness. rehearse chaos daily without management. train through shutdown (see Chapter 12).  
+- **Don't:** Punish alertness. Rehearse chaos daily without prevention. Train through shutdown (see Chapter 12).  
 
 ### Train the dog
 
@@ -68,7 +68,7 @@ Reward **recovery**: the moment they soften after a startle is worth a mark. You
 
 Beyond the mat, give a **rest spot** the dog owns: crate (door open), bed in a quiet corner, behind a gate. Rule: when they are there, **no poking** — especially children. The dog must be able to **leave** if they choose; blocking exit turns rest into stress.
 
-Household realism: teach humans the script. “Dog on bed = we walk past.” Pair with management when visitors or chaos exceed what your dog can handle today. Settle skills support door and guest chapters later; they are not a substitute for gates and leads when excitement spikes.
+Household realism: teach humans the script. “Dog on bed = we walk past.” Pair with prevention when visitors or chaos exceed what your dog can handle today. Settle skills support door and guest chapters later; they are not a substitute for gates and leads when excitement spikes.
 
 ### Train yourself
 

@@ -17,9 +17,9 @@ You do not have to read cover to cover before you act. Use this table, then retu
 | --- | --- | --- |
 | Growling, snapping, bites, or you fear your dog | **Stop** training pressure; manage safety | This chapter §2 vet, §3 professionals; ch12 comfort |
 | Sudden change — was fine, now isn’t | **Vet first** | §2 below; then five checks if health is clear |
-| Fear on walks, freezes, won’t go | ch12 stress lens | Shrink the world; ch10 management walks |
+| Fear on walks, freezes, won’t go | ch12 stress lens | Shrink the world; ch10 short prevention walks |
 | Recall in distractions | ch07 name, ch08 settle | **ch12**, then ch09 practice labs |
-| Door jumping, guests, handling meltdowns | ch11 management + labs | ch08 parallel settle; abort if stiff |
+| Door jumping, guests, handling meltdowns | ch11 doors/guests + labs | ch08 parallel settle; abort if stiff |
 | Puppy / teenager / rescue tempo | ch13 life stages | Match criteria to stage; do not rush Part III |
 | Stuck anywhere, grumpy trainer, everything fell apart | **Five checks below** | Mantra: *Make it easier — then ask again.* |
 
@@ -171,7 +171,7 @@ Many owners delay the vet or the behaviourist because they fear judgement — fr
 
 ### Train the dog
 
-- **Know:** They cannot read the chapter list. they need relief now when suffering.  
+- **Know:** They cannot read the chapter list. They need relief now when suffering.  
 - **Do:** Benefit from qualified teams when problems exceed kitchen-scale teaching.  
 - **Don't:** Wait until everyone is injured to admit scope.
 
@@ -179,7 +179,16 @@ Many owners delay the vet or the behaviourist because they fear judgement — fr
 
 - **If you cannot tell which check failed** → Assume comfort + context; make setup easier tomorrow; one variable.  
 - **If professionals disagree** → Prioritise methods you can live with ethically; second opinion; vet as hub.  
-- **If you cannot afford help** → Charities and group classes vary; management remains free — distance, gates, leads.
+- **If you cannot afford help** → Charities and group classes vary; prevention remains free — distance, gates, leads.
+
+## Further reading (optional)
+
+You do not need another book to use this one. If you want a second UK-friendly voice on the shelf:
+
+- **Dogs Trust** dog advice — practical articles that align with our recall, loose-lead, visitor, and puppy chapters.  
+- **DEFRA** Code of Practice for the Welfare of Dogs — the UK kindness baseline we paraphrase in Chapter 1.  
+- **ABTC** — find registered trainers and clinical behaviourists when problems exceed kitchen-scale teaching (no endorsement of named individuals).  
+- ***Easy Peasy Puppy Squeezy*** (Steve Mann) — optional if puppy optimism and prevention-first setup already worked for you; our **methods for lead and recall follow Dogs Trust**, not any single bestseller.
 
 ## Stop if
 

@@ -11,7 +11,7 @@ Same book, different tempo. A twelve-week puppy, a seven-month teenager, and a r
 
 ## Section 1 — Puppies: toilet, mouthing, gentle exposure principles
 
-**Toilet training** is management plus pay for outdoor success: frequent trips, quiet praise, clean accidents without drama. Puppies have small bladders and honest mistakes — shouting teaches them to hide puddles, not to hold.
+**Toilet training** is prevention plus pay for outdoor success: frequent trips, quiet praise, clean accidents without drama. Puppies have small bladders and honest mistakes — shouting teaches them to hide puddles, not to hold.
 
 **Mouthing** is normal play and exploration. Redirect to legal chew items; reward calm handling; supervise children. If jaws close harder when frustrated, shorten sessions and check sleep and hunger — not a dominance battle.
 
@@ -52,13 +52,13 @@ Somewhere after the cute phase, many dogs **forget** everything you thought you 
 - **Mantra on repeat:** “Make it easier — then ask again.”  
 - **Vet check** if change is sudden or includes pain signs — adolescence is not an excuse to ignore health.
 
-Do not swap to harsh tools because the neighbour’s dog “respects” a shout. Regression responds to **consistency and management**, not intimidation.
+Do not swap to harsh tools because the neighbour’s dog “respects” a shout. Regression responds to **consistency and prevention** (gates, leads, shorter outings), not intimidation.
 
 ### Train yourself
 
 - **Know:** Adolescence is a **season**, not a verdict on your training career.  
 - **Do:** Lower the bar publicly. train the hard bits privately. celebrate small wins.  
-- **Don't:** Add three new tricks because sit “stopped working”. train angry after work. give up on management.  
+- **Don't:** Add three new tricks because sit “stopped working”. Train angry after work. Give up on prevention when the world is too loud.  
 
 ### Train the dog
 
@@ -68,11 +68,11 @@ Do not swap to harsh tools because the neighbour’s dog “respects” a shout.
 
 ## Section 3 — Rescue settling — decompression, safety, refer early
 
-Rescue dogs arrive with **unknown history**. Day one is not “show them the city.” **Decompression** means quiet routine, predictable meals, sleep, and limited novelty. Let them choose distance from doorways, visitors, and hands. Management — crate, gate, separate room — prevents rehearsed fear or escape while trust builds.
+Rescue dogs arrive with **unknown history**. Day one is not “show them the city.” **Decompression** means quiet routine, predictable meals, sleep, and limited novelty. Let them choose distance from doorways, visitors, and hands. Prevention — crate, gate, separate room — stops rehearsed fear or escape while trust builds.
 
 **Safety:** Assume nothing about other dogs, children, or handling until you have data. Growling is information; punish it at your peril. **Refer early** for repeated fear, aggression, or shutdown — kindness is getting help before crisis, not waiting until someone is bitten.
 
-Match training to **readiness**, not your adoption timeline. Some dogs bloom in weeks; some need months of management-first life. Both are valid.
+Match training to **readiness**, not your adoption timeline. Some dogs bloom in weeks; some need months of prevention-first life. Both are valid.
 
 ### Train yourself
 
@@ -93,7 +93,7 @@ Match training to **readiness**, not your adoption timeline. Some dogs bloom in 
 | Stage | First priority | Common mistake |
 | --- | --- | --- |
 | Puppy | Toilet, sleep, gentle novelty | Flooding to “socialise” |
-| Adolescent | Shrink world, re-pay basics | New gadgets instead of management |
+| Adolescent | Shrink world, re-pay basics | New gadgets instead of prevention |
 | Rescue | Decompression, safety data | Welcome party on day one |
 
 Same loop, same five checks — different patience setting on your dial.

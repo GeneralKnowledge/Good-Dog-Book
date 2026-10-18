@@ -29,7 +29,7 @@ The door is not a test of rank. It is a **safety pinch point**: darting into tra
 
 ## Section 2 — Greetings and visitors
 
-**Sources:** Dogs Trust visitor training (`book-research-src-dt-visitor-training`, verified 2026-10-18) plus threshold management when the dog is worried.
+**Sources:** Dogs Trust visitor training (`book-research-src-dt-visitor-training`, verified 2026-10-18) plus distance and gates when the dog is worried.
 
 **Goal:** Calm arrivals — not forced face-to-face hellos. If the dog is over threshold, **abort** (distance, guest leaves, try another day) even if you have not finished the polite script.
 
@@ -39,7 +39,7 @@ The door is not a test of rank. It is a **safety pinch point**: darting into tra
 2. **Distance is non-negotiable.** Guest stays outside or in hallway; dog sees or smells at a distance where body language stays **loose enough to eat** (if food-motivated). If they stiffen, whale-eye, or bark tight — **abort**: guest steps back or you move the dog further away.  
 3. **One calm helper optional.** If you practise at all, one adult who follows your script beats a party of enthusiastic greeters.  
 4. **Exit on stiffening.** Stiffening is data. End the approach; pay calm at distance; try another day.  
-5. **Pay the dog for **choice** behaviours you want at distance — quiet four paws, look at you, sniff mat — not for lunging toward the stranger.
+5. **Pay the dog for *choice* behaviours** you want at distance — quiet four paws, look at you, sniff mat — not for lunging toward the stranger.
 
 **Scripts for humans (boring on purpose):**
 
@@ -114,7 +114,7 @@ Growling means **stop and reassess** — distance, pace, or professional help. R
 
 - **If the dog is fine until the guest moves** → Motion trigger; increase distance; guest stillness; shorter visits.  
 - **If the dog is worse on lead at the door** → Lead frustration or trapped feeling — try barrier greeting with dog off lead in secure room.  
-- **If guests ignore your rules** → Do not open the door; management includes sending people to the pub.
+- **If guests ignore your rules** → Do not open the door; prevention includes sending people to the pub.
 
 ## Stop if
 
@@ -124,7 +124,7 @@ Growling means **stop and reassess** — distance, pace, or professional help. R
 
 ## Before the next chapter
 
-Life-stage chapters come next: puppies, teenagers, and rescues each need different tempo on the same reward-based method. Greetings that stay management-first in youth prevent expensive habits later.
+Life-stage chapters come next: puppies, teenagers, and rescues each need different tempo on the same reward-based method. Greetings that stay prevention-first in youth stop expensive habits later.
 
 ## Chapter notes
 

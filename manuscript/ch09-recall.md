@@ -92,7 +92,7 @@ Progression is **boring before it is brave**. You add distraction only when the 
 1. **Bank reps** in garden and quiet streets — jackpot, release, never punish late returns (`claim-dt-recall-003-no-punish-late-return`).  
 2. **Long line** outdoors so the dog can move without “freedom = run away.” If they do not always come when called, Dogs Trust advises **not** relying on off-lead freedom — use the line (`claim-dt-escape-001-unreliable-recall-management`).  
 3. **One distraction dimension at a time** — another person at distance, then dog at distance, then sniff-rich grass — with the **five-second rule**: give time to respond before calling again; do not repeat if unlikely to work (`claim-dt-recall-002-five-second-rule`).  
-4. **Off-lead only when you are confident they will come back** in that place (`claim-dt-recall-004-offlead-criteria`). Secure area first; open country later; **not** near roads, livestock, or cliffs without professional management plan.  
+4. **Off-lead only when you are confident they will come back** in that place (`claim-dt-recall-004-offlead-criteria`). Secure area first; open country later; **not** near roads, livestock, or cliffs without a professional safety plan.  
 5. **UK ID:** microchip and identification are legal requirements for dogs — compliance is not the same as “safe to be off lead everywhere” (`claim-dt-recall-005-uk-id-law` — cross-check GOV.UK at print).
 
 If recall breaks down in distraction: **stop advancing**, shrink the world, return to long line, run five checks (Chapter 14). Seek reward-based professional help if escape or chasing is frequent.
@@ -109,9 +109,9 @@ If recall breaks down in distraction: **stop advancing**, shrink the world, retu
 - **Do:** Learn recall works in harder places in small steps.  
 - **Don't:** Learn that off-lead means “never come back until angry.”
 
-## Escape and safety (management, not machismo)
+## Escape and safety (prevention, not machismo)
 
-Some dogs learn that **running away** from handlers is safer than staying — previous homes, rough grabs, or chase games you did not mean to teach. If your dog bolts, fix **prevention** first: secure garden, double gates, long line before open spaces. Recall rebuilds with **choice** at short distance; never chase as punishment. If escape is frequent or toward roads, treat as a **serious management and behaviour** issue — Chapter 14, not more shouted cues.
+Some dogs learn that **running away** from handlers is safer than staying — previous homes, rough grabs, or chase games you did not mean to teach. If your dog bolts, fix **prevention** first: secure garden, double gates, long line before open spaces. Recall rebuilds with **choice** at short distance; never chase as punishment. If escape is frequent or toward roads, treat as a **serious safety and behaviour** issue — Chapter 14, not more shouted cues.
 
 ## Troubleshooting
 
@@ -121,7 +121,7 @@ Some dogs learn that **running away** from handlers is safer than staying — pr
 
 ## Stop if
 
-- Near roads, cliffs, water, or livestock without secure management — **stop** asking; use line or lead.  
+- Near roads, cliffs, water, or livestock without secure prevention (line, lead, fence) — **stop** asking; use line or lead.  
 - Growling, avoidance, or shutdown when you call — comfort failed; simplify, do not chase.  
 - You are calling to prove dominance or vent — **stop**; walk home in silence, train tomorrow.
 

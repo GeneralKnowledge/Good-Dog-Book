@@ -32,9 +32,14 @@
 | 13 | Basics tempo; semicolons |
 | 14 | Bookmark table (basics); five checks plain names column; semicolons |
 
-## Remaining optional (P2)
+## P2 (completed 2026-10-18, `cursor/epps-research-integration-5834`)
 
-- Swap reader-facing “management” → “prevent” in body prose (ch09–11) — partial; technical “management” kept where DT/legal context needs it.
+- Reader-facing **“management” → “prevention / prevent”** in ch03 §3, ch08–11, ch13–14 worry table; technical “management” kept in ch06 referral prose and ch14 multi-dog professional scope where needed.
+- **`writing/FURTHER_READING.md`** + ch01 §4 pointer + ch14 optional list (Dogs Trust, DEFRA, ABTC, EPPS as concept kin).
+- ch11 broken markdown on *choice* behaviours fixed; ch14 dual-track capitalisation fix.
+
+## Remaining optional
+
 - Uniform “one criterion per outing” instead of “criterion” in ch10 — gloss added in opening.
 - Cold-read for voice drift after Stage G.
 

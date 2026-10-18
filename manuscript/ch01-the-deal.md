@@ -111,6 +111,8 @@ If you read in order, do **Chapter 12** before you lean hard on come, lead, and 
 
 **What we do not promise:** a perfect dog, instant fixes, or that you never need a vet or professional when things are serious.
 
+**Another book on the shelf?** Optional UK further reading — Dogs Trust articles, ABTC signposts, and puppy-friendly guides such as Steve Mann’s *Easy Peasy Puppy Squeezy* if that voice suits you — lives in **Chapter 14**. Nothing here replaces your vet or a qualified behaviourist when safety or welfare is on the line.
+
 ## Troubleshooting
 
 - **If you feel defensive reading “train the human”** → We mean habits, not your worth. You are still the hero of the story.  

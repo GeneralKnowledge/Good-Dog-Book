@@ -63,13 +63,13 @@ Professional guidance in the UK reward-based world is blunt: **no training need 
 - **Do:** Ten to fifteen charge reps until ears perk. then use on easy wins only at first.  
 - **Don't:** Associate marker with fear. hear “yes” and still not know which behaviour paid.  
 
-## Section 3 — Where to train first; management when the world is too loud
+## Section 3 — Where to train first; prevent chaos when the world is too loud
 
-Environment is half the lesson. The hallway beats the high street. The garden beats the dog park. **Management** — gates, leads, choosing quiet times — is how you stop rehearsing disaster while you teach.
+Environment is half the lesson. The hallway beats the high street. The garden beats the dog park. **Prevention** — gates, leads, choosing quiet times — is how you stop rehearsing disaster while you teach.
 
 When the world is too loud, you are not failing. You are **designing**. Baby steps are not babyish; they are how fluent dogs happen. Proofing on day one is how people conclude their dog is “spiteful” when the dog is simply **learning in a casino**.
 
-If visitors, builders, or small humans turn the kitchen into a funfair, train elsewhere or skip training and manage. A skipped session beats a bad one.
+If visitors, builders, or small humans turn the kitchen into a funfair, train elsewhere or skip training and **prevent** the wrong rehearsal (gate up, lead on, or a calm nap instead). A skipped session beats a bad one.
 
 **Session length:** RSPCA-aligned guidance favours short, positive reps over grinding (`claim-rspca-002-short-sessions`). Set a timer if you must — three minutes is a feature, not an apology. Ending while eager teaches the dog that training is a highlight, not a sentence. Put the treat bag away **before** they walk off bored; you want them mildly offended that the fun stopped.
 

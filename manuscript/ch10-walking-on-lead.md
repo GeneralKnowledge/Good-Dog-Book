@@ -147,4 +147,4 @@ Measure progress in **check-ins, stop-start wins, and comfort**, not in metres w
 
 1. Loose-lead mechanics: `book-research-dt-loose-lead-mechanics` / `book-research-src-dt-walking-nicely`.  
 2. Early sections adapt `ex-lead-intro`; do not copy `ex-lead-loose` steps.  
-3. Welfare risk serious — equipment and management emphasised over confrontation.
+3. Welfare risk serious — equipment and prevention emphasised over confrontation.
