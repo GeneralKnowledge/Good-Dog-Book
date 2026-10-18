@@ -3,7 +3,7 @@
 **Book:** *Good Dog: Training the Human* (working title)  
 **Slice date:** 2026-10-18  
 **Version:** v2 — replaces [`ch01-trainer-review.md`](ch01-trainer-review.md) for new external shares (v1 remains in repo for history).  
-**Manuscript sync:** [`manuscript/ch01-the-deal.md`](../../manuscript/ch01-the-deal.md) — **Training the Human** as one integrated system (§2): loop + five-check names, dual track, place ladder, walk modes, install map in §4.
+**Manuscript sync:** [`manuscript/ch01-the-deal.md`](../../manuscript/ch01-the-deal.md) — basics-first (sit, come, walk nicely), plain-language system, **bookmark table** in §4.
 
 ## What we are asking you to review
 
@@ -13,11 +13,10 @@ This chapter sets **tone, scope, and owner habits** for ordinary UK-oriented pet
 
 ## Book context (for reviewers, not in print)
 
-- **Read order:** ch12 (stress) before Part III live skills — one paragraph in ch01 §6.  
-- **Mantras:** *Make it easier — then ask again.*, *Train the human first*, *Good human.* — repeated on purpose in ch01 and across the book.  
-- **Place ladder:** house → garden → outside (introduced in ch01 §2).  
-- **Walks:** ch01 §4 splits **leisure walk** vs **training walk**; loose-lead teaching is deferred to ch10.  
-- **ch14** holds the fuller “if you are worried” navigation.
+- **Basics-first:** readers encouraged to stop at sit / come / walk nicely and bookmark chapters.  
+- **Plain language:** ch01 avoids jargon where possible (maps to loop/checks/dual-track in later chapters).  
+- **Bookmarks:** §4 table points to ch7–14 by need.  
+- **Mantras:** *Make it easier — then ask again.*, *Train the human first*, *Good human.*
 
 ## Evidence note (maintainer)
 
@@ -26,20 +25,19 @@ This chapter sets **tone, scope, and owner habits** for ordinary UK-oriented pet
 
 ## Questions for you
 
-1. **Accuracy:** Anything **wrong or misleading** for pet owners at E2/public-guidance level (reward-based default, manage vs train vs vet vs behaviourist split)?  
-2. **Welfare / safety:** Missing **stop** or **referral** language you would insist on in an intro chapter?  
-3. **Trainer audience:** What would make a professional **cringe** or lose trust — and what would earn trust?  
-4. **Owner frustration / owner stress:** The “what messes dogs up (usually us)” beat — fair and useful, or off?  
-5. **Dual track (Train yourself / Train the dog):** Clear enough? Are Know/Do/Don't sentences **plain enough** (we removed semicolon chains for dyslexia-friendly reading)?  
-6. **Leisure vs training walk:** Does the split make sense before ch10?  
-7. **Mantra repetition in ch01:** Too much, or about right for a foundation chapter?  
-8. **Gaps:** One thing you would **add** or **cut** in this chapter only.
+1. **Accuracy:** Anything **wrong or misleading** for pet owners at E2/public-guidance level?  
+2. **Welfare / safety:** Missing **stop** or **referral** language?  
+3. **Basics-first tone:** Does ch01 feel welcoming for “I just want sit, come, walk nicely”?  
+4. **Jargon level:** Still too much machinery in §2, or about right for a system intro?  
+5. **Bookmarks:** Useful for real owners, or clutter?  
+6. **Trainer audience:** Cringe or trust?  
+7. **Gaps:** One **add** or **cut** in this chapter only.
 
 ## Optional response format
 
 - Bullet answers to §Questions  
 - Severity: *fine / tweak / must fix before print*  
-- Your credentials and scope (e.g. ABTC, IMDT, vet nurse, behaviourist) — for our register only, not for marketing unless you agree separately.
+- Your credentials and scope — for our register only, not for marketing unless you agree separately.
 
 ## Export
 
@@ -53,17 +51,19 @@ Shareable **DOCX:** [`export/review-slices/Good-Dog-Ch01-Trainer-Review-Slice-v2
 
 ## Opening
 
-You bought the book, or borrowed it from someone who owns a dog and opinions. Fair enough. Before we talk about sits, recalls, or the mysterious art of not being dragged into a bush, we need a deal — not with me, with **your dog**.
+You bought the book, or borrowed it from someone who owns a dog and opinions. Fair enough. Before we talk about **sit**, **come**, and **walking nicely without yanking your arm off**, we need a deal — not with me, with **your dog**.
 
-This chapter is not a pamphlet of hot tips. It introduces **one system** — we call it **Training the Human** — that runs through the whole book. Same parts, different skills. If that sounds like self-help wearing a lead clip, good. That is partly the point.
+Most people want the **basics**, done kindly. Not a circus dog. Not internet perfection. If your dog sits when it helps, comes back most of the time, and walks without daily tug-of-war, you are already winning by real-life standards. This book is for you.
+
+It is not a pamphlet of hot tips. It is **one way of working** — we call it **Training the Human** — that runs through the whole book. Same habits, different skills. If that sounds like self-help wearing a lead clip, good. That is partly the point.
 
 ## Section 1 — What “good dog” means in real kitchens and muddy parks
 
-“Good dog” is not a personality award. It is not a dog who never barks, never pulls, never steals toast, and never has a Tuesday. **Good dog**, for our purposes, means a dog who can live safely and happily with ordinary humans: clear expectations, kind teaching, management when teaching is not the right tool, and help when something hurts or scares them.
+“Good dog” is not a personality award. It is not a dog who never barks, never pulls, never steals toast, and never has a Tuesday. **Good dog**, for our purposes, means a dog you can live with safely and happily: clear rules, kind teaching, sensible shortcuts when teaching is not the right tool today, and help when something hurts or scares them.
 
-In the kitchen, good might mean “four paws on the floor while I butter bread without launching a small siege.” In the park, good might mean “you can be a dog — sniff, trot, be weird — and still come back when it matters.” Different days, different bar. That is normal.
+In the kitchen, good might mean “four paws on the floor while I butter bread without launching a small siege.” On a walk, good might mean “sniff, trot, be a dog — and come back when I call.” Different days, different bar. That is normal.
 
-UK guidance treats **reward-based training** as the sensible default: teach what you want, pay for it, skip kit and “corrections” that rely on pain or fear. This book follows that line because it works **and** it keeps trust on both sides of the cheese.
+UK guidance says teach what you want and **pay for it with treats, praise, or play** — not with fear, pain, or intimidation. This book follows that line because it works **and** it keeps trust on both sides of the cheese.
 
 ### Train yourself
 
@@ -79,133 +79,141 @@ UK guidance treats **reward-based training** as the sensible default: teach what
 
 If the bar feels too high today, **make it easier — then ask again.** Good enough this week is enough to start.
 
-## Section 2 — The Training the Human system (our concept)
+## Section 2 — Training the Human — how this book works (plain version)
 
-Here is the subtitle joke, and it names the **concept**: in most kitchens, **the dog learns faster than the person holding the treats**. *Train the human first* is a wink, not a scolding. The system below is how this book keeps **your** frustration from becoming **their** problem.
+Here is the subtitle joke, and it names the idea: in most kitchens, **the dog learns faster than the person holding the treats**. *Train the human first* is a wink, not a scolding. The list below is how we keep **your** bad day from becoming **their** bad day.
 
-You do not need every detail today. You need to see **how the parts connect**.
+You do not need every detail today. You need to see **how the pieces fit**.
 
-### The deal (why this book exists)
+### The basics most people want
 
-Training works when you **set the dog up to succeed**, **pay for what you want**, **notice discomfort early**, and **match difficulty to the real world**. Management, vet care, and qualified behaviour help are part of good training, not admissions of failure.
+1. **Sit** — useful in the kitchen, at the door, when guests arrive.  
+2. **Come** — back to you when it matters.  
+3. **Walk nicely** — without you being dragged into a bush.
 
-### Four doors (pick the right tool)
+Everything else in the book supports those three or helps when life is harder (puppies, rescues, worry on walks). **You are allowed to stop at basics** and still have a good dog.
 
-When something goes wrong, ask which door you should walk through:
+### Four ways to help (pick the right one)
 
-1. **Teach** — a skill is missing. Sit, settle, come, tolerate handling.  
-2. **Manage** — stop rehearsal while you teach. Gates, leads, quiet walk times, shoes in a cupboard.  
-3. **Vet** — pain or illness when behaviour suddenly shifts.  
-4. **Behaviour help** — serious fear, aggression, or patterns that need a professional eye.
+When something goes wrong, ask:
 
-Using a lead so your dog does not rehearse lunging at bikes is **smart**, not failure. Calling the vet because the formerly sociable dog snaps when touched is **kind**, not dramatic.
+1. **Teach** — they do not know the skill yet. Sit, settle, come, tolerate a gentle touch.  
+2. **Prevent** — stop the chaos while you teach. Baby gate, lead on, shoes out of reach, quieter walk time.  
+3. **Vet** — sudden change, pain, or illness might be in the way.  
+4. **Expert help** — serious fear, aggression, or you are out of your depth. That is sensible, not failure.
 
-### The teaching loop (when you are actively teaching)
+A lead so your dog does not charge at bikes is **smart**. A vet visit when a friendly dog starts snapping is **kind**.
 
-One habit for every skill. Chapter 4 installs it in your hands. The shape:
+### One teaching habit (every skill uses it)
 
-**Setup → cue → behaviour → mark/reward → release → reset.**
+Chapter 4 walks you through it slowly. For now, the plain version:
 
-You teach. You pay. You let the dog breathe. You try again. No car-alarm cues.
+**Get ready → ask once → pay when they do it → let them off the hook → start fresh.**
 
-### The five checks (when you are stuck)
+Treats or praise count as pay. Repeating “sit sit SIT” is not teaching. It is nagging.
 
-Before you repeat a cue louder or decide the dog is “difficult”, run the checks. Chapter 14 gives the full table. The names are the system:
+### Five quick questions (when you are stuck)
 
-1. **Setup** — calm enough for this dog today?  
-2. **Reward** — do they want what you are offering right now?  
-3. **Criterion** — one clear ask, not three at once?  
-4. **Comfort** — stress showing? Pause or simplify. Chapter 12 deepens this before live skills.  
-5. **Context** — worked at home but failed on the pavement? **Shrink the world** until success is likely again.
+Before you shout or decide the dog is hopeless, ask:
 
-Your stall phrase when any check fails:
+1. **Place** — is it too loud or too exciting here?  
+2. **Pay** — do they want the treat or toy right now?  
+3. **Ask** — am I asking for one thing, not five at once?  
+4. **Mood** — are they worried or tired? Should we pause? (Chapter 12 helps you read this before big outdoor skills.)  
+5. **Same at home?** — if it worked indoors but not on the street, go back to an easier spot.
+
+Chapter 14 has a fuller checklist. Your phrase when any answer is “no”:
 
 **“Make it easier — then ask again.”**
 
-Optional habit when **you** fix the plan: a quiet **“Good human.”**
+When **you** fix the plan, try a quiet **“Good human.”**
 
-### Dual track (every skill, two jobs)
+### Two lists (you and your dog)
 
-Every major topic in this book splits **your** job from **the dog’s** job in the same scene:
+Most chapters give **two short lists**:
 
-**Train yourself** — plan, patience, stop rules, what your frustration is telling you.  
-**Train the dog** — what they are learning this session, not obedience theatre.
+**Train yourself** — your plan, your patience, when to stop.  
+**Train the dog** — what they are learning in that lesson.
 
-Each side uses **Know**, **Do**, and **Don't**. Chapter 4 repeats this shape until it feels normal.
+Each list has **Know**, **Do**, and **Don't**. Same shape every time so you are not learning a new layout per chapter.
 
-### Place ladder (where you teach)
+### Where to teach
 
-**House → garden → outside.** Brains learn in boring rooms before windy pavements. When the street defeats the kitchen, move back a rung. **Make it easier — then ask again.**
+**House → garden → outside.** Kitchen before pavement. Boring before exciting. When the street beats the kitchen, go back a step. **Make it easier — then ask again.**
 
-### Walk modes (two kinds of outing)
+### Two kinds of walk
 
-**Leisure walk** — sniffing, pacing, being a dog. You are not running a lesson. Safe kit still applies. **Stop** if things go wrong.
-
-**Training walk** — short, on purpose, **one** goal. Loose-lead **teaching** lives in Chapter 10. Do not mix the modes and then blame the dog for looking fried.
+**Leisure walk** — sniffing, being a dog. You are not teaching lead manners on this outing.  
+**Training walk** — short, on purpose, **one** goal. “Walk nicely” practice lives in **Chapter 10**. Do not mix them and then blame the dog for looking exhausted.
 
 ### What messes dogs up (usually us)
 
-Most dogs are not broken. They respond to a world that keeps changing the rules. **We often stress them out without noticing.** Repeat cues like a car alarm. Train when we are already cross. Skip the gate and shout from the sofa. Ask for pavement proof when the skill only lives in the hallway.
+Most dogs are not broken. **We often stress them out without noticing.** Nagging cues. Training when we are already cross. No gate at the door. Asking for street-level “come” when they only know living-room “come.”
 
-The system is the fix: **four doors**, **loop**, **checks**, **dual track**, **place ladder**, **walk mode**, **mantra**. Same toolkit whether you are in the kitchen or on the high street.
+**Train the human first.** Smaller step. Better treat. Shorter go. **Stop while it is still fun.**
 
-When progress stalls, the heat you feel — embarrassment, impatience, that tight “why won’t you just” feeling — is **information about your plan**, not a verdict on the dog. Dogs feel tight voices, looming hands, and hurry too. **Train the human first.** Smaller step. Better pay. Shorter session. **Stop while it is still fun.**
-
-## Section 3 — The system on a walk (dual-track preview)
-
-**Topic:** Leisure walk vs training walk — not the same job.
+## Section 3 — Two kinds of walk (preview)
 
 ### Train yourself
 
-- **Know:** Sniffing on a leisure walk is not “ignoring you.” It is dog email. Your impatience often spikes when you treat every walk like a treadmill.  
-- **Do:** Say out loud which walk this is before you leave. Leisure or training. Stick to that choice for that outing.  
-- **Don't:** Heel-police a leisure walk and then wonder why the dog looks fried. Don't expect a relaxed sniff-fest on a day you are actually teaching lead skills.
+- **Know:** Sniffing on a leisure walk is not “ignoring you.” It is dog email. You get cross when every walk feels like a gym session.  
+- **Do:** Before you leave, say which walk this is. Leisure or training. Stick to it for that outing.  
+- **Don't:** Turn a sniff walk into a heel drill. Don't expect a chill sniff day on a day you meant to teach “walk nicely.”
 
 ### Train the dog
 
-- **Know:** Walks can mean different payoffs. Sometimes freedom to sniff. Sometimes “check in for a treat.” Mixed signals are confusing.  
-- **Do:** Learn both modes exist. Training walks stay short and clear. Leisure walks stay dog-shaped.  
-- **Don't:** Learn that every outing is a test. Don't learn that pulling is the only way to reach a smell because leisure and training got blurred into one grim lap.
+- **Know:** Walks can mean different things. Sometimes freedom to sniff. Sometimes “check in for a treat.”  
+- **Do:** Learn both types exist. Training walks stay short. Leisure walks stay dog-shaped.  
+- **Don't:** Learn that every outing is a test. Don't learn that pulling is the only way to the good smell because you mixed the two types.
 
-Chapter 10 separates **loose-lead practice** from **everyday sniff walks**. This preview is the system in miniature: your plan on one side, their learning on the other.
+Chapter 10 is where **walk nicely** gets taught step by step. This preview is the idea: your plan on one side, their learning on the other.
 
-## Section 4 — How the book installs the system
+## Section 4 — How to use this book (including bookmarks)
 
-Read in the order in the chapter map, not only by the number on the spine. The system **builds in layers**:
+You do **not** have to read cover to cover in one go. Most owners should not.
 
-- **Part I (Chapters 1–3)** — mindset, how dogs learn, your toolkit.  
-- **Part II (Chapters 4–6)** — teaching loop, criteria, progression without pressure.  
-- **Chapter 12** — comfort and stress **before** recall, lead, and door skills in Part III.  
-- **Part III (Chapters 7–11)** — live skills with practice labs. Each chapter runs the same system.  
-- **Chapter 14** — full five-check troubleshooting and when to call for help.
+**Use it like a cookbook.** Find the bit you need. **Bookmark it** — sticky note, folded corner, app bookmark, photo of the page. Come back when life changes.
 
-**If you are worried about something specific:**
+| If you mainly want… | Bookmark this |
+| --- | --- |
+| **Sit, focus, name** | Chapter 7 |
+| **Calm at home / mat** | Chapter 8 |
+| **Come when called** | Chapter 9 |
+| **Walk nicely on lead** | Chapter 10 |
+| **Door / visitors** | Chapter 11 |
+| **Scared or stressed dog** | Chapter 12 (read before heavy outdoor work) |
+| **Puppy / teenager / rescue** | Chapter 13 |
+| **Everything fell apart** | Chapter 14 |
 
-- **Fear on walks, freezes, “won’t go”** → start with Chapter 12, then back to skills when ready.  
-- **Recall in distractions** → foundations in Chapters 7–8, **Chapter 12**, then Chapter 9.  
-- **Stuck, grumpy, everything fell apart** → Chapter 14 and the mantra: *make it easier — then ask again.*
+If you *do* read in order: Chapters 1–3 get you oriented. Chapters 4–6 teach the **how**. **Chapter 12** before big outdoor skills (come, lead, door). Then Chapters 7–11 for the basics in real life.
 
-One chapter at a time. **House → garden → outside.** Trust the order inside.
+**Worried shortcuts:**
 
-**What we promise:** plain language, reward-based methods, honest limits, and repeated permission to **stop** when you or the dog are not okay.
+- **Afraid on walks** → Chapter 12 first.  
+- **Come fails outside** → Chapters 7–8, then **12**, then **9**.  
+- **Grumpy, stuck, lost** → Chapter 14 and *make it easier — then ask again.*
 
-**What we do not promise:** instant fixes, a dog who ignores biology, or a life free of vets and professionals when things are serious.
+**House → garden → outside.** One chapter at a time is fine. **Basics first** is fine.
+
+**What we promise:** plain language, kind methods, honest limits, permission to **stop** when you or the dog are not okay.
+
+**What we do not promise:** a perfect dog, instant fixes, or that you never need a vet or professional when things are serious.
 
 ## Troubleshooting
 
-- **If you feel defensive reading “train the human”** → You are still the hero of the story. We are targeting **habits**, not your worth. Re-read §2 and the four doors.  
-- **If you want a command list right now** → Part II is coming. Skipping the system is how people end up repeating cues louder.  
-- **If your dog is growling, biting, or shutting down** → This chapter is not the fix. Manage safety. See Chapters 12 and 14. Call a qualified professional and/or your vet.
+- **If you feel defensive reading “train the human”** → We mean habits, not your worth. Re-read §2.  
+- **If you only want sit, come, walk nicely** → Good. Bookmark 7, 9, and 10. Skim the rest when you need it.  
+- **If your dog is growling, biting, or shutting down** → This chapter is not the fix. Keep everyone safe. See Chapters 12 and 14. Call your vet and/or a qualified professional.
 
 ## Stop if
 
-- You or the dog are escalating. Voices up. Dog stiff. White-knuckle on the lead. **Stop.** No training beat is worth that.  
-- You are training to vent. Walk away. Water. Human snack. Try tomorrow.  
-- Something hurts or frightens the dog and you are not sure why. **Vet first.** Training second.
+- You or the dog are escalating. Voices up. Dog stiff. White-knuckle on the lead. **Stop.**  
+- You are training to vent. Walk away. Water. Snack. Tomorrow.  
+- Something hurts or frightens the dog and you are not sure why. **Vet first.**
 
 ## Before the next chapter
 
-Chapter 2 is how dogs actually learn — consequences, timing, and why “stubborn” is the wrong story. You already met the system. Next we fill in **why dogs care about payoffs at all.** Bring your kitchen and your mud.
+Chapter 2 is how dogs actually learn — in plain words, why “stubborn” is usually the wrong story. Bring your kitchen and your mud.
 
 ---
 

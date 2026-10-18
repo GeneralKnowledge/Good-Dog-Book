@@ -12,3 +12,4 @@
 | 2026-10-18 | ch01 | Review slice v2 + DOCX | `editorial/review-slices/ch01-trainer-review-v2.md`; `export/review-slices/` |
 | 2026-10-18 | ch01 | Casual rewrite (Stage G) | Lighter intro, leisure vs training walk, deferred loop names; dyslexia-friendly dual-track |
 | 2026-10-18 | ch01 | System intro pass | Training the Human as integrated concept; loop + five-check names in §2; install map §4 |
+| 2026-10-18 | ch01 | Basics-first + bookmarks | Plain language; sit/come/walk nicely; bookmark table §4; VOICE_BRIEF update |
