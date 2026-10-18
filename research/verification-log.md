@@ -11,3 +11,4 @@
 | 2026-10-18 | ch08–11, ch14 | Stage G Part III pass | Practice labs + ch08 duration; mantra dedupe skipped (author) |
 | 2026-10-18 | ch01 | Review slice v2 + DOCX | `editorial/review-slices/ch01-trainer-review-v2.md`; `export/review-slices/` |
 | 2026-10-18 | ch01 | Casual rewrite (Stage G) | Lighter intro, leisure vs training walk, deferred loop names; dyslexia-friendly dual-track |
+| 2026-10-18 | ch01 | System intro pass | Training the Human as integrated concept; loop + five-check names in §2; install map §4 |
