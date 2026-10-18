@@ -1,0 +1,220 @@
+{
+  "claims": [
+    {
+      "id": "claim-imdt-001-force-free",
+      "statement": "IMDT members agree to actively provide and promote force-free training methods and reject methods or equipment that may cause physical or mental discomfort.",
+      "supportingSourceId": "src-imdt-code-of-ethics",
+      "evidenceType": "professional_standard",
+      "confidence": "high",
+      "goodDogRecommendationEligible": true
+    },
+    {
+      "id": "claim-imdt-002-no-pp-nr",
+      "statement": "IMDT members agree to avoid positive punishment and negative reinforcement as tools for training dogs.",
+      "supportingSourceId": "src-imdt-code-of-ethics",
+      "evidenceType": "professional_standard",
+      "confidence": "high",
+      "goodDogRecommendationEligible": true
+    },
+    {
+      "id": "claim-imdt-003-referral",
+      "statement": "IMDT members agree to work within professional limits and refer owners to a suitable professional when needs exceed those limits.",
+      "supportingSourceId": "src-imdt-code-of-ethics",
+      "evidenceType": "professional_standard",
+      "confidence": "high",
+      "goodDogRecommendationEligible": true
+    },
+    {
+      "id": "claim-abtc-001-unregulated",
+      "statement": "In the UK, animal trainers, training instructors and behaviourists are not regulated by government; anyone may use those job titles regardless of training or experience.",
+      "supportingSourceId": "src-abtc-owners",
+      "evidenceType": "professional_guidance",
+      "confidence": "high",
+      "goodDogRecommendationEligible": true
+    },
+    {
+      "id": "claim-abtc-002-science-based",
+      "statement": "ABTC requires registered trainers, instructors and behaviourists to use science-based methods and keep up to date with research-informed thinking.",
+      "supportingSourceId": "src-abtc-owners",
+      "evidenceType": "professional_standard",
+      "confidence": "high",
+      "goodDogRecommendationEligible": true
+    },
+    {
+      "id": "claim-abtc-003-no-aversives",
+      "statement": "ABTC states it does not agree with aversives being used to train animals and publishes an indicative list of aversive equipment and methods that should not be used.",
+      "supportingSourceId": "src-abtc-owners",
+      "evidenceType": "professional_standard",
+      "confidence": "medium",
+      "goodDogRecommendationEligible": true
+    },
+    {
+      "id": "claim-dt-pr-001-definition",
+      "statement": "Positive reinforcement training means giving the dog something they want when they behave in a way the owner likes, making that behaviour more likely in future.",
+      "supportingSourceId": "src-dt-positive-reinforcement",
+      "evidenceType": "professional_guidance",
+      "confidence": "high",
+      "goodDogRecommendationEligible": true
+    },
+    {
+      "id": "claim-dt-pr-002-continuous-reinforcement-new-skill",
+      "statement": "When starting a new skill, Dogs Trust advises rewarding the dog every time they are successful; reward type and schedule can change after the behaviour is reliable across environments.",
+      "supportingSourceId": "src-dt-positive-reinforcement",
+      "evidenceType": "professional_guidance",
+      "confidence": "high",
+      "goodDogRecommendationEligible": true
+    },
+    {
+      "id": "claim-dt-pr-003-marker-follow-reward",
+      "statement": "A marker signal must always be followed by a reward so the dog can be confident they got the behaviour right.",
+      "supportingSourceId": "src-dt-positive-reinforcement",
+      "evidenceType": "professional_guidance",
+      "confidence": "high",
+      "goodDogRecommendationEligible": true
+    },
+    {
+      "id": "claim-dt-pr-004-unintentional-reinforcement",
+      "statement": "Undesired behaviour may increase if the dog receives attention, eye contact or interaction as a consequence\u2014even when the owner intends to discourage the behaviour.",
+      "supportingSourceId": "src-dt-positive-reinforcement",
+      "evidenceType": "professional_guidance",
+      "confidence": "medium",
+      "goodDogRecommendationEligible": true
+    },
+    {
+      "id": "claim-dt-marker-001-charge-marker",
+      "statement": "Before training new behaviours, the dog should learn that the marker predicts a reward via repeated marker-then-treat pairings.",
+      "supportingSourceId": "src-dt-introducing-marker",
+      "evidenceType": "professional_guidance",
+      "confidence": "high",
+      "goodDogRecommendationEligible": true
+    },
+    {
+      "id": "claim-dt-marker-002-calm-marker-word",
+      "statement": "Dogs Trust advises saying a verbal marker as calmly as possible because excited delivery can excite, confuse or distract the dog.",
+      "supportingSourceId": "src-dt-introducing-marker",
+      "evidenceType": "professional_guidance",
+      "confidence": "medium",
+      "goodDogRecommendationEligible": true
+    },
+    {
+      "id": "claim-dt-recall-001-prerequisite-name",
+      "statement": "Dogs Trust advises teaching reliable name response before adding a formal recall cue.",
+      "supportingSourceId": "src-dt-recall-training",
+      "evidenceType": "professional_guidance",
+      "confidence": "high",
+      "goodDogRecommendationEligible": true
+    },
+    {
+      "id": "claim-dt-recall-002-five-second-rule",
+      "statement": "Dogs Trust advises giving the dog at least five seconds to respond to a recall cue before calling again, and not repeating the cue if the dog is unlikely to return.",
+      "supportingSourceId": "src-dt-recall-training",
+      "evidenceType": "professional_guidance",
+      "confidence": "high",
+      "goodDogRecommendationEligible": true
+    },
+    {
+      "id": "claim-dt-recall-003-no-punish-late-return",
+      "statement": "If a dog ignores recall during training, Dogs Trust advises staying calm because anger or shouting can reduce willingness to return; use long line guidance or collect the dog instead of punishing.",
+      "supportingSourceId": "src-dt-recall-training",
+      "evidenceType": "professional_guidance",
+      "confidence": "high",
+      "goodDogRecommendationEligible": true
+    },
+    {
+      "id": "claim-dt-recall-004-offlead-criteria",
+      "statement": "Dogs Trust advises off-lead exercise in open spaces only when the owner is confident the dog will come back when called.",
+      "supportingSourceId": "src-dt-recall-training",
+      "evidenceType": "professional_guidance",
+      "confidence": "high",
+      "goodDogRecommendationEligible": true
+    },
+    {
+      "id": "claim-dt-recall-005-uk-id-law",
+      "statement": "Dogs Trust states that in the UK dogs in public should wear a collar and ID tag and have up-to-date microchip details, as required by law.",
+      "supportingSourceId": "src-dt-recall-training",
+      "evidenceType": "professional_guidance",
+      "confidence": "high",
+      "goodDogRecommendationEligible": true
+    },
+    {
+      "id": "claim-rspca-001-all-reward-based",
+      "statement": "RSPCA states all dog training should be reward based, using food, toys or praise when the dog shows desired behaviour.",
+      "supportingSourceId": "src-rspca-dog-training",
+      "evidenceType": "professional_guidance",
+      "confidence": "high",
+      "goodDogRecommendationEligible": true
+    },
+    {
+      "id": "claim-rspca-002-short-sessions",
+      "statement": "RSPCA recommends breaking training into short but regular sessions and starting new tricks in a quiet room with minimal distractions.",
+      "supportingSourceId": "src-rspca-dog-training",
+      "evidenceType": "professional_guidance",
+      "confidence": "high",
+      "goodDogRecommendationEligible": true
+    },
+    {
+      "id": "claim-rspca-003-abtc-trainer",
+      "statement": "RSPCA recommends looking for ABTC-registered animal training instructors for ethical training that meets welfare needs.",
+      "supportingSourceId": "src-rspca-find-trainer",
+      "evidenceType": "professional_guidance",
+      "confidence": "high",
+      "goodDogRecommendationEligible": true
+    },
+    {
+      "id": "claim-rspca-004-avoid-aversive-classes",
+      "statement": "RSPCA advises owners not to join classes if techniques rely on fear, pain, choke chains, shouting or hitting.",
+      "supportingSourceId": "src-rspca-find-trainer",
+      "evidenceType": "professional_guidance",
+      "confidence": "high",
+      "goodDogRecommendationEligible": true
+    },
+    {
+      "id": "claim-rspca-005-sit-lure-timing",
+      "statement": "RSPCA advises adding the verbal cue 'sit' only as the dog moves into sit, not before, to avoid associating the word with the wrong movement.",
+      "supportingSourceId": "src-rspca-sit",
+      "evidenceType": "professional_guidance",
+      "confidence": "high",
+      "goodDogRecommendationEligible": true
+    },
+    {
+      "id": "claim-hiby-001-reward-obedience-correlation",
+      "statement": "In a 2004 owner survey (n=364), owner-rated obedience across eight tasks correlated positively with the number of tasks trained using rewards (P<0.01) but not with tasks trained using punishment (P=0.\u2026",
+      "supportingSourceId": "study-hiby-rooney-bradshaw-2004",
+      "evidenceType": "primary_research",
+      "confidence": "medium",
+      "goodDogRecommendationEligible": true
+    },
+    {
+      "id": "claim-hiby-002-punishment-problems-correlation",
+      "statement": "In Hiby et al. (2004), the number of owner-reported problem behaviours correlated with the number of tasks trained using punishment (P<0.001) but not with tasks trained using rewards (P=0.17).",
+      "supportingSourceId": "study-hiby-rooney-bradshaw-2004",
+      "evidenceType": "primary_research",
+      "confidence": "medium",
+      "goodDogRecommendationEligible": true
+    },
+    {
+      "id": "claim-hiby-003-welfare-conclusion",
+      "statement": "Hiby et al. (2004) conclude that punishment may represent a welfare concern without concurrent benefits in obedience within the pet-owning community surveyed.",
+      "supportingSourceId": "study-hiby-rooney-bradshaw-2004",
+      "evidenceType": "primary_research",
+      "confidence": "medium",
+      "goodDogRecommendationEligible": true
+    },
+    {
+      "id": "claim-hiby-004-punishment-historical",
+      "statement": "Hiby et al. (2004) note that although their survey did not support punishment-based methods for pet owners, they are not claiming punishment cannot be used effectively, citing historical successful us\u2026",
+      "supportingSourceId": "study-hiby-rooney-bradshaw-2004",
+      "evidenceType": "primary_research",
+      "confidence": "medium",
+      "goodDogRecommendationEligible": false
+    },
+    {
+      "id": "claim-dt-escape-001-unreliable-recall-management",
+      "statement": "If a dog does not always come when called, Dogs Trust advises keeping them on a long line or lead rather than relying on off-lead freedom.",
+      "supportingSourceId": "src-dt-escaping-running-away",
+      "evidenceType": "professional_guidance",
+      "confidence": "high",
+      "goodDogRecommendationEligible": true
+    }
+  ]
+}

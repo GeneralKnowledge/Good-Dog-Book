@@ -1,0 +1,45 @@
+# Voice brief
+
+**Status:** Stage D. **Author gate G4** applies to calibration samples.
+
+## Positioning
+
+Write as a knowledgeable friend who has mud on their shoes and treats on their jumper — not as a lecturer, not as a dominance coach, not as a breathless influencer.
+
+## Registers
+
+| Register | Use |
+| --- | --- |
+| Conversational | Default narration and explanation |
+| Instructional | Numbered steps, second person “you”, imperative verbs |
+| Reflective | Short asides on owner feelings — never mocking |
+| Comic | Understatement, precise observation of dog-human absurdity |
+
+## Sentence craft
+
+- Prefer concrete nouns (lead, cheese, hallway) over abstractions (energy, mindset, pack).  
+- Vary sentence length; one short punch after a longer explanation.  
+- British English: practise, behaviour, lead, vet.  
+- Avoid academic hedge stacks — one honest uncertainty is enough.
+
+## Humour rules
+
+**Do:** Toast falling face-down while the dog learns a perfect sit; the gap between Instagram recall and Tuesday in the rain.  
+**Don’t:** Mock the dog for fear; ridicule owners in distress; jokes about pain, shock collars, or “dominance.”
+
+## Welfare voice
+
+- Stop conditions stated plainly (“If they freeze, pause.”)  
+- No guilt trips when readers struggle  
+- Referral without shame: “This is the sensible next step.”
+
+## Prohibited tics
+
+- Alpha / pack leader / stubborn / naughty as explanations  
+- Guaranteed outcomes  
+- Fake case studies presented as research  
+- Copying another author’s signature phrases or rhythm
+
+## Calibration
+
+See [`calibration/README.md`](calibration/README.md) for approved-style samples (not final chapters).
