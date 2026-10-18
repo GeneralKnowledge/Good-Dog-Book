@@ -15,8 +15,9 @@
 | Single walk advice | **Leisure walk vs training walk** split (§3); lead mechanics deferred to **ch10** |
 | Navigation buried in prose | **Cookbook bookmark table** (§4) + read-order hints (ch12 before heavy outdoor work) |
 | — | Optional further-reading pointer (ch14); **no** EPPS endorsement |
+| — | §4 **“What this chapter is not”** — explicit anti-glossary; loop/checks deferred to ch04/ch14 |
 
-v2 matched this shape; **v3** is the current synced text plus this delta table so you can judge **distinctiveness**, not diff two nearly identical DOCX files.
+v2 matched most of this shape; **v3** is the current synced text plus this delta table so you can judge **distinctiveness**, not diff two nearly identical DOCX files.
 
 ## What we are asking you to review
 
@@ -134,6 +135,8 @@ Mix them up and you will think your dog is “stubborn” when really you ran a 
 ## Section 4 — Use this book like a cookbook
 
 You do **not** have to read cover to cover in one go. Most owners should not. Find the chapter you need. **Bookmark it** — sticky note, folded corner, app bookmark, photo of the page.
+
+**What this chapter is not:** a glossary, a wall of trainer jargon, or a front-loaded syllabus. We do not list the teaching loop or five checks here on purpose — you get **attitude and navigation** first; step-by-step mechanics live in **Chapter 4** (loop) and **Chapter 14** (full check table) when you need them.
 
 | If you mainly want… | Bookmark this |
 | --- | --- |
