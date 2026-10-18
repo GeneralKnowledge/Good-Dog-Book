@@ -232,14 +232,17 @@ Humour generally **lands**; occasional **voice-brief insertion** (e.g. “TikTok
 
 ---
 
-## 10. Author decisions needed
+## 10. Author decisions — approved 2026-10-18
 
-| Decision | Why not inferred |
+| Decision | Author choice |
 | --- | --- |
-| **Accept Dogs Trust stop-start as book loose-lead method** | Documented in method-decisions; IMDT disagreement remains — confirm footnote tone |
-| **Two-harness “permission to pull”** | Include, soften, or omit DT optional tip |
-| **Leave-it** | Stay out of scope vs add chapter/sidebar |
-| **Expansion budget** | Target ~35–45k total vs stay lean ~25k |
+| **Loose-lead method** | Dogs Trust stop-start; IMDT disagreement via footnote / disagreements.md |
+| **Two-harness tip** | Include **softened** — last resort; prefer short management walk |
+| **Leave-it** | **Out of scope** |
+| **Second draft** | Expand depth (Part III + ch08 priority), not uniform padding |
+| **Stage G** | Proceed per §9 sequence |
+
+Recorded in [`research/decision-register.md`](../research/decision-register.md).
 
 ---
 

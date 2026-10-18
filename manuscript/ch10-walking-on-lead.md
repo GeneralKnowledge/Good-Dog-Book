@@ -63,7 +63,9 @@ One variable at a time. If they buck or bite the lead, pause — mouthing gear i
 3. **Change direction** occasionally so they learn to watch you.  
 4. **Core rule:** **Loose lead = forward.** The instant the lead tightens, **stop**. Stand quiet; do not jerk or scold. Move again only when slack returns. If they do not reorient, take a few steps **the other way** to reset focus (`book-research-dt-loose-lead-mechanics`).
 
-Expect walks to take longer while learning. If you cannot be consistent one day (late for work), Dogs Trust notes some people use a clear “training vs management” harness signal — but mixed signals slow learning; prefer short consistent sessions.
+Expect walks to take longer while learning.
+
+**If you truly cannot be consistent today** (late for work, injury, chaos at home): Dogs Trust mentions using two harnesses — one that signals “okay to pull today” and one for training walks. This book treats that as a **last resort**, not a lifestyle: dogs learn slowly when rules flip by wardrobe. Prefer a **shorter management walk** on the usual kit, or skip training and try tomorrow — over letting pulling pay on days you are too rushed for stop-start.
 
 ### Train yourself
 
@@ -77,7 +79,7 @@ Expect walks to take longer while learning. If you cannot be consistent one day 
 - **Do:** Check in at your side for pay; learn direction changes predict treats.  
 - **Don't:** Learn that pulling is the only way to reach the smell.
 
-*Note:* Some trainers prefer pure positive shaping without stop-start; this book follows **public Dogs Trust guidance** — see `research/disagreements.md`.
+*Note:* Some trainers teach loose-lead without stop-start. This book follows **Dogs Trust public guidance** above. Avoid jerking the lead or kit that works through pain or startle — if a method needs that, it is not in this book’s kit.
 
 ## Section 4 — Real walks: environment, check-ins, ending early
 

@@ -123,6 +123,21 @@ Optional pre-print review: [`qualified-review-plan.md`](../editorial/qualified-r
 
 ---
 
+## Phase 3 author decisions (Stage G)
+
+**Status:** **Approved (author 2026-10-18)**
+
+| Decision | Author choice | Source |
+| --- | --- | --- |
+| Loose-lead method | **Dogs Trust stop-start** (stop when lead tightens; forward on slack) as book method | [`method-decisions-from-sources.md`](method-decisions-from-sources.md); footnote in ch10 §3 |
+| IMDT / −R disagreement | **Footnote + `disagreements.md`** — book follows DT public page; no jerk/leash pops | Phase 3 report E-3 |
+| Two-harness “permission to pull” | **Include softened** — only when consistency impossible; warn it slows learning; prefer shorter management walk | Phase 3 report §10 |
+| Leave-it | **Out of scope** for one-book plan (no dedicated protocol) | ch11 brief; register app scope cut |
+| Second draft shape | **Expand depth** toward useful book length — prioritise Part III + ch08 per Phase 3 §9 (not uniform padding) | [`editorial/2026-10-18-phase3-whole-manuscript-diagnosis.md`](../editorial/2026-10-18-phase3-whole-manuscript-diagnosis.md) |
+| Stage G revision plan | **Proceed** with Phase 3 prioritised sequence | Author confirmation 2026-10-18 |
+
+---
+
 ## Manuscript planning
 
 **Status:** **Decided (author 2026-10-18)**

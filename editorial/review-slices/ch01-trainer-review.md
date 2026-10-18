@@ -148,7 +148,7 @@ If you remember nothing else from this section: **easier first, then ask again.*
 | If you are mainly worried about… | Start here, then follow the map |
 | --- | --- |
 | Fear on walks, freezes, “won’t go” | ch12, then back to skills as ready |
-| Recall in distractions | ch07–ch08 foundations, **ch12**, then ch09 (some sections need professional review — the book will say so) |
+| Recall in distractions | ch07–ch08 foundations, **ch12**, then ch09 |
 | Stuck anywhere, grumpy trainer, everything fell apart | Five checks / **ch14** |
 
 **What we promise:** plain language, reward-based methods, honest limits, and repeated permission to **stop** when you or the dog are not okay.

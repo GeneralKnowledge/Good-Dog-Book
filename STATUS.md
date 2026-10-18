@@ -14,7 +14,7 @@
 | D | Voice and templates | **Complete** (brief + calibration samples) |
 | E | First manuscript | **First draft complete** (~19k words, all 14 chapters) |
 | F | Whole-manuscript diagnosis | **Complete** (2026-10-18) — see report below |
-| G | Targeted revision passes | **Not started** (await author approval of Phase 3 plan) |
+| G | Targeted revision passes | **In progress** (author approved Phase 3 decisions 2026-10-18) |
 | H | Cold read and final audit | Not started |
 
 ## Phase 3 report
