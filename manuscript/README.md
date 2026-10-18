@@ -4,6 +4,8 @@
 
 **Drafted:** [`ch01-the-deal.md`](ch01-the-deal.md) (read #1).
 
+**Plan:** Section-level outline for all chapters — [`architecture/CHAPTER_PLAN.md`](../architecture/CHAPTER_PLAN.md).
+
 Before each new chapter:
 
 1. Gates remain as recorded in `STATUS.md` (amend if foundation changes)  

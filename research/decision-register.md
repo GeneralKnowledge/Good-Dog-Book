@@ -121,6 +121,15 @@ Reviewer deliverable: owner steps + stop rules per section → log in [`source-r
 
 ---
 
+## Manuscript planning
+
+**Status:** **Decided (author 2026-10-18)**
+
+| Decision | Source |
+| --- | --- |
+| Plan all chapters (sections + dual-track beats + draft order) before drafting ch02+ | [`architecture/CHAPTER_PLAN.md`](../architecture/CHAPTER_PLAN.md) |
+| ch01 v1 remains; expand at revision | [`manuscript/ch01-the-deal.md`](../manuscript/ch01-the-deal.md) |
+
 ## Foundation gates (summary)
 
 G1–G4: see [`foundation-gates.md`](foundation-gates.md) — **Approved** 2026-10-18.

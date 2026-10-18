@@ -13,6 +13,7 @@
 | Research sprint (2026-10-18) | [`research/research-sprint-brief.md`](../research/research-sprint-brief.md), [`research/chapter-coverage-matrix.md`](../research/chapter-coverage-matrix.md) |
 | E5 reviewer questions | [`research/e5-reviewer-questions.md`](../research/e5-reviewer-questions.md) |
 | Chapter order and briefs | [`architecture/CHAPTER_MAP.md`](../architecture/CHAPTER_MAP.md) |
+| Chapter plan (master outline) | [`architecture/CHAPTER_PLAN.md`](../architecture/CHAPTER_PLAN.md) |
 | Voice and house style | [`writing/VOICE_BRIEF.md`](../writing/VOICE_BRIEF.md), [`writing/HOUSE_STYLE.md`](../writing/HOUSE_STYLE.md) |
 | Chapter drafting template | [`writing/CHAPTER_TEMPLATE.md`](../writing/CHAPTER_TEMPLATE.md) |
 | Train yourself / train the dog pattern | [`writing/dual-track-pattern.md`](../writing/dual-track-pattern.md) |

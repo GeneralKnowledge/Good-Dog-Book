@@ -4,6 +4,8 @@
 
 **Drafting rule:** One chapter at a time in Stage E, only after G1–G4 approval. Each chapter must satisfy the [contribution test](#contribution-test).
 
+**Master outline (sections + dual-track beats):** [`CHAPTER_PLAN.md`](CHAPTER_PLAN.md) — plan chapters here before drafting ch02+.
+
 **Reading order:** Follow the table below (author decision 2026-10-18). Chapter **IDs** (`ch07`, `ch12`, …) stay stable for briefs and claims; **read #** is the manuscript order.
 
 ## Reading order and sequence
