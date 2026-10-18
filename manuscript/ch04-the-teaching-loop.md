@@ -9,6 +9,8 @@ You have the deal, the learning theory, and a treat bag that does not rattle lik
 
 The **teaching loop** is deliberately boring: **setup → cue → behaviour → mark/reward → release → reset.** Boring is good. Boring means you are not improvising a new religion every evening. This chapter installs the loop on one simple behaviour — sit or hand target — and teaches you what to do when nothing happens except your own rising blood pressure.
 
+Chapter 1 said it in plain words: **get ready → ask once → pay → let them off → start fresh.** From here we use the trainer labels on purpose. Same kindness, clearer steps. **Bookmark Chapter 4** when you want the full habit for any skill.
+
 ## Section 1 — The loop in prose
 
 Walk through it once, slowly:
@@ -31,14 +33,14 @@ The release matters more than owners think. Without it, “sit” becomes an ind
 ### Train yourself
 
 - **Know:** Timing beats charisma. Late marks pay for the wrong picture.  
-- **Do:** Cue once; mark while the behaviour is happening; release every rep so “stay” is not smuggled in by accident.  
-- **Don't:** Stack five cues; drill past the wag; train while you are already late for something.
+- **Do:**Cue once. mark while the behaviour is happening. release every rep so “stay” is not smuggled in by accident.  
+- **Don't:**Stack five cues. drill past the wag. train while you are already late for something.  
 
 ### Train the dog
 
-- **Know:** Behaviour → marker → pay is the association; release ends the trial.  
+- **Know:**Behaviour → marker → pay is the association. release ends the trial.  
 - **Do:** Earn the mark with the agreed movement today — full sit or honest hand touch to palm.  
-- **Don't:** Learn that only the third “sit sit SIT” counts; learn that training never ends.
+- **Don't:**Learn that only the third “sit sit SIT” counts. learn that training never ends.  
 
 ## Section 2 — Splitting criteria — one thing per session
 
@@ -51,8 +53,8 @@ Write a one-line success criterion before you start: *“I mark when elbows hit 
 ### Train yourself
 
 - **Know:** One criterion per session is a kindness to future you.  
-- **Do:** Decide what earns the mark **before** you cue; celebrate honest slices of the behaviour.  
-- **Don't:** Add duration because you are bored; move the goalposts mid-rep because Instagram exists.
+- **Do:**Decide what earns the mark **before** you cue. celebrate honest slices of the behaviour.  
+- **Don't:**Add duration because you are bored. move the goalposts mid-rep because Instagram exists.  
 
 ### Train the dog
 
@@ -85,14 +87,14 @@ When the mantra works, you will feel almost anticlimactic — no drama, just a s
 ### Train yourself
 
 - **Know:** Frustration is information about the plan — usually criterion or context, not “disrespect.”  
-- **Do:** Run the five checks; change setup or reward before you change volume; end session if you are heating up.  
-- **Don't:** Repeat cues; corner the dog; train through shutdown because you are embarrassed in front of the neighbour.
+- **Do:**Run the five checks. change setup or reward before you change volume. end session if you are heating up.  
+- **Don't:**Repeat cues. corner the dog. train through shutdown because you are embarrassed in front of the neighbour.  
 
 ### Train the dog
 
-- **Know:** Easier reps rebuild confidence; failed reps in chaos teach hesitation.  
+- **Know:**Easier reps rebuild confidence. failed reps in chaos teach hesitation.  
 - **Do:** Get paid for a smaller success, then grow.  
-- **Don't:** Learn that cues are noise; learn that humans escalate when confused.
+- **Don't:**Learn that cues are noise. learn that humans escalate when confused.  
 
 ## Practice lab — Full loop, stop while eager
 

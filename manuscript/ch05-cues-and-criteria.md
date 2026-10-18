@@ -11,6 +11,8 @@ This chapter is about clean cues, observable success criteria, and the disciplin
 
 Criteria are how you stay fair. If you cannot describe what success looks like in one observable sentence, the dog cannot guess your invisible rubric. “Be good” is not a criterion. “Bottom on floor until I count two, then release” is — and even that is only one **D** at a time.
 
+We use words like **cue** and **criterion** here on purpose — plain version: **the word you say** and **what counts as a win**. **Bookmark this chapter** when the dog “knows it at home” but not outside.
+
 ## Section 1 — One cue, one meaning
 
 A **cue** is an opportunity to earn pay, not a subpoena. Say it once. If nothing happens, the answer is not volume — it is the five checks from Chapter 4 and **make it easier — then ask again.**
@@ -24,8 +26,8 @@ Watch for **accidental cues** — the treat bag rustle, your leaning forward, th
 ### Train yourself
 
 - **Know:** Repeating a cue teaches the dog the first three do not count.  
-- **Do:** Say the cue once; if no behaviour, simplify and try again — or stop.  
-- **Don't:** Nag; change the word mid-stream because you are embarrassed; punish “wrong” guesses when the criterion was unclear.
+- **Do:**Say the cue once. if no behaviour, simplify and try again — or stop.  
+- **Don't:**Nag. change the word mid-stream because you are embarrassed. punish “wrong” guesses when the criterion was unclear.  
 
 ### Train the dog
 
@@ -50,7 +52,7 @@ A humble schedule: first teach the behaviour, then steady pay, then — much lat
 ### Train yourself
 
 - **Know:** Impatience adds three variables and calls it “proofing.”  
-- **Do:** Write the one-line criterion; change only one D per session.  
+- **Do:**Write the one-line criterion. change only one D per session.  
 - **Don't:** Stand across the room with ducks and expect a sit you only paid for in silence.
 
 ### Train the dog
@@ -69,15 +71,15 @@ Generalisation is also about **you**: different hat, sitting down, holding the l
 
 ### Train yourself
 
-- **Know:** “He knows it at home” is not an insult; it is how learning works.  
-- **Do:** Re-run easy reps in each new context; jackpot the first wins in a harder place.  
-- **Don't:** Assume telepathy; blame defiance when the criterion was never taught with that distraction present.
+- **Know:**“He knows it at home” is not an insult. it is how learning works.  
+- **Do:**Re-run easy reps in each new context. jackpot the first wins in a harder place.  
+- **Don't:**Assume telepathy. blame defiance when the criterion was never taught with that distraction present.  
 
 ### Train the dog
 
 - **Know:** New place, new smells, new rules until proven otherwise.  
-- **Do:** Bank paid reps in each environment; grow difficulty slowly.  
-- **Don't:** Learn that parks mean failure; learn that cues only work in one room.
+- **Do:**Bank paid reps in each environment. grow difficulty slowly.  
+- **Don't:**Learn that parks mean failure. learn that cues only work in one room.  
 
 ## Practice lab — One generalisation step
 

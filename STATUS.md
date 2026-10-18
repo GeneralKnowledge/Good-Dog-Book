@@ -1,6 +1,6 @@
 # Project status
 
-**Last updated:** 2026-10-18 (ch01 casual rewrite)  
+**Last updated:** 2026-10-18 (bookwide tone pass)  
 **Branch workflow:** Feature work on `cursor/*-5834`; merge via PR.
 
 ## Current stage

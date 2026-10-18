@@ -5,7 +5,9 @@
 
 ## Opening
 
-The door is a portal. For dogs it often means **arousal**: footsteps, voices, smells of other people’s coats. Most “bad manners” at the threshold are predictable — and fixable first with **management**, not with forcing face-to-face hellos until the dog is ready. If your dog stiffens, barks, or backs away when guests appear, read Chapter 12 first. Comfort beats politeness.
+The door is a portal. For dogs it often means **arousal**: footsteps, voices, smells of other people’s coats. Most “bad manners” at the threshold are predictable — and fixable first by **preventing** rehearsal (gates, leads, separate room), not with forcing face-to-face hellos until the dog is ready. If your dog stiffens, barks, or backs away when guests appear, read Chapter 12 first. Comfort beats politeness.
+
+**Bookmark this chapter** for doors and visitors. Optional for basics-only owners until sit/come/walk are steady.
 
 ## Section 1 — Doors: safety before politeness
 
@@ -16,8 +18,8 @@ The door is not a test of rank. It is a **safety pinch point**: darting into tra
 ### Train yourself
 
 - **Know:** Every uncontrolled exit teaches “doors explode with freedom.” Your hurry is the enemy.  
-- **Do:** One routine — dog behind gate or on lead, you open, you release only when calm enough; practise with nobody there first.  
-- **Don't:** Open wide “just once” while the dog rockets past; shout sit from the doorstep while the dog is already gone.
+- **Do:**One routine — dog behind gate or on lead, you open, you release only when calm enough. practise with nobody there first.  
+- **Don't:**Open wide “just once” while the dog rockets past. shout sit from the doorstep while the dog is already gone.  
 
 ### Train the dog
 
@@ -48,15 +50,15 @@ No child carriers, no leaning over, no “dogs love me” exceptions.
 
 ### Train yourself
 
-- **Know:** A polite visitor experience for **humans** may be the wrong goal for **this dog today**; distance protects everyone’s face.  
+- **Know:**A polite visitor experience for **humans** may be the wrong goal for **this dog today**. distance protects everyone’s face.  
 - **Do:** Plan greetings like fire drills — where dog goes, where guest stands, how you end early.  
-- **Don't:** Hold the dog while someone pets; force hand-sniff rituals; punish growling and call it training (`book-research-defra-002-avoid-harsh`).
+- **Don't:**Hold the dog while someone pets. force hand-sniff rituals. punish growling and call it training (`book-research-defra-002-avoid-harsh`).  
 
 ### Train the dog
 
 - **Know:** Guests can predict pressure or predict calm — your setup decides.  
-- **Do:** Learn that staying back or looking at you can pay; experience guests as **optional**, not mandatory assault.  
-- **Don't:** Rehearse full-contact greetings while over threshold; learn that growling is ignored until snap.
+- **Do:**Learn that staying back or looking at you can pay. experience guests as **optional**, not mandatory assault.  
+- **Don't:**Rehearse full-contact greetings while over threshold. learn that growling is ignored until snap.  
 
 **Dogs Trust-style progression (when the dog is sub-threshold):**
 
@@ -74,15 +76,15 @@ Handling is **choice-building**, not restraint drills. You are teaching “human
 
 ### Train yourself
 
-- **Know:** Forced handling teaches fight or freeze; vet day then costs more.  
-- **Do:** Daily three-second touches where the dog is soft; build a “chin rest” or “paws on lap” only if the dog offers.  
-- **Don't:** Hold down for nail clips while the dog panics; “dominate” through fear.
+- **Know:**Forced handling teaches fight or freeze. vet day then costs more.  
+- **Do:**Daily three-second touches where the dog is soft. build a “chin rest” or “paws on lap” only if the dog offers.  
+- **Don't:**Hold down for nail clips while the dog panics. “dominate” through fear.  
 
 ### Train the dog
 
 - **Know:** Touch can predict treats or predict trap — your history decides.  
 - **Do:** Learn that offering a paw or holding still for a second earns release and pay.  
-- **Don't:** Learn that growling is punished (`book-research-defra-002-avoid-harsh`); escalate to bite.
+- **Don't:**Learn that growling is punished (`book-research-defra-002-avoid-harsh`). escalate to bite.  
 
 Growling means **stop and reassess** — distance, pace, or professional help. Recommended review before publication for intensity on puppies vs adults (`editorial/qualified-review-plan.md`).
 

@@ -9,6 +9,8 @@ You have met the teaching loop, the reward menu, and the owner mantra. Good. Bef
 
 This chapter is **stress literacy**, not diagnosis. You are not playing vet, behaviourist, or TikTok body-language detective. You are learning to see **clusters** of discomfort, take them seriously, and change the plan before frustration — yours or theirs — becomes the training method. Part III assumes you will run a **comfort check** whenever live life gets loud. If you skip this chapter and jump to recall, you will train through worry and wonder why trust evaporated.
 
+**Bookmark this chapter** if your dog freezes, won't take food outside, or looks worried on walks — read it **before** heavy work on come, lead, or doors.
+
 ## Section 1 — What stress looks like in pet dogs (clusters, not pixels)
 
 Stress in pet dogs rarely arrives as a single cartoon signal. One yawn might be a tired Tuesday. One lip lick might be anticipation of cheese. What matters is **context plus a cluster**: several signs together, when the situation is genuinely demanding — vet waiting room, crowded pavement, stranger leaning over the garden gate.
@@ -27,7 +29,7 @@ None of these alone proves panic. **Clusters in context** tell you the dog’s n
 
 - **Know:** Stress is **information about the setup**, not a moral failing. Your job is to believe what you see, even when Auntie insists “he’s fine, he just needs confidence.”  
 - **Do:** Name what you notice in plain language (“stiff, won’t eat, backing up”) and **pause the lesson** — shorter distance, quieter street, or full stop.  
-- **Don't:** Fixate on one pixel from an internet chart; train “through it” because you paid for a six-week course; punish growling and call it manners.
+- **Don't:**Fixate on one pixel from an internet chart. train “through it” because you paid for a six-week course. punish growling and call it manners.  
 
 ### Train the dog
 
@@ -48,15 +50,15 @@ Compare your dog **to their own baseline**: how do they greet you when relaxed? 
 
 ### Train yourself
 
-- **Know:** Charts help you **ask better questions**; they do not replace your vet or a qualified behaviourist when fear or aggression is frequent.  
+- **Know:**Charts help you **ask better questions**. they do not replace your vet or a qualified behaviourist when fear or aggression is frequent.  
 - **Do:** Film ten seconds of a tricky moment (safely, from distance) and watch without sound — often you see tension you missed live.  
-- **Don't:** Label the dog “anxious” as identity; guilt-spiral because a stranger’s collie looks “happier”; diagnose medical pain from a blog post.
+- **Don't:**Label the dog “anxious” as identity. guilt-spiral because a stranger’s collie looks “happier”. diagnose medical pain from a blog post.  
 
 ### Train the dog
 
-- **Know:** They are not performing for your camera; they are responding to pressure in the environment.  
+- **Know:**They are not performing for your camera. they are responding to pressure in the environment.  
 - **Do:** Build trust by **shrinking the world** until their body loosens again — same method as harder skills, different goal.  
-- **Don't:** Flood them with “socialisation” to fix fear; pair every scary moment with shouted cues.
+- **Don't:**Flood them with “socialisation” to fix fear. pair every scary moment with shouted cues.  
 
 ## Section 3 — Stop, simplify, manage (comfort in the five checks)
 
@@ -75,13 +77,13 @@ Comfort is not softness. It is **safety for learning**. A dog who cannot eat chi
 ### Train yourself
 
 - **Know:** Ending early is a **success metric**, especially before Part III. Impatience is your cue to shrink the world, not to push.  
-- **Do:** Write one line after a hard outing: “Comfort check failed at ___; next time I will ___.”  
-- **Don't:** Treat stop rules as defeat; keep score of “sessions finished while still okay” instead of “minutes drilled.”
+- **Do:**Write one line after a hard outing: “Comfort check failed at ___. next time I will ___.”.  
+- **Don't:**Treat stop rules as defeat. keep score of “sessions finished while still okay” instead of “minutes drilled.”.  
 
 ### Train the dog
 
 - **Know:** They learn whether you are safe to be honest with — or whether they must endure to the end of the walk.  
-- **Do:** Experience relief when you retreat; pair your presence with **exit ramps** from pressure.  
+- **Do:**Experience relief when you retreat. pair your presence with **exit ramps** from pressure.  
 - **Don't:** Learn that stress must be ignored to keep you happy.
 
 ## Observation exercise (not a practice lab)

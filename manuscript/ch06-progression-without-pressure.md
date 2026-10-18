@@ -11,6 +11,8 @@ This chapter is owner-side progression: when to consolidate instead of chasing n
 
 If Chapter 4 gave you the loop and Chapter 5 gave you criteria, Chapter 6 gives you **permission** — to repeat, to pause, to call the vet, to hire help. Progress without pressure is not laziness; it is how skilled trainers avoid burning trust on a Tuesday.
 
+Most owners only need **sit, come, and walk nicely** to stay on the basics path — bank reps at the current level instead of chasing new tricks. **Bookmark this chapter** when progress wobbles but nobody is unsafe.
+
 ## Section 1 — Consolidation beats novelty
 
 Fluency is boring. It is also the point. Five clean sits in the hallway with one cue and happy pay beats a dozen new tricks performed once on video. **Consolidation** — paid reps at the current level until easy — is how behaviours survive bad moods and busy parks.
@@ -21,15 +23,15 @@ Consolidation also protects **you** on bad days. When the sit is fluent, you spe
 
 ### Train yourself
 
-- **Know:** Novelty is shiny; fluency is what you need when the doorbell rings.  
-- **Do:** Bank reps at the current criterion; celebrate “boring” success.  
-- **Don't:** Escalate difficulty because you are restless; call the dog “stubborn” when you skipped consolidation.
+- **Know:**Novelty is shiny. fluency is what you need when the doorbell rings.  
+- **Do:**Bank reps at the current criterion. celebrate “boring” success.  
+- **Don't:**Escalate difficulty because you are restless. call the dog “stubborn” when you skipped consolidation.  
 
 ### Train the dog
 
 - **Know:** Repetition with pay makes behaviour sturdy.  
 - **Do:** Repeat what works at this level until it is easy, then change one thing.  
-- **Don't:** Learn a graveyard of half-taught tricks; learn that every session must be harder.
+- **Don't:**Learn a graveyard of half-taught tricks. learn that every session must be harder.  
 
 ## Section 2 — Setbacks: environment, health, adolescence
 
@@ -44,13 +46,13 @@ Adolescence deserves its own footnote of mercy: the dog who nailed recall at fiv
 ### Train yourself
 
 - **Know:** Setbacks are often context or biology, not betrayal.  
-- **Do:** Check health when change is sudden; reduce criteria; manage what you cannot train today.  
-- **Don't:** Train through pain; punish regression; match adolescent energy with your worst Tuesday.
+- **Do:**Check health when change is sudden. reduce criteria. manage what you cannot train today.  
+- **Don't:**Train through pain. punish regression. match adolescent energy with your worst Tuesday.  
 
 ### Train the dog
 
 - **Know:** When the body or world is wrong, “try harder” is nonsense.  
-- **Do:** Succeed small again; trust the loop in quieter conditions.  
+- **Do:**Succeed small again. trust the loop in quieter conditions.  
 - **Don't:** Learn that humans get scary when life is hard.
 
 ## Section 3 — When to simplify vs when to refer
@@ -66,8 +68,8 @@ Multi-dog households, toddlers, and shared custody are not moral failures — th
 ### Train yourself
 
 - **Know:** A book cannot see your dog’s eyes, gait, or household.  
-- **Do:** Use management; call the vet for medical rule-outs; contact ABTC-registered or force-free professionals when behaviour is risky or stuck.  
-- **Don't:** Drill fear; borrow dominance stories from the internet; treat referral as personal failure.
+- **Do:**Use management. call the vet for medical rule-outs. contact ABTC-registered or force-free professionals when behaviour is risky or stuck.  
+- **Don't:**Drill fear. borrow dominance stories from the internet. treat referral as personal failure.  
 
 ### Train the dog
 

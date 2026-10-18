@@ -5,7 +5,9 @@
 
 ## Opening
 
-Same book, different tempo. A twelve-week puppy, a seven-month teenager, and a rescue on day twelve in your hallway are not three versions of the same checklist. They share one method — reward-based teaching, management, vet when health is in question, comfort checks when stress clusters — but **expectations** and **first priorities** differ. This chapter sorts the noise so you do not punish a rescue for missing “puppy class” or treat an adolescent like a finished adult.
+Same book, different tempo. A twelve-week puppy, a seven-month teenager, and a rescue on day twelve in your hallway are not three versions of the same checklist. They share one method — reward-based teaching, sensible prevention (gates, leads), vet when health is in question, comfort checks when stress clusters — but **expectations** and **first priorities** differ. This chapter sorts the noise so you do not punish a rescue for missing “puppy class” or treat an adolescent like a finished adult.
+
+**Bookmark this chapter** for puppy, teenage, or rescue tempo — basics still apply. Sit, come, and walk nicely just move slower on some days.
 
 ## Section 1 — Puppies: toilet, mouthing, gentle exposure principles
 
@@ -27,14 +29,14 @@ If exposure goes wrong (panic, shutdown), **stop**, simplify, speak to your vet 
 
 ### Train yourself
 
-- **Know:** Puppyhood is **short on sleep, long on mess**; comparison to adult dogs on Instagram is cruelty to yourself.  
-- **Do:** Schedule toilet trips; stock chews; log one gentle exposure win per week.  
-- **Don't:** Punish accidents indoors; “socialise” by handing to every stranger; blast scary sounds to “desensitise.”
+- **Know:**Puppyhood is **short on sleep, long on mess**. comparison to adult dogs on Instagram is cruelty to yourself.  
+- **Do:**Schedule toilet trips. stock chews. log one gentle exposure win per week.  
+- **Don't:**Punish accidents indoors. “socialise” by handing to every stranger. blast scary sounds to “desensitise.”.  
 
 ### Train the dog
 
-- **Know:** World is new; bladder is small; teeth are for exploring.  
-- **Do:** Learn where toilet pays; learn soft mouth on hands with redirects.  
+- **Know:**World is new. bladder is small. teeth are for exploring.  
+- **Do:**Learn where toilet pays. learn soft mouth on hands with redirects.  
 - **Don't:** Learn that humans are unpredictable grabbers or that fear must be endured.
 
 ## Section 2 — Adolescent regression — normal chaos, same method
@@ -53,12 +55,12 @@ Do not swap to harsh tools because the neighbour’s dog “respects” a shout.
 ### Train yourself
 
 - **Know:** Adolescence is a **season**, not a verdict on your training career.  
-- **Do:** Lower the bar publicly; train the hard bits privately; celebrate small wins.  
-- **Don't:** Add three new tricks because sit “stopped working”; train angry after work; give up on management.
+- **Do:**Lower the bar publicly. train the hard bits privately. celebrate small wins.  
+- **Don't:**Add three new tricks because sit “stopped working”. train angry after work. give up on management.  
 
 ### Train the dog
 
-- **Know:** Brain and body are remodelling; old paths need repaving.  
+- **Know:**Brain and body are remodelling. old paths need repaving.  
 - **Do:** Relearn that check-ins and calm still pay in boring places.  
 - **Don't:** Learn that ignoring you is the only way to reach the fun — because you only practise in chaos.
 
@@ -73,14 +75,14 @@ Match training to **readiness**, not your adoption timeline. Some dogs bloom in 
 ### Train yourself
 
 - **Know:** You are building **safety and predictability**, not a showcase dog for social media.  
-- **Do:** Keep a simple schedule; note triggers in a notebook; call reward-based professionals when stuck.  
-- **Don't:** Host a welcome party; flood with family visits; blame “abuse” for every behaviour without vet and behaviour assessment.
+- **Do:**Keep a simple schedule. note triggers in a notebook. call reward-based professionals when stuck.  
+- **Don't:**Host a welcome party. flood with family visits. blame “abuse” for every behaviour without vet and behaviour assessment.  
 
 ### Train the dog
 
-- **Know:** New home may have been scary before; your job is to prove this one has exit ramps.  
+- **Know:**New home may have been scary before. your job is to prove this one has exit ramps.  
 - **Do:** Learn names of rooms, routines, and where rest is undisturbed.  
-- **Don't:** Learn that new people always mean cornering; that mistakes mean exile.
+- **Don't:**Learn that new people always mean cornering. that mistakes mean exile.  
 
 > **Practice lab (pick one).** *Puppy:* mouthing redirect — ten seconds calm petting, treat for soft mouth, stop if arousal rises. *Adolescent:* two good recall reps in garden, out. *Rescue:* decompression day — one room, scatter feed, no guests; note comfort clusters.
 

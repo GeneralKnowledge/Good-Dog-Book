@@ -23,6 +23,21 @@ You do not have to read cover to cover before you act. Use this table, then retu
 
 Chapter 1 lists the same shortcuts for readers who started at the beginning; this copy lives here so **help is one flip away** when things go wrong.
 
+## Bookmark the basics (cookbook)
+
+| If you mainly want… | Chapter |
+| --- | --- |
+| **Sit, focus, name** | 7 |
+| **Calm at home / mat** | 8 |
+| **Come when called** | 9 |
+| **Walk nicely on lead** | 10 |
+| **Door / visitors** | 11 |
+| **Scared or stressed dog** | 12 |
+| **Puppy / teenager / rescue** | 13 |
+| **Everything fell apart** | 14 (you are here) |
+
+You do not owe anyone a cover-to-cover read. **Sticky note the page you need.**
+
 ## Section 1 — Troubleshooting the loop and the five checks
 
 When a skill stalls, run the **teaching loop** in your head: setup → cue → behaviour → mark/reward → release → reset. Something in that chain broke. Before you repeat the cue louder, use the **five checks** and the owner mantra:
@@ -31,32 +46,34 @@ When a skill stalls, run the **teaching loop** in your head: setup → cue → b
 
 ### The five checks (full table)
 
-| Check | Ask yourself | Typical fixes | Stop / refer if |
-| --- | --- | --- | --- |
-| **1. Setup** | Is the environment small and calm enough for *this* dog *today*? | Move indoors; quieter street; fewer people; use gate or lead | You cannot create a safe setup (e.g. unavoidable aggression in home) |
-| **2. Reward** | Does this dog want what you are offering **right now**? | Higher value food; play; distance from scary thing as “reward”; train before meals | Refuses all rewards repeatedly in easy contexts — vet / behaviour |
-| **3. Criterion** | Are you asking for **one** clear thing, not duration + distance + distraction at once? | Pick one dimension; shorten sit; accept check-in instead of heel | You keep adding criteria because you are embarrassed — pause, regroup |
-| **4. Comfort** | Any **stress cluster** (Chapter 12)? Panting, stiff, won’t eat, fleeing, tight bark? | Stop teaching; simplify; manage; increase distance | Growling, snapping, biting, shutdown most days |
-| **5. Context** | Did it work at home but fail on the pavement? | **Shrink the world** — practise where success is likely; grow slowly | Sudden failure everywhere — vet first |
+Chapter 1 names these in plain English. Same five questions:
 
-**Shrink the world** is plain English for lowering difficulty and distraction until the dog can succeed again, then generalising in modest steps — not a single heroic outing to “prove” progress.
+| Plain (Ch1) | Check | Ask yourself | Typical fixes | Stop / refer if |
+| --- | --- | --- | --- | --- |
+| **Place** | Setup | Is it calm enough for *this* dog *today*? | Move indoors. Quieter street. Gate or lead. | You cannot make a safe setup at home |
+| **Pay** | Reward | Do they want the treat or toy **right now**? | Better food. Play. Train before meals. | Won't take pay in easy places — vet / behaviour |
+| **Ask** | Criterion | **One** clear ask, not three at once? | Shorten the ask. One goal per walk. | You keep adding asks because you are embarrassed |
+| **Mood** | Comfort | Stress cluster (Chapter 12)? Won't eat, stiff, fleeing? | Stop teaching. Simpler place. More distance. | Growling, biting, shutdown most days |
+| **Same at home?** | Context | Worked indoors but not on the pavement? | **Easier place** — house → garden → outside | Sudden failure everywhere — vet first |
+
+**Easier place** (same idea as “shrink the world”) means train where the dog can succeed again, then grow in small steps — not one heroic outing to “prove” progress.
 
 Optional habit: when **you** fix the plan instead of blaming the dog, a quiet **“Good human.”** — marker for the trainer in the room.
 
-**Worked example (pavement recall):** It worked in the garden yesterday; today your dog sniffs the cue and wanders off. Check 5 — context — failed first: new smells, other dogs visible, you rushed out after a meeting. Check 4 — they are stiff and will not eat. **Stop** calling. Turn for home on the lead; tomorrow practise five easy recalls on the long line in a quieter field before you ask on the street again. No moral lecture for either of you.
+**Worked example (pavement recall):** It worked in the garden yesterday. Today your dog sniffs the cue and wanders off. **Same at home?** failed first — new smells, other dogs visible, you rushed out after a meeting. **Mood** — they are stiff and will not eat. **Stop** calling. Turn for home on the lead. Tomorrow practise five easy recalls on the long line in a quieter field before you ask on the street again. No moral lecture for either of you.
 
-**Worked example (mat settle):** Dog lies down but pops up every ten seconds. Check 3 — criterion — is too long too soon; Check 2 — kibble may be weak after dinner. Pay for shorter stillness; train before tea; release often. If they refuse all food on the mat in an empty room, Check 4 and vet — not more “calm down.”
+**Worked example (mat settle):** Dog lies down but pops up every ten seconds. **Ask** — you wanted too long too soon. **Pay** — kibble may be weak after dinner. Pay for shorter stillness. Train before tea. Release often. If they refuse all food on the mat in an empty room, **Mood** and vet — not more “calm down.”
 
 ### Train yourself
 
 - **Know:** Stalls are usually **plan problems**, not character flaws in either species.  
-- **Do:** Write which check failed; change one variable; end session on a small win or a clean stop.  
-- **Don't:** Drill until both of you hate the skill; skip comfort because “we’re already out”; treat referral as defeat.
+- **Do:**Write which check failed. change one variable. end session on a small win or a clean stop.  
+- **Don't:**Drill until both of you hate the skill. skip comfort because “we’re already out”. treat referral as defeat.  
 
 ### Train the dog
 
 - **Know:** They need predictable payoffs and escape from pressure.  
-- **Do:** Experience easier reps after failure; trust that you will notice stress.  
+- **Do:**Experience easier reps after failure. trust that you will notice stress.  
 - **Don't:** Learn that your name or cue means “ignore until human shouts.”
 
 ## Section 2 — Vet first
@@ -72,7 +89,7 @@ Your vet may refer to a behaviourist; medical rule-out is not optional drama. RS
 ### Train yourself
 
 - **Know:** “He’s fine at the vet” once a year is not a behaviour consultation.  
-- **Do:** Book a check when change is sudden; bring notes and video (safely).  
+- **Do:**Book a check when change is sudden. bring notes and video (safely).  
 - **Don't:** Increase exercise or corrections to “burn off” unexplained aggression.
 
 ### Train the dog
@@ -108,8 +125,8 @@ Clear answers beat vague charisma. You are hiring help for a family member, not 
 ### Train yourself
 
 - **Know:** A charismatic social media account is not a credential.  
-- **Do:** Interview professionals; ask for plain-language plan and stop rules.  
-- **Don't:** Hire someone who blames dominance for everything; let anyone “fix” aggression in one session on your kitchen floor.
+- **Do:**Interview professionals. ask for plain-language plan and stop rules.  
+- **Don't:**Hire someone who blames dominance for everything. let anyone “fix” aggression in one session on your kitchen floor.  
 
 ### Train the dog
 
@@ -152,7 +169,7 @@ Many owners delay the vet or the behaviourist because they fear judgement — fr
 
 ### Train the dog
 
-- **Know:** They cannot read the chapter list; they need relief now when suffering.  
+- **Know:**They cannot read the chapter list. they need relief now when suffering.  
 - **Do:** Benefit from qualified teams when problems exceed kitchen-scale teaching.  
 - **Don't:** Wait until everyone is injured to admit scope.
 
