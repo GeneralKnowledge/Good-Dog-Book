@@ -25,4 +25,5 @@
 | Terminology register | [`continuity/terminology.md`](../continuity/terminology.md) |
 | Professional review plan | [`editorial/qualified-review-plan.md`](../editorial/qualified-review-plan.md) |
 | ch01 trainer review slice (v3) | [`editorial/review-slices/ch01-trainer-review-v3.md`](../editorial/review-slices/ch01-trainer-review-v3.md) · [`export/review-slices/Good-Dog-Ch01-Trainer-Review-Slice-v3.docx`](../export/review-slices/Good-Dog-Ch01-Trainer-Review-Slice-v3.docx) |
+| Full manuscript overview (DOCX) | [`export/Good-Dog-Training-the-Human-Manuscript-Overview.docx`](../export/Good-Dog-Training-the-Human-Manuscript-Overview.docx) · `./scripts/export-full-manuscript-docx.sh` |
 | Upstream snapshot metadata | [`sources/SNAPSHOT.md`](../sources/SNAPSHOT.md) |
