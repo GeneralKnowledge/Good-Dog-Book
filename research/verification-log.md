@@ -20,4 +20,5 @@
 | 2026-10-18 | ch02,09,12,14 | Evidence pass | GOV.UK microchip; PDSA body-language URL; ABTC 200; IMDT 403 note |
 | 2026-10-18 | ch04–06,12,14 | Humour / attitude pass | Voice drift vs ch01; prevention gloss ch06; `TONE_PASS_CHECKLIST` humour rows |
 | 2026-10-18 | ch01 | Review slice **v3** + DOCX | Delta table vs v1; anti-glossary §4 beat; share `Good-Dog-Ch01-Trainer-Review-Slice-v3.docx` |
+| 2026-10-19 | ch01–14 | Full manuscript overview DOCX | `export/Good-Dog-Training-the-Human-Manuscript-Overview.docx`; read order; notes stripped |
 | 2026-10-18 | ch10 | Y-harness front/back rings | Author: front O-ring for early training walks; back for leisure |
