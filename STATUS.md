@@ -1,6 +1,6 @@
 # Project status
 
-**Last updated:** 2026-10-18 (tone P2 + EPPS integration + further reading)  
+**Last updated:** 2026-10-22 (second draft: renumbered, expanded, down + time alone)  
 **Branch workflow:** Feature work on `cursor/*-5834`; merge via PR.
 
 ## Current stage
@@ -12,9 +12,9 @@
 | B+ | Research sprint (book-owned verification) | **Complete** (2026-10-18) |
 | C | Architecture and chapter design | **Complete** (hypothesis TOC + briefs) |
 | D | Voice and templates | **Complete** (brief + calibration samples) |
-| E | First manuscript | **First draft complete** (~19k words, all 14 chapters) |
+| E | First manuscript | **Complete** (~19k words, 2026-10-18) |
 | F | Whole-manuscript diagnosis | **Complete** (2026-10-18) — see report below |
-| G | Targeted revision passes | **In progress** — tone + EPPS + evidence/humour pass (ch02,04–06,09,12,14); cold read next |
+| G | Targeted revision passes | **Second draft complete** (2026-10-22) — chapters renumbered to reading order; all 14 expanded (≈40k words); *down* (ch05 §2) and *time alone* (ch09 §4) added from Dogs Trust / RSPCA pages |
 | H | Cold read and final audit | Not started |
 
 ## Phase 3 report
@@ -39,7 +39,8 @@ Method sections draft from verified sources per [`research/method-decisions-from
 ## Author decisions recorded (2026-10-18)
 
 - **Method:** Teaching loop + five checks; “shrink the world” for context (`proposition/proposition.md`).  
-- **Read order:** ch07 before Part III Live (`architecture/CHAPTER_MAP.md`).  
+- **Read order:** stress (ch07) before the live-skill chapters; chapter numbers = reading order since 2026-10-22 (`architecture/CHAPTER_MAP.md`).  
+- **Length (2026-10-22):** no fixed target — lands naturally; **down** and **time alone** added.  
 - **Brand (Option A):** *Good Dog: Training the Human* — subtitle wit, not a second syllabus.  
 - **Mantra:** “Make it easier — then ask again.” **Tagline (humour):** “Train the human first.”  
 - **Dual track:** each topic → **Train yourself** / **Train the dog** with **Know / Do / Don't** ([`writing/dual-track-pattern.md`](writing/dual-track-pattern.md)).  
@@ -60,4 +61,6 @@ See [`sources/PINNED_COMMITS.json`](sources/PINNED_COMMITS.json).
 
 ## Before cold read / publication
 
-Verification and optional review per Phase 3 report §7–§11 (IMDT URL, microchip wording, charity URLs, ch14 role fact-check).
+Verification and optional review per Phase 3 report §7–§11 (IMDT URL, microchip wording, charity URLs, ch14 role fact-check). Second-draft additions flagged in chapter notes for print checks: Dogs Trust separation page crate/medication wording (truncated fetch), livestock-worrying line (ch10), hot-pavement test (ch11), child bite-risk line (ch12), age ranges (ch13), “comforting doesn’t reinforce fear” (ch14).
+
+Still not written: front and back matter (disclaimer, contents, glossary, references, resources, app note).

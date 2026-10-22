@@ -1,12 +1,12 @@
 # Chapter plan (master outline)
 
-**Status:** Stage C/E planning document — **plan before draft** for ch02–ch14.  
+**Status:** Second draft (2026-10-22). Chapter numbers = reading order (renumbered 2026-10-22 — see [`CHAPTER_MAP.md`](CHAPTER_MAP.md)). Section lists below are the original plan; the manuscript has since grown extra sections (see each chapter).  
 **Read order:** [`CHAPTER_MAP.md`](CHAPTER_MAP.md). **Per-chapter maintainer detail:** [`briefs/chNN.md`](briefs/).  
 **Evidence readiness:** [`research/chapter-coverage-matrix.md`](../research/chapter-coverage-matrix.md).
 
 **Drafting convention:** Every major section uses **Train yourself** / **Train the dog** with **Know / Do / Don't** ([`writing/dual-track-pattern.md`](../writing/dual-track-pattern.md)). **Train yourself** emphasises patience and not training while frustrated.
 
-**Target length (first pass):** ~4–6k words per chapter unless brief notes otherwise; ch01 v1 ~2k (expand at revision).
+**Target length:** no fixed target — author decision 2026-10-22: let length land naturally. Second draft ≈2–4k words per chapter, ≈40k total.
 
 ---
 
@@ -16,9 +16,9 @@
 | --- | --- | --- | --- |
 | **I — Mindset** | 1–3 | ch01–ch03 | Contract, learning theory, toolkit — “I can set this up.” |
 | **II — Teach** | 4–6 | ch04–ch06 | Loop, criteria, progression — “I can teach without drilling.” |
-| **Understand (early)** | 7 | **ch07** | Stress literacy — “I notice comfort before live skills.” |
-| **III — Live** | 8–12 | ch08–ch12 | Real life — “I can practise with stop rules.” |
-| **Life stages** | 13 | ch13 | Puppy / teen / rescue — “I adjust expectations.” |
+| **III — Understand** | 7 | **ch07** | Stress literacy — “I notice comfort before live skills.” |
+| **IV — Live** | 8–13 | ch08–ch13 | Real life — “I can practise with stop rules.” |
+| *(IV — Life stages)* | 13 | ch13 | Puppy / teen / rescue / older — “I adjust expectations.” |
 | **V — Limits** | 14 | ch14 | Five checks + referral — “I know when to stop and who to call.” |
 
 ```mermaid
@@ -40,7 +40,7 @@ flowchart TB
 
 | | |
 | --- | --- |
-| **Status** | **Draft v1** — [`manuscript/ch01-the-deal.md`](../manuscript/ch01-the-deal.md) |
+| **Status** | **Second draft** — [`manuscript/ch01-the-deal.md`](../manuscript/ch01-the-deal.md) |
 | **Outcome** | Fair contract; manage/teach/vet split; TTH + dual-track frame; read order |
 | **Claims** | `claim-imdt-001-force-free`, `book-research-defra-001-reward-based`, E4 mantra |
 
@@ -132,8 +132,9 @@ flowchart TB
 ### Section plan
 
 1. **One cue, one meaning** — poisoned cues; self: cue once; dog: cue = opportunity  
-2. **Duration, distance, distraction — pick one** — self: impatience adds three variables; dog: one dimension at a time  
-3. **Generalisation without telepathy** — shrink world; self: proof is a plan; dog: new place = new lesson  
+2. **Teaching down** (added 2026-10-22) — lure from sit to floor, shape smaller steps, never push; self: patience, soft surface; dog: down is a comfy place to wait  
+3. **Duration, distance, distraction — pick one** — self: impatience adds three variables; dog: one dimension at a time  
+4. **Generalisation without telepathy** — shrink world; self: proof is a plan; dog: new place = new lesson  
 
 **Practice lab:** Same behaviour, one generalisation step (e.g. different room).
 
@@ -193,7 +194,7 @@ flowchart TB
 
 ---
 
-## Read #9 — ch09 Settle and calm at home
+## Read #9 — ch09 Settle, calm, and time alone
 
 | | |
 | --- | --- |
@@ -206,6 +207,8 @@ flowchart TB
 2. **Calm around movement** — honest expectations; self: don't punish alertness  
 3. **Rest spot and choice to leave** — dog chooses exit; self: manage kids/door chaos  
 
+4. **Time alone — prevention** (added 2026-10-22) — Dogs Trust / RSPCA staged steps, baby gate, long-lasting chew, low-key leaving, never punish, ≤4 h; distress → vet + clinical behaviourist  
+
 **Practice lab:** Mat settle 3 reps; release to sniff.
 
 ---
@@ -217,13 +220,13 @@ flowchart TB
 | **Outcome** | Foundation recall + long-line + distraction/off-lead (Dogs Trust claims) |
 | **Claims** | `claim-dt-recall-003`, `004`, `005`, `claim-dt-escape-001` |
 | **Welfare** | serious |
-| **Red** | **§3** distraction/off-lead progression — [`e5-reviewer-questions.md`](../research/e5-reviewer-questions.md) |
+| **Was red** | §3 distraction/off-lead — resolved from Dogs Trust sources (see Method sections below) |
 
 ### Section plan
 
 1. **Foundation recall** — cheerful call; never punish late return; *self:* bank trust; *dog:* come = jackpot + release  
 2. **Long lines, secure areas, UK management** — legal ID mention; no off-lead bravado  
-3. **Distraction — RED / placeholder** — draft only after reviewer sign-off; until then: pointer to management + ch14  
+3. **Distraction, long line, off-lead judgement** — drafted from Dogs Trust recall/escape claims (method-decisions-from-sources.md)  
 
 **Practice lab:** Indoor/garden recall only in v1 manuscript.
 
@@ -244,7 +247,7 @@ flowchart TB
 3. **Soft-lead mechanics** — Dogs Trust stop-when-tight + reward at side (see manuscript)  
 4. **Real walks** — environment, check-ins, end early; *self:* walk isn't a treadmill  
 
-**Practice lab:** §1–2 only until §3 cleared.
+**Practice lab:** gear-up, then stop-start on a quiet street.
 
 ---
 
@@ -253,7 +256,7 @@ flowchart TB
 | | |
 | --- | --- |
 | **Outcome** | Door management; **management-first greetings**; handling touches |
-| **Red** | **§2** expansion beyond management-first  
+| **Was red** | §2 expansion beyond management-first — resolved from Dogs Trust visitor page; stop rule leads the section  
 | **Welfare** | serious |
 
 ### Section plan
@@ -308,7 +311,9 @@ flowchart TB
 | Chapter | Section | Source decision |
 | --- | --- | --- |
 | ch10 | §3 | Dogs Trust recall + escape claims — [`method-decisions-from-sources.md`](../research/method-decisions-from-sources.md) |
-| ch11 | §3 | Dogs Trust walking-nicely page |
+| ch11 | §5 | Dogs Trust walking-nicely page |
+| ch05 | §2 | Dogs Trust + RSPCA lie-down pages (2026-10-22) |
+| ch09 | §4 | Dogs Trust time-alone + separation pages; RSPCA left-alone (2026-10-22) |
 | ch12 | §2 | Dogs Trust visitor training + threshold abort |
 | ch13 | §1 | Dogs Trust puppy 101 + DEFRA avoid harsh |
 

@@ -29,6 +29,12 @@
 | book-research-src-dt-walking-nicely | Teach your dog to walk nicely on a lead | https://www.dogstrust.org.uk/dog-advice/training/outdoors/walking-nicely-training | 2026-10-18 | GET 200 |
 | book-research-src-dt-visitor-training | How to prepare your dog for visitors | https://www.dogstrust.org.uk/dog-advice/training/home/visitor-training | 2026-10-18 | GET 200 |
 | book-research-src-dt-puppy-training | Puppy Training 101 | https://www.dogstrust.org.uk/dog-advice/training/basics/puppy-training | 2026-10-18 | GET 200 |
+| book-research-src-dt-lie-down | How to train your dog to lie down | https://www.dogstrust.org.uk/dog-advice/training/basics/lie-down-training | 2026-10-22 | Fetched 200 (web fetch) |
+| book-research-src-rspca-lie-down | Train your dog to lie down | https://www.rspca.org.uk/adviceandwelfare/pets/dogs/training/liedown | 2026-10-22 | Fetched 200 (web fetch) |
+| book-research-src-dt-settle | How to train your dog to be calm, relax and settle | https://www.dogstrust.org.uk/dog-advice/training/basics/settle-training | 2026-10-22 | Fetched 200 (web fetch) |
+| book-research-src-dt-time-alone | How to help your dog get used to spending time alone | https://www.dogstrust.org.uk/dog-advice/training/home/time-alone | 2026-10-22 | Fetched 200 (web fetch) |
+| book-research-src-rspca-left-alone | Training your dog to be left alone | https://www.rspca.org.uk/adviceandwelfare/pets/dogs/training/leftalone | 2026-10-22 | Fetched 200 (web fetch) |
+| book-research-src-dt-separation | Separation anxiety in dogs | https://www.dogstrust.org.uk/dog-advice/training/unwanted-behaviours/separation-anxiety | 2026-10-22 | Fetched 200; last ~8k chars summarised by fetch tool — re-read crate/medication wording before print |
 
 ## Pinned sources (summary)
 
@@ -76,6 +82,12 @@
 | book-research-dt-visitor-bed-knock | E2 | verified | ch12 §2 | Paraphrase DT visitor-training |
 | book-research-dt-puppy-pace | E2 | verified | ch13 §1 | Paraphrase DT puppy 101: pace, rewards, individual needs |
 | book-claim-owner-mantra | E4 | draft | ch01, ch04, ch06, ch14 | Pedagogical device “Make it easier — then ask again.” |
+| book-research-dt-lie-down | E2 | verified | ch05 §2 | Paraphrase DT lie-down: lure from sit to floor, reward smaller steps, add word when reliable, never push dog down |
+| book-research-rspca-lie-down | E2 | verified | ch05 §2 | Paraphrase RSPCA lie-down: hand nose→chest→floor, add word as dog goes down, treats while down build duration, practise in more places |
+| book-research-dt-settle | E2 | verified | ch09 §1 | Paraphrase DT settle: silent reward on blanket, reward relaxed signs, build a couple of seconds per session, add distractions gradually |
+| book-research-dt-time-alone | E2 | verified | ch09 §4, ch13 | Paraphrase DT time alone: start early, baby gates, long-lasting food toy, few minutes to start, low-key leaving, never tell off, ≤4 h adult, step back on stress signs |
+| book-research-rspca-left-alone | E2 | verified | ch09 §4 | Paraphrase RSPCA left alone: staged bed→distance→door→outside, vary duration, ≤4 h, “8 in 10 dogs” statistic, no punishment, clinical behaviourist referral |
+| book-research-dt-separation-signs | E2 | verified | ch09 §4, ch14 | Paraphrase DT separation anxiety: signs, film dog, avoid leaving while help sought, crate injury risk, second dog not a fix, vet check |
 | book-claim-ch12-stress-charity | E2 | verified | ch07 | PDSA canine-body-language 200 (2026-10-18); Blue Cross pet-advice hub signpost |
 
 ## Good Dog / app-derived (not evidence)
