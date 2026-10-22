@@ -16,12 +16,12 @@ CHAPTER_FILES=(
   ch04-the-teaching-loop.md
   ch05-cues-and-criteria.md
   ch06-progression-without-pressure.md
-  ch12-reading-stress.md
-  ch07-engagement-and-name.md
-  ch08-settle-and-calm.md
-  ch09-recall.md
-  ch10-walking-on-lead.md
-  ch11-doors-guests-handling.md
+  ch07-reading-stress.md
+  ch08-engagement-and-name.md
+  ch09-settle-and-calm.md
+  ch10-recall.md
+  ch11-walking-on-lead.md
+  ch12-doors-guests-handling.md
   ch13-life-stages.md
   ch14-when-it-goes-wrong.md
 )

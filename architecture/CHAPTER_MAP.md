@@ -1,16 +1,30 @@
-# Chapter map (hypothesis)
+# Chapter map
 
-**Status:** Stage C — architecture only, no manuscript. **G3 approved** — see [`research/foundation-gates.md`](../research/foundation-gates.md).
+**Status:** Second draft (2026-10-22). **G3 approved** — see [`research/foundation-gates.md`](../research/foundation-gates.md).
 
 **Drafting rule:** One chapter at a time in Stage E, only after G1–G4 approval. Each chapter must satisfy the [contribution test](#contribution-test).
 
 **Master outline (sections + dual-track beats):** [`CHAPTER_PLAN.md`](CHAPTER_PLAN.md) — plan chapters here before drafting ch02+.
 
-**Reading order:** Follow the table below (author decision 2026-10-18). Chapter **IDs** (`ch07`, `ch12`, …) stay stable for briefs and claims; **read #** is the manuscript order.
+**Reading order:** Chapter numbers **equal reading order** since 2026-10-22 (author decision). Files, briefs and headings were renumbered; see the mapping below when reading older dated reports.
+
+### Renumbering map (2026-10-22)
+
+| Old ID (before 2026-10-22) | New ID / chapter |
+| --- | --- |
+| ch12 Reading stress | **ch07** |
+| ch07 Engagement and name | **ch08** |
+| ch08 Settle and calm | **ch09** (now *Settle, calm, and time alone*) |
+| ch09 Recall | **ch10** |
+| ch10 Walking on lead | **ch11** |
+| ch11 Doors, guests, handling | **ch12** |
+| ch01–ch06, ch13, ch14 | unchanged |
+
+Dated files in `editorial/` and research logs (`research-sprint-log.md`, `verification-log.md`, `foundation-gates.md`, `e5-reviewer-questions.md`, `good-dog-gap-reconciliation.md`, `decision-register.md` entries before 2026-10-22) keep the **old** IDs.
 
 ## Reading order and sequence
 
-| Read # | ID | Working title | Thematic part | Brief |
+| Ch / read # | ID | Working title | Part | Brief |
 | ---: | --- | --- | --- | --- |
 | 1 | ch01 | The deal you’re making with your dog | I — Mindset | [`briefs/ch01.md`](briefs/ch01.md) |
 | 2 | ch02 | How dogs actually learn | I | [`briefs/ch02.md`](briefs/ch02.md) |
@@ -18,16 +32,16 @@
 | 4 | ch04 | The teaching loop | II — Teach | [`briefs/ch04.md`](briefs/ch04.md) |
 | 5 | ch05 | Cues, criteria, and when to raise the bar | II | [`briefs/ch05.md`](briefs/ch05.md) |
 | 6 | ch06 | Progression without pressure | II | [`briefs/ch06.md`](briefs/ch06.md) |
-| 7 | ch12 | Reading stress (without playing vet) | Understand *(before Live)* | [`briefs/ch12.md`](briefs/ch12.md) |
-| 8 | ch07 | Engagement and the name game | III — Live | [`briefs/ch07.md`](briefs/ch07.md) |
-| 9 | ch08 | Settle and calm at home | III | [`briefs/ch08.md`](briefs/ch08.md) |
-| 10 | ch09 | Recall: coming back when it matters | III | [`briefs/ch09.md`](briefs/ch09.md) |
-| 11 | ch10 | Walking together on a lead | III | [`briefs/ch10.md`](briefs/ch10.md) |
-| 12 | ch11 | Doors, guests, and gentle handling | III | [`briefs/ch11.md`](briefs/ch11.md) |
-| 13 | ch13 | Puppies, teenagers, and rescue dogs | Life stages | [`briefs/ch13.md`](briefs/ch13.md) |
+| 7 | ch07 | Reading stress (without playing vet) | III — Understand *(before Live)* | [`briefs/ch07.md`](briefs/ch07.md) |
+| 8 | ch08 | Engagement and the name game | IV — Live | [`briefs/ch08.md`](briefs/ch08.md) |
+| 9 | ch09 | Settle, calm, and time alone | IV | [`briefs/ch09.md`](briefs/ch09.md) |
+| 10 | ch10 | Recall: coming back when it matters | IV | [`briefs/ch10.md`](briefs/ch10.md) |
+| 11 | ch11 | Walking together on a lead | IV | [`briefs/ch11.md`](briefs/ch11.md) |
+| 12 | ch12 | Doors, guests, and gentle handling | IV | [`briefs/ch12.md`](briefs/ch12.md) |
+| 13 | ch13 | Puppies, teenagers, and rescue dogs | IV — Life stages | [`briefs/ch13.md`](briefs/ch13.md) |
 | 14 | ch14 | When it goes wrong — and when to call for help | V — Limits | [`briefs/ch14.md`](briefs/ch14.md) |
 
-**Why ch12 moves up:** Part III skills (recall, lead, doors) need **comfort / stress literacy** before owners practise them under real-world pressure (Phase 2 foundation challenge, P0-1).
+**Why stress comes at ch07:** Live skills (recall, lead, doors) need **comfort / stress literacy** before owners practise them under real-world pressure (Phase 2 foundation challenge, P0-1).
 
 ## Learning arc
 
@@ -39,15 +53,15 @@ flowchart LR
   subgraph II[Part II]
     ch04 --> ch05 --> ch06
   end
-  ch06 --> ch12
-  subgraph III[Part III Live]
-    ch07 --> ch08
-    ch07 --> ch09
-    ch07 --> ch10
+  ch06 --> ch07
+  subgraph IV[Part IV Live]
+    ch08 --> ch09
+    ch08 --> ch10
     ch08 --> ch11
+    ch09 --> ch12
   end
-  ch12 --> ch07
-  ch11 --> ch13
+  ch07 --> ch08
+  ch12 --> ch13
   ch13 --> ch14
   I --> II
 ```
@@ -66,13 +80,15 @@ Each brief must document:
 
 | Chapter | Must follow (reading order) | Notes |
 | --- | --- | --- |
-| ch04 | ch01–ch03 | Installs **teaching loop** |
+| ch04 | ch01–ch03 | Installs **teaching loop**; teaches sit |
+| ch05 | ch04 | Teaches **down** (§2) |
 | ch06 | ch04–ch05 | **Five checks** preview; full stall diagnosis in ch14 |
-| ch12 | ch01–ch06 | **Before** Part III Live |
-| ch07–ch11 | **ch12**, ch04–ch06 | Live skills; use comfort check from ch12 |
-| ch09 | ch07 | §3 blocked until qualified review |
-| ch10 | ch07, ch03; **§3 blocked** | Qualified review before loose-lead mechanics |
-| ch13 | ch12 | Life stages; puppy §1 E5 until review |
+| ch07 | ch01–ch06 | **Before** Part IV Live |
+| ch08–ch12 | **ch07**, ch04–ch06 | Live skills; use comfort check from ch07 |
+| ch09 | ch05 (down), ch08 | Settle + **time-alone prevention** (§4) |
+| ch10 | ch08 | §3 drafted from Dogs Trust recall/escape claims |
+| ch11 | ch08, ch03 | §5 loose-lead from Dogs Trust walking-nicely |
+| ch13 | ch07, ch09 | Life stages; puppy §1 from Dogs Trust puppy 101 |
 | ch14 | All prior | Systematises **five checks** + referral |
 
 ## Explicit non-chapters

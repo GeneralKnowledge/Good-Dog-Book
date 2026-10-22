@@ -141,6 +141,20 @@ Optional pre-print review: [`qualified-review-plan.md`](../editorial/qualified-r
 
 ---
 
+## Second-draft decisions (author 2026-10-22)
+
+**Status:** **Decided (author 2026-10-22, project thread “Book gap review”)**
+
+| Decision | Author choice | Source |
+| --- | --- | --- |
+| Chapter numbering | **Renumber to reading order.** Old ch12 (stress) → ch07; old ch07–ch11 → ch08–ch12. Files, briefs, headings and live docs renamed; dated editorial/research logs keep old IDs. | [`architecture/CHAPTER_MAP.md`](../architecture/CHAPTER_MAP.md) mapping table |
+| Target length | **Land naturally** — expand every chapter for depth; no fixed word target (replaces 70–90k in `scope.md` and 4–6k/chapter in `CHAPTER_PLAN.md`). Second draft ≈40k words. | Author message 2026-10-22 |
+| “Down” | **Add** — taught in ch05 §2 (DT + RSPCA lie-down pages) | `book-research-dt-lie-down`, `book-research-rspca-lie-down` |
+| Left-alone tips | **Add** — prevention only, ch09 §4; distress = referral | `book-research-dt-time-alone`, `book-research-rspca-left-alone`, `book-research-dt-separation-signs` |
+| Part structure | Part I ch01–03, II ch04–06, III ch07 (stress), IV ch08–13 (real life), V ch14 | ch01 §6 |
+
+---
+
 ## Manuscript planning
 
 **Status:** **Decided (author 2026-10-18)**

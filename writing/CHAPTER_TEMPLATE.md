@@ -12,7 +12,7 @@ Copy into `manuscript/chNN-slug.md` when Stage E begins. Delete instructional co
 
 Hook: one scene or question from ordinary dog life. State what this chapter delivers.
 
-<!-- Conceptual chapters (e.g. ch12, ch14): omit Practice lab; emphasise judgement, stop/manage, referral. -->
+<!-- Conceptual chapters (e.g. ch07, ch14): omit Practice lab; emphasise judgement, stop/manage, referral. -->
 <!-- Skill chapters: optional callback to owner mantra before Troubleshooting. -->
 
 ## Section 1 — …

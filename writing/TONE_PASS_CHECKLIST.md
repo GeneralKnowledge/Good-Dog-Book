@@ -11,13 +11,13 @@ Use when drafting or revising any chapter.
 - [ ] **Plain before jargon:** “ask once”, “pay with a treat”, “easier place” before cue/mark/criterion/management — except Part II install chapters (ch04–06) where terms are taught on purpose with plain gloss.
 - [ ] **Mantras** appear when stuck: *Make it easier — then ask again.*, *Train the human first*, optional *Good human.*
 - [ ] **House → garden → outside** when teaching new skills outdoors.
-- [ ] **Leisure walk vs training walk** in ch01, ch10, and any walk advice that mixes sniffing with lead teaching.
+- [ ] **Leisure walk vs training walk** in ch01, ch11, and any walk advice that mixes sniffing with lead teaching.
 
 ## Humour and attitude
 
 - [ ] **Voice matches ch01:** grounded wit (toast, postman, dog email, bad Tuesday) — not lecture tone.
 - [ ] **Train yourself** may smirk at owner habits; never mock fear, distress, or the dog.
-- [ ] **Part II install (ch04–06) and safety chapters (ch12, ch14):** still sound like a friend with mud on their shoes, not a textbook clearing its throat.
+- [ ] **Part II install (ch04–06) and safety chapters (ch07, ch14):** still sound like a friend with mud on their shoes, not a textbook clearing its throat.
 - [ ] **Mantras** land in prose when stuck; tagline *Train the human first* stays sparse.
 
 ## Dual-track (Know / Do / Don't)

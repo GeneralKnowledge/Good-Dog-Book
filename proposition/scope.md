@@ -4,7 +4,7 @@
 
 ## Feasibility in one volume
 
-**Assessment:** The practical promise in `proposition.md` is achievable in **one book** (~70–90k words) if specialist clinical topics stay on **referral paths** rather than full treatment manuals.
+**Assessment:** The practical promise in `proposition.md` is achievable in **one book**. *(Original estimate ~70–90k words; author decision 2026-10-22: length lands naturally — second draft ≈40k words. See `research/decision-register.md`.)* Achievable if specialist clinical topics stay on **referral paths** rather than full treatment manuals.
 
 ## Primary audience (recommended)
 
