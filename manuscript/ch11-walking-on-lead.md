@@ -1,6 +1,6 @@
-# Chapter 10 — Walking together on a lead
+# Chapter 11 — Walking together on a lead
 
-<!-- brief: architecture/briefs/ch10.md -->
+<!-- brief: architecture/briefs/ch11.md -->
 <!-- claims: book-research-dt-loose-lead-mechanics, book-research-src-dt-walking-nicely, claim-abtc-003-no-aversives -->
 
 ## Opening
@@ -94,7 +94,7 @@ Expect walks to take longer while learning.
 
 ## Section 4 — Real walks: environment, check-ins, ending early
 
-When gear is boring at home, take **short reinforced segments** outside. Pick quiet times first. Pay attention **to you** sometimes — name game from Chapter 7, treat at your side — then release to sniff. Sniffing is not disobedience; it is dog email. On a **training walk**, pick **one goal** for that outing — e.g. “loose-ish lead for one block” **or** “three check-ins before the park gate,” not both plus perfect heel plus no squirrels.
+When gear is boring at home, take **short reinforced segments** outside. Pick quiet times first. Pay attention **to you** sometimes — name game from Chapter 8, treat at your side — then release to sniff. Sniffing is not disobedience; it is dog email. On a **training walk**, pick **one goal** for that outing — e.g. “loose-ish lead for one block” **or** “three check-ins before the park gate,” not both plus perfect heel plus no squirrels.
 
 **Comfort check** every walk: stiff body, won't eat, scanning and refusing to engage — shrink route or go home. **End early** while the lead still feels like a partnership. Tomorrow’s walk matters more than today’s pride.
 
@@ -148,7 +148,7 @@ British walks include rain, mud, and dark afternoons. Adjust criteria: a wet dog
 
 ## Before the next chapter
 
-Chapter 11 handles **doors and greetings** — another flashpoint for arousal. A dog who can check in on a quiet street is better prepared for “someone’s at the door,” even before full loose-lead mechanics land.
+Chapter 12 handles **doors and greetings** — another flashpoint for arousal. A dog who can check in on a quiet street is better prepared for “someone’s at the door,” even before full loose-lead mechanics land.
 
 Measure progress in **check-ins, stop-start wins, and comfort**, not in metres without tension. A walk that ends early with one loose moment and a treat is a better training walk than a grim lap counted as “exercise.”
 

@@ -27,7 +27,7 @@ Dogs Trust advises going at **your puppy’s pace** with **rewards they like** �
 
 If exposure goes wrong (panic, shutdown), **stop**, simplify, speak to your vet or a qualified trainer — not louder socialisation.
 
-**Puppy optimism (feel first, then teach).** Many popular puppy books — including Steve Mann’s *Easy Peasy Puppy Squeezy* — stress the same idea in plain language: **how your puppy feels matters more than what they do on the first try.** Safe, rested, and gently curious beats overwhelmed and “proofed.” We call that **Training the Human** too: your hurry and your volume are part of their emotional weather. This book adds bookmarks and stop rules; if EPPS worked for you, stay with reward-based kindness and use Chapter 12 when worry shows up.
+**Puppy optimism (feel first, then teach).** Many popular puppy books — including Steve Mann’s *Easy Peasy Puppy Squeezy* — stress the same idea in plain language: **how your puppy feels matters more than what they do on the first try.** Safe, rested, and gently curious beats overwhelmed and “proofed.” We call that **Training the Human** too: your hurry and your volume are part of their emotional weather. This book adds bookmarks and stop rules; if EPPS worked for you, stay with reward-based kindness and use Chapter 7 when worry shows up.
 
 ### Train yourself
 

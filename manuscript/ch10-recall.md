@@ -1,6 +1,6 @@
-# Chapter 9 — Recall: coming back when it matters
+# Chapter 10 — Recall: coming back when it matters
 
-<!-- brief: architecture/briefs/ch09.md -->
+<!-- brief: architecture/briefs/ch10.md -->
 <!-- claims: claim-dt-recall-002–005, claim-dt-escape-001; method-decisions-from-sources.md -->
 
 ## Opening
@@ -42,7 +42,7 @@ Outdoors, **a long line is your friend**. A long line (fixed or training line) l
 **Plan before the gate opens:**
 
 - Reward check-ins **before** you need panic recall.  
-- Know your exit: where you leave if comfort check fails (Chapter 12).  
+- Know your exit: where you leave if comfort check fails (Chapter 7).  
 - Match line length to skill: shorter when learning; never tangle near roads, water, or livestock.
 
 If you cannot recall on a long line in a quiet field, you are not ready to debate off-lead in a squirrel arcade. That is not failure — it is honest criteria.
@@ -127,7 +127,7 @@ Some dogs learn that **running away** from handlers is safer than staying — pr
 
 ## Before the next chapter
 
-Chapter 10 is **walking together on a lead** — another place trust shows up in your hands. Keep recall deposits going in easy places; do not spend them all on one heroic park visit.
+Chapter 11 is **walking together on a lead** — another place trust shows up in your hands. Keep recall deposits going in easy places; do not spend them all on one heroic park visit.
 
 Record one line after each recall session: *where, how many reps, how it felt.* Boring data beats heroic memory when deciding if off-lead is fair today.
 

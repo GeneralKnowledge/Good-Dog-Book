@@ -77,7 +77,7 @@ No new skill. In the garden or living room, watch your dog for one minute **with
 
 - **“He knows it — he’s just being stubborn.”** → Check payoff and context. “Knowing” in the hallway is not knowing on the pavement. Stubborn is a story; consequences are the data.  
 - **“She only works for food.”** → Food is a salary. You can diversify pay later; early learning is allowed to be edible.  
-- **“He shuts down when I train.”** → Softer setup, higher-value pay, shorter sessions — or stop and read Chapter 12’s comfort lens. Shutdown is not laziness.
+- **“He shuts down when I train.”** → Softer setup, higher-value pay, shorter sessions — or stop and read Chapter 7’s comfort lens. Shutdown is not laziness.
 
 ## Stop if
 

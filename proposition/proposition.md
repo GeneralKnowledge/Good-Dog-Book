@@ -41,7 +41,7 @@ Before repeating a cue louder or assuming the dog is “being difficult”, chec
 
 “**Shrink the world**” is plain English for lowering distraction and difficulty until the dog can succeed — then generalise in modest steps. ch06 and ch14 return to this when progress wobbles.
 
-ch01 frames the **fair contract** (clarity, kindness, honest stop); the **loop and checks** are what owners *do*. ch12 deepens **comfort** and reading stress without playing vet.
+ch01 frames the **fair contract** (clarity, kindness, honest stop); the **loop and checks** are what owners *do*. ch07 deepens **comfort** and reading stress without playing vet.
 
 ### 3. Dual track — train yourself / train the dog
 

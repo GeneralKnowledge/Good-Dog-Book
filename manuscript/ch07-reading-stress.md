@@ -1,6 +1,6 @@
-# Chapter 12 — Reading stress (without playing vet)
+# Chapter 7 — Reading stress (without playing vet)
 
-<!-- brief: architecture/briefs/ch12.md -->
+<!-- brief: architecture/briefs/ch07.md -->
 <!-- claims: book-research-defra-002-avoid-harsh, book-claim-ch12-stress-charity -->
 
 ## Opening
@@ -104,7 +104,7 @@ Comfort is not softness. It is **safety for learning**. A dog who cannot eat chi
 
 ## Before the next chapter
 
-Part III begins with **engagement** — games that make you worth approaching. That only works if you respect when your dog needs space. Read Chapter 7 with this chapter’s comfort lens switched on; when in doubt, simplify before you ask again.
+Part III begins with **engagement** — games that make you worth approaching. That only works if you respect when your dog needs space. Read Chapter 8 with this chapter’s comfort lens switched on; when in doubt, simplify before you ask again.
 
 ## Chapter notes
 

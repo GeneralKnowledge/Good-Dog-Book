@@ -15,11 +15,11 @@ You do not have to read cover to cover before you act. Use this table, then retu
 
 | If you are mainly worried about… | Start here | Then |
 | --- | --- | --- |
-| Growling, snapping, bites, or you fear your dog | **Stop** training pressure; manage safety | This chapter §2 vet, §3 professionals; ch12 comfort |
+| Growling, snapping, bites, or you fear your dog | **Stop** training pressure; manage safety | This chapter §2 vet, §3 professionals; ch07 comfort |
 | Sudden change — was fine, now isn’t | **Vet first** | §2 below; then five checks if health is clear |
-| Fear on walks, freezes, won’t go | ch12 stress lens | Shrink the world; ch10 short prevention walks |
-| Recall in distractions | ch07 name, ch08 settle | **ch12**, then ch09 practice labs |
-| Door jumping, guests, handling meltdowns | ch11 doors/guests + labs | ch08 parallel settle; abort if stiff |
+| Fear on walks, freezes, won’t go | ch07 stress lens | Shrink the world; ch11 short prevention walks |
+| Recall in distractions | ch08 name, ch09 settle | **ch07**, then ch10 practice labs |
+| Door jumping, guests, handling meltdowns | ch12 doors/guests + labs | ch09 parallel settle; abort if stiff |
 | Puppy / teenager / rescue tempo | ch13 life stages | Match criteria to stage; do not rush Part III |
 | Stuck anywhere, grumpy trainer, everything fell apart | **Five checks below** | Mantra: *Make it easier — then ask again.* |
 
@@ -55,7 +55,7 @@ Chapter 1 names these in plain English. Same five questions:
 | **Place** | Setup | Is it calm enough for *this* dog *today*? | Move indoors. Quieter street. Gate or lead. | You cannot make a safe setup at home |
 | **Pay** | Reward | Do they want the treat or toy **right now**? | Better food. Play. Train before meals. | Won't take pay in easy places — vet / behaviour |
 | **Ask** | Criterion | **One** clear ask, not three at once? | Shorten the ask. One goal per walk. | You keep adding asks because you are embarrassed |
-| **Mood** | Comfort | Stress cluster (Chapter 12)? Won't eat, stiff, fleeing? | Stop teaching. Simpler place. More distance. | Growling, biting, shutdown most days |
+| **Mood** | Comfort | Stress cluster (Chapter 7)? Won't eat, stiff, fleeing? | Stop teaching. Simpler place. More distance. | Growling, biting, shutdown most days |
 | **Same at home?** | Context | Worked indoors but not on the pavement? | **Easier place** — house → garden → outside | Sudden failure everywhere — vet first |
 
 **Easier place** (same idea as “shrink the world”) means train where the dog can succeed again, then grow in small steps — not one heroic outing to “prove” progress.
@@ -205,4 +205,4 @@ There is no Chapter 15 in the arc — only the walk you take tomorrow with a cle
 1. Unregulated UK market: `claim-abtc-001-unregulated` — signpost only, no practitioner endorsement.  
 2. Referral culture / force-free ethics: `claim-imdt-003-referral`.  
 3. Vet-first and welfare ownership: RSPCA-aligned claims in register (`claim-rspca-003`, `claim-rspca-004`).  
-4. Five checks table: pedagogical synthesis — `proposition/proposition.md`, installed from ch04/ch12.
+4. Five checks table: pedagogical synthesis — `proposition/proposition.md`, installed from ch04/ch07.

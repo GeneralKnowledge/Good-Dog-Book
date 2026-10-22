@@ -103,7 +103,7 @@ Try this on a day you are tired or cross — the days that matter. Two reps and 
 
 ## Before the next chapter
 
-You have finished Part II’s teach stack. **Before** the live-skill chapters on engagement, settle, recall, and leads, read **Chapter 12 (reading stress)** if you have not already — comfort is check four in your five checks. Chapter 7 then builds engagement and name as invitation, not nag.
+You have finished Part II’s teach stack. **Before** the live-skill chapters on engagement, settle, recall, and leads, read **Chapter 7 (reading stress)** if you have not already — comfort is check four in your five checks. Chapter 8 then builds engagement and name as invitation, not nag.
 
 ## Chapter notes
 

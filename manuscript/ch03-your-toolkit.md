@@ -97,7 +97,7 @@ If nothing happens, do not drill. Note one thing to make easier next time — di
 
 ## Troubleshooting
 
-- **Dog spits treats out** → Stress or full stomach. Calmer spot, smellier food, or train later. See comfort notes in Chapter 12 if it persists.  
+- **Dog spits treats out** → Stress or full stomach. Calmer spot, smellier food, or train later. See comfort notes in Chapter 7 if it persists.  
 - **Clicker startles them** → Switch to a soft “yes,” or muffle the click, or charge from another room.  
 - **“I don’t have time.”** → Three minutes counts. Consistency beats heroics.
 

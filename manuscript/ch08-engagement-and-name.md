@@ -1,17 +1,17 @@
-# Chapter 7 — Engagement and the name game
+# Chapter 8 — Engagement and the name game
 
-<!-- brief: architecture/briefs/ch07.md -->
+<!-- brief: architecture/briefs/ch08.md -->
 <!-- claims: claim-dt-recall-001-prerequisite-name, book-research-name-page-001 -->
 
 ## Opening
 
 Recall, polite walks, and door chaos all lean on the same humble skill: your dog **choosing to orient** to you when the world is merely interesting, not yet on fire. This chapter is engagement as invitation — and the name as a check-in, not a nagging soundtrack.
 
-You should have read **Chapter 12** first: comfort clusters beat single-pixel internet charts. If your dog’s body says *not safe*, engagement games wait. Management and simplify beat drilling eye contact out of a frightened dog.
+You should have read **Chapter 7** first: comfort clusters beat single-pixel internet charts. If your dog’s body says *not safe*, engagement games wait. Management and simplify beat drilling eye contact out of a frightened dog.
 
 Part III is where skills meet real life — parks, sofas, doorbells. Engagement and name are the polite knock before we ask for bigger favours. Get them solid in boring rooms first; the exciting world can wait its turn.
 
-**Bookmark this chapter** for name and focus — the base for **come** (Chapter 9) and **walk nicely** (Chapter 10). Basics-first is allowed: a reliable name in the house is a win.
+**Bookmark this chapter** for name and focus — the base for **come** (Chapter 10) and **walk nicely** (Chapter 11). Basics-first is allowed: a reliable name in the house is a win.
 
 ## Section 1 — Engagement games
 
@@ -61,7 +61,7 @@ In busy homes, practise when the dog is already oriented — not as a wake-up sh
 
 Add **one** mild distraction only when kitchen name games are easy: toy on floor, partner walking past, door slightly ajar. Same rule: name once, mark orient, pay, release. If orient does not happen, **abort** — do not repeat. Make it easier (distance, reward tier, quieter distraction) or end session.
 
-This aligns with later recall work (Chapter 9): criteria rise slowly; **stop rules** are part of the skill. If the dog stiffens, won't eat, or retreats — comfort check failed. Simplify, manage, or pause. Mild distraction is not “ignore the squirrel”; it is “notice the plastic bag and still choose you sometimes.”
+This aligns with later recall work (Chapter 10): criteria rise slowly; **stop rules** are part of the skill. If the dog stiffens, won't eat, or retreats — comfort check failed. Simplify, manage, or pause. Mild distraction is not “ignore the squirrel”; it is “notice the plastic bag and still choose you sometimes.”
 
 Abort rules are a feature, not a failure: two misses in a row, you **leave** the training picture — easier room, higher pay, or done for the day. Dogs learn faster when sessions end before frustration arrives. You are teaching both of you that stopping is allowed.
 
@@ -98,17 +98,17 @@ Film is optional and slightly undignified; a ten-second clip can show whether yo
 
 ## Stop if
 
-- Worry, shutdown, or aggression around approach — stop; manage; Chapter 12 and 14; professional help if needed.  
+- Worry, shutdown, or aggression around approach — stop; manage; Chapter 7 and 14; professional help if needed.  
 - You are using name as scolding — reset the word with easy indoor wins only.  
 - Distraction is not mild — abort to easier level.
 
 ## Before the next chapter
 
-Chapter 8 brings **settle and calm at home** — mat as landing pad, rest with choice. Your name game is a deposit in the recall account; settle is how the dog learns the house can be boring in a good way.
+Chapter 9 brings **settle and calm at home** — mat as landing pad, rest with choice. Your name game is a deposit in the recall account; settle is how the dog learns the house can be boring in a good way.
 
 ## Chapter notes
 
 1. Name response as recall prerequisite: `claim-dt-recall-001-prerequisite-name`.  
 2. Name-game pedagogy aligned with research name-page guidance: `book-research-name-page-001`.  
-3. Prerequisite read: Chapter 12 comfort lens before live-pressure skills.  
+3. Prerequisite read: Chapter 7 comfort lens before live-pressure skills.  
 4. App sources for maintainers: `ex-name-response`, `ex-engagement-easy`, `ex-name-mild-distract`.

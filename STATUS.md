@@ -39,7 +39,7 @@ Method sections draft from verified sources per [`research/method-decisions-from
 ## Author decisions recorded (2026-10-18)
 
 - **Method:** Teaching loop + five checks; “shrink the world” for context (`proposition/proposition.md`).  
-- **Read order:** ch12 before Part III Live (`architecture/CHAPTER_MAP.md`).  
+- **Read order:** ch07 before Part III Live (`architecture/CHAPTER_MAP.md`).  
 - **Brand (Option A):** *Good Dog: Training the Human* — subtitle wit, not a second syllabus.  
 - **Mantra:** “Make it easier — then ask again.” **Tagline (humour):** “Train the human first.”  
 - **Dual track:** each topic → **Train yourself** / **Train the dog** with **Know / Do / Don't** ([`writing/dual-track-pattern.md`](writing/dual-track-pattern.md)).  

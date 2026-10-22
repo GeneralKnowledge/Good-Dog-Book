@@ -6,7 +6,7 @@
 
 | Area | Question | Status | Where tracked |
 | --- | --- | --- | --- |
-| Method wording polish | Optional trainer pass on ch09–11, ch13 | **Deferred (optional)** | [`method-decisions-from-sources.md`](method-decisions-from-sources.md) — blockers resolved from Dogs Trust / register |
+| Method wording polish | Optional trainer pass on ch10–11, ch13 | **Deferred (optional)** | [`method-decisions-from-sources.md`](method-decisions-from-sources.md) — blockers resolved from Dogs Trust / register |
 | Publication | Final trade subtitle / back-cover marketing polish | **Deferred** — does not block drafting | [`decision-register.md`](decision-register.md) |
 | Pre-print | Manual URL re-check (IMDT 403, BVA/RSPCA paths) | **Rule at draft/print** | [`decision-register.md`](decision-register.md), [`research-sprint-log.md`](research-sprint-log.md) |
 | Legal | Long quotation / endorsement beyond paraphrase | **Deferred to publication legal** | [`evidence-policy.md`](evidence-policy.md) |

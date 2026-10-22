@@ -30,13 +30,13 @@ Public summaries and Mann’s own interviews emphasise:
 | EPPS idea | Our location | Notes |
 | --- | --- | --- |
 | Positive reinforcement default | ch01, ch02 | Already DEFRA/IMDT-aligned |
-| Puppy feel / optimism | ch13 §1 (new beat) | Training the Human + ch12 comfort |
-| Manage environment | ch01 “prevent”, ch03, ch11 | Plain language, not EPPS jargon |
+| Puppy feel / optimism | ch13 §1 (new beat) | Training the Human + ch07 comfort |
+| Manage environment | ch01 “prevent”, ch03, ch12 | Plain language, not EPPS jargon |
 | Cue–mark–pay | ch03–04 | “Yes word” / marker; not Mann-specific |
 | Three Ds | ch05 §2 | Named; one D per session |
-| MEB | ch11 §2 (new beat) | Plain English + examples; optional name in ch13 |
+| MEB | ch12 §2 (new beat) | Plain English + examples; optional name in ch13 |
 | Short sessions | ch03, RSPCA claims | Already present |
-| Loose lead / recall | ch09–10 | **Book follows Dogs Trust** where methods differ from anecdotal EPPS tips — see `disagreements.md` |
+| Loose lead / recall | ch10–10 | **Book follows Dogs Trust** where methods differ from anecdotal EPPS tips — see `disagreements.md` |
 
 ## Deliberate differences
 

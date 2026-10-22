@@ -10,7 +10,7 @@ Popular UK owner guide (force-free, basics-focused). Detailed map: [`research/in
 
 - **Puppy optimism** — feel safe first, then teach (ch13).  
 - **Three Ds** — distance, distraction, duration; one at a time (ch05).  
-- **Mutually exclusive behaviours** — teach something incompatible with the problem (ch11).  
+- **Mutually exclusive behaviours** — teach something incompatible with the problem (ch12).  
 - **Cue → mark → pay** — teaching loop (ch03–04); parallel to EPPS, not exclusive to it.
 
 **Further reading only** — not co-branding or endorsement.

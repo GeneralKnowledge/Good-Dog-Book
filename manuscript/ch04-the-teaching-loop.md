@@ -69,7 +69,7 @@ Silence is data. Before you repeat the cue like a broken car alarm, run the **fi
 1. **Setup** — Quiet enough? Can the dog physically succeed?  
 2. **Reward** — Is the pay worth showing up for **right now**?  
 3. **Criterion** — One clear ask, or three hidden ones?  
-4. **Comfort** — Any stress cluster? (Chapter 12 deepens this.)  
+4. **Comfort** — Any stress cluster? (Chapter 7 deepens this.)  
 5. **Context** — Did it work indoors but fail outdoors? **Shrink the world** until success is likely again.
 
 Then say the owner mantra — out loud if it helps:
@@ -115,7 +115,7 @@ If two reps fail in a row, run the five checks, make it easier, try once. If sti
 ## Stop if
 
 - Voices rise, dog stiffens, you grip treats like weapons. **Stop.**  
-- Comfort check fails — see Chapter 12. Manage or pause.  
+- Comfort check fails — see Chapter 7. Manage or pause.  
 - You are training to vent. Walk away.
 
 ## Before the next chapter

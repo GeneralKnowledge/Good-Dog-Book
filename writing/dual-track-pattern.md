@@ -41,7 +41,7 @@ British English; sentence case after the bold label.
 | Chapter type | Pattern |
 | --- | --- |
 | Skill chapters (Part II–III) | Dual-track on each major section + Practice lab |
-| Concept chapters (ch01–03, ch12, ch14) | Dual-track on each **takeaway** block; ch12 emphasises **Know/Don't** on stress |
+| Concept chapters (ch01–03, ch07, ch14) | Dual-track on each **takeaway** block; ch07 emphasises **Know/Don't** on stress |
 | Troubleshooting | Can mirror as **If you…** (self) / **Help the dog by…** |
 
 Skip dual-track only for short transitions (< ~200 words) or pure narrative opener.

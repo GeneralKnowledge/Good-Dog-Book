@@ -1,11 +1,11 @@
-# Chapter 11 — Doors, guests, and gentle handling
+# Chapter 12 — Doors, guests, and gentle handling
 
-<!-- brief: architecture/briefs/ch11.md -->
+<!-- brief: architecture/briefs/ch12.md -->
 <!-- claims: book-research-defra-002-avoid-harsh, book-research-dt-visitor-bed-knock, book-research-src-dt-visitor-training -->
 
 ## Opening
 
-The door is a portal. For dogs it often means **arousal**: footsteps, voices, smells of other people’s coats. Most “bad manners” at the threshold are predictable — and fixable first by **preventing** rehearsal (gates, leads, separate room), not with forcing face-to-face hellos until the dog is ready. If your dog stiffens, barks, or backs away when guests appear, read Chapter 12 first. Comfort beats politeness.
+The door is a portal. For dogs it often means **arousal**: footsteps, voices, smells of other people’s coats. Most “bad manners” at the threshold are predictable — and fixable first by **preventing** rehearsal (gates, leads, separate room), not with forcing face-to-face hellos until the dog is ready. If your dog stiffens, barks, or backs away when guests appear, read Chapter 7 first. Comfort beats politeness.
 
 **Bookmark this chapter** for doors and visitors. Optional for basics-only owners until sit/come/walk are steady.
 
@@ -92,7 +92,7 @@ Growling means **stop and reassess** — distance, pace, or professional help. R
 
 ## Practice lab — Door routine and knock-to-bed (pick one)
 
-**Comfort first:** if Chapter 12 says this dog is over threshold around the door, do **prevent-only** reps — gate, lead, no guest — until body language softens. No practice lab beats a stiff dog.
+**Comfort first:** if Chapter 7 says this dog is over threshold around the door, do **prevent-only** reps — gate, lead, no guest — until body language softens. No practice lab beats a stiff dog.
 
 ### Lab A — Door routine with nobody there (five minutes)
 

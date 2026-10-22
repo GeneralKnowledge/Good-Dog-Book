@@ -12,7 +12,7 @@ This repository is independent of [Good Dog](https://github.com/GeneralKnowledge
 2. [`docs/INDEX.md`](docs/INDEX.md) — navigation by task  
 3. [`manuscript/README.md`](manuscript/README.md) — chapter files and read order  
 4. [`proposition/proposition.md`](proposition/proposition.md) — reader, promise, **Training the Human**, mantra  
-5. [`architecture/CHAPTER_MAP.md`](architecture/CHAPTER_MAP.md) — **read order** (ch12 before live skills)  
+5. [`architecture/CHAPTER_MAP.md`](architecture/CHAPTER_MAP.md) — **read order** (ch07 before live skills)  
 6. [`editorial/2026-10-18-phase3-whole-manuscript-diagnosis.md`](editorial/2026-10-18-phase3-whole-manuscript-diagnosis.md) — whole-book diagnosis (Phase 3)
 
 ## Directory map

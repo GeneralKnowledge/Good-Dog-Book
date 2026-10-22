@@ -59,7 +59,7 @@ It is not magic. It is a pause button for **you**. Easier place. Better treat. O
 - **Do:** Experience clear wins in easy places first — **house, then garden, then outside.**  
 - **Don't:** Learn that your name means “ignore until the human shouts.”
 
-The rest of the book teaches skills. This chapter teaches **you** — patience, plan, volume knob — so the skills have a fair chance. Chapters 4–6 show the step-by-step habit. Chapter 12 helps you spot when your dog is not okay. Chapter 14 is for the day everything wobbles. You do not need to memorise that now.
+The rest of the book teaches skills. This chapter teaches **you** — patience, plan, volume knob — so the skills have a fair chance. Chapters 4–6 show the step-by-step habit. Chapter 7 helps you spot when your dog is not okay. Chapter 14 is for the day everything wobbles. You do not need to memorise that now.
 
 ## Section 3 — Sit, come, walk nicely (and two kinds of walk)
 
@@ -72,7 +72,7 @@ Everything else supports those three or helps when life is harder — puppies, r
 Walks confuse people because there are **two kinds**, and they are not the same job:
 
 - **Leisure walk** — sniffing, being a dog. You are not teaching lead manners on this outing.  
-- **Training walk** — short, on purpose, **one** goal. “Walk nicely” practice lives in **Chapter 10**.
+- **Training walk** — short, on purpose, **one** goal. “Walk nicely” practice lives in **Chapter 11**.
 
 Mix them up and you will think your dog is “stubborn” when really you ran a gym session on a day they needed dog email.
 
@@ -98,16 +98,16 @@ You do **not** have to read cover to cover in one go. Most owners should not. Fi
 
 | If you mainly want… | Bookmark this |
 | --- | --- |
-| **Sit, focus, name** | Chapter 7 |
-| **Calm at home / mat** | Chapter 8 |
-| **Come when called** | Chapter 9 |
-| **Walk nicely on lead** | Chapter 10 |
-| **Door / visitors** | Chapter 11 |
-| **Scared or stressed dog** | Chapter 12 (before heavy outdoor work) |
+| **Sit, focus, name** | Chapter 8 |
+| **Calm at home / mat** | Chapter 9 |
+| **Come when called** | Chapter 10 |
+| **Walk nicely on lead** | Chapter 11 |
+| **Door / visitors** | Chapter 12 |
+| **Scared or stressed dog** | Chapter 7 (before heavy outdoor work) |
 | **Puppy / teenager / rescue** | Chapter 13 |
 | **Everything fell apart** | Chapter 14 |
 
-If you read in order, do **Chapter 12** before you lean hard on come, lead, and door skills outdoors. Worried on walks? Start there. Come fails outside? Chapters 7–8, then 12, then 9. Grumpy and stuck? Chapter 14 and the mantra again.
+If you read in order, do **Chapter 7** before you lean hard on come, lead, and door skills outdoors. Worried on walks? Start there. Come fails outside? Chapters 8–9, then 12, then 9. Grumpy and stuck? Chapter 14 and the mantra again.
 
 **What we promise:** plain language, kind methods, honest limits, permission to **stop** when you or the dog are not okay.
 
@@ -119,7 +119,7 @@ If you read in order, do **Chapter 12** before you lean hard on come, lead, and 
 
 - **If you feel defensive reading “train the human”** → We mean habits, not your worth. You are still the hero of the story.  
 - **If you only want sit, come, walk nicely** → Good. Bookmark 7, 9, and 10. Skim the rest when you need it.  
-- **If your dog is growling, biting, or shutting down** → This chapter is not the fix. Keep everyone safe. See Chapters 12 and 14. Call your vet and/or a qualified professional.
+- **If your dog is growling, biting, or shutting down** → This chapter is not the fix. Keep everyone safe. See Chapters 7 and 14. Call your vet and/or a qualified professional.
 
 ## Stop if
 
@@ -135,5 +135,5 @@ Chapter 2 is how dogs actually learn — in plain words, why “stubborn” is u
 
 1. Reward-based default and avoidance of harsh methods: paraphrase of UK DEFRA Code of Practice for the Welfare of Dogs and IMDT force-free ethics (`claim-imdt-001-force-free`, `book-research-defra-001-reward-based`).  
 2. Owner mantra and Training the Human frame: pedagogical E4 (`book-claim-owner-mantra`); loop/checks/dual-track installed ch04–ch14 (not listed in ch01 prose).  
-3. Read order and ch12-before-Live: `architecture/CHAPTER_MAP.md`.  
+3. Read order and ch07-before-Live: `architecture/CHAPTER_MAP.md`.  
 4. Bookmark table: reader navigation (E4).

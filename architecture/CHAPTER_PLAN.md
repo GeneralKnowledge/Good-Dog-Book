@@ -16,8 +16,8 @@
 | --- | --- | --- | --- |
 | **I — Mindset** | 1–3 | ch01–ch03 | Contract, learning theory, toolkit — “I can set this up.” |
 | **II — Teach** | 4–6 | ch04–ch06 | Loop, criteria, progression — “I can teach without drilling.” |
-| **Understand (early)** | 7 | **ch12** | Stress literacy — “I notice comfort before live skills.” |
-| **III — Live** | 8–12 | ch07–ch11 | Real life — “I can practise with stop rules.” |
+| **Understand (early)** | 7 | **ch07** | Stress literacy — “I notice comfort before live skills.” |
+| **III — Live** | 8–12 | ch08–ch12 | Real life — “I can practise with stop rules.” |
 | **Life stages** | 13 | ch13 | Puppy / teen / rescue — “I adjust expectations.” |
 | **V — Limits** | 14 | ch14 | Five checks + referral — “I know when to stop and who to call.” |
 
@@ -26,9 +26,9 @@ flowchart TB
   subgraph plan [Drafting sequence]
     D1[ch01 done] --> D2[ch02-03]
     D2 --> D4[ch04-06]
-    D4 --> D12[ch12]
-    D12 --> D7[ch07-08]
-    D7 --> D9[ch09-11 section-aware]
+    D4 --> D12[ch07]
+    D12 --> D7[ch08-08]
+    D7 --> D9[ch10-11 section-aware]
     D9 --> D13[ch13]
     D13 --> D14[ch14]
   end
@@ -156,14 +156,14 @@ flowchart TB
 
 ---
 
-## Read #7 — ch12 Reading stress (without playing vet)
+## Read #7 — ch07 Reading stress (without playing vet)
 
 | | |
 | --- | --- |
 | **Outcome** | Cluster-based stress signs; stop/simplify; no single-pixel diagnosis |
 | **Claims** | `book-research-defra-002`, `book-claim-ch12-stress-charity` (+ Blue Cross/PDSA at draft) |
 | **Amber** | Clinical boundary copy; charity URLs |
-| **Critical** | **Before** ch07–ch11 drafting voice for comfort check |
+| **Critical** | **Before** ch08–ch12 drafting voice for comfort check |
 
 ### Section plan
 
@@ -175,25 +175,25 @@ flowchart TB
 
 ---
 
-## Read #8 — ch07 Engagement and the name game
+## Read #8 — ch08 Engagement and the name game
 
 | | |
 | --- | --- |
 | **Outcome** | Engagement + name = orient; stop rules for worry |
 | **Claims** | `claim-dt-recall-001`, `book-research-name-page-001` |
-| **Prereq** | ch12 comfort lens |
+| **Prereq** | ch07 comfort lens |
 
 ### Section plan
 
 1. **Engagement games** — self: play not drill; dog: approach pays  
 2. **Name = check-in, not nag** — self: say once; dog: name predicts good stuff  
-3. **Mild distraction — criteria and abort** — align with ch09; self: shrink world; dog: success at current level  
+3. **Mild distraction — criteria and abort** — align with ch10; self: shrink world; dog: success at current level  
 
 **Practice lab:** Name game 10 reps, stop early.
 
 ---
 
-## Read #9 — ch08 Settle and calm at home
+## Read #9 — ch09 Settle and calm at home
 
 | | |
 | --- | --- |
@@ -210,7 +210,7 @@ flowchart TB
 
 ---
 
-## Read #10 — ch09 Recall: coming back when it matters
+## Read #10 — ch10 Recall: coming back when it matters
 
 | | |
 | --- | --- |
@@ -229,7 +229,7 @@ flowchart TB
 
 ---
 
-## Read #11 — ch10 Walking together on a lead
+## Read #11 — ch11 Walking together on a lead
 
 | | |
 | --- | --- |
@@ -248,7 +248,7 @@ flowchart TB
 
 ---
 
-## Read #12 — ch11 Doors, guests, and gentle handling
+## Read #12 — ch12 Doors, guests, and gentle handling
 
 | | |
 | --- | --- |
@@ -307,9 +307,9 @@ flowchart TB
 
 | Chapter | Section | Source decision |
 | --- | --- | --- |
-| ch09 | §3 | Dogs Trust recall + escape claims — [`method-decisions-from-sources.md`](../research/method-decisions-from-sources.md) |
-| ch10 | §3 | Dogs Trust walking-nicely page |
-| ch11 | §2 | Dogs Trust visitor training + threshold abort |
+| ch10 | §3 | Dogs Trust recall + escape claims — [`method-decisions-from-sources.md`](../research/method-decisions-from-sources.md) |
+| ch11 | §3 | Dogs Trust walking-nicely page |
+| ch12 | §2 | Dogs Trust visitor training + threshold abort |
 | ch13 | §1 | Dogs Trust puppy 101 + DEFRA avoid harsh |
 
 ---
@@ -319,9 +319,9 @@ flowchart TB
 1. ~~ch01~~ (done)  
 2. **ch02 → ch03** — complete Part I  
 3. **ch04 → ch05 → ch06** — Part II  
-4. **ch12** — before any Part III prose  
-5. **ch07 → ch08** — low red risk  
-6. **ch09–ch11, ch13** — full draft from register (optional polish pass)  
+4. **ch07** — before any Part III prose  
+5. **ch08 → ch09** — low red risk  
+6. **ch10–ch12, ch13** — full draft from register (optional polish pass)  
 7. **ch14** — after enough Part III exists to reference  
 
 ---

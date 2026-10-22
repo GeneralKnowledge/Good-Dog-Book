@@ -1,13 +1,13 @@
-# Chapter 8 — Settle and calm at home
+# Chapter 9 — Settle and calm at home
 
-<!-- brief: architecture/briefs/ch08.md -->
+<!-- brief: architecture/briefs/ch09.md -->
 <!-- claims: claim-rspca-002-short-sessions, book-research-defra-001-reward-based -->
 
 ## Opening
 
 The doorbell, the kettle, the children cartwheeling past the sofa — home is not a monastery. Yet most households want something simple: a dog who can **switch off** sometimes, without being shouted into stillness or pinned to the floor in the name of calm.
 
-**Settle** in this book means **invited rest with pay**, not suppressed alertness. You are teaching a landing pad (often a mat) and a rest spot the dog can choose, with clear stop rules from Chapter 12 when the room is too much. Short sessions beat marathon “calm down” battles — welfare guidance favours brief, positive training over endless drilling.
+**Settle** in this book means **invited rest with pay**, not suppressed alertness. You are teaching a landing pad (often a mat) and a rest spot the dog can choose, with clear stop rules from Chapter 7 when the room is too much. Short sessions beat marathon “calm down” battles — welfare guidance favours brief, positive training over endless drilling.
 
 **Bookmark this chapter** for calm at home — it supports **come** and door chaos, but you do not need a show-ring settle to have a good pet.
 
@@ -56,7 +56,7 @@ Reward **recovery**: the moment they soften after a startle is worth a mark. You
 
 - **Know:** “Calm” is a **behaviour you reinforce**, not a vibe you demand. Television dogs are edited.  
 - **Do:** Lower excitement in the room when practising. one movement trigger per session.  
-- **Don't:** Punish alertness. Rehearse chaos daily without prevention. Train through shutdown (see Chapter 12).  
+- **Don't:** Punish alertness. Rehearse chaos daily without prevention. Train through shutdown (see Chapter 7).  
 
 ### Train the dog
 
@@ -95,12 +95,12 @@ Quiet room. Mat down. Treat pouch. Nobody practising cartwheels nearby.
 
 ## A note on “calm down” language
 
-Owners often say **calm down** when they mean **stop bothering me**. The dog hears volume and tension, not a taught skill. Swap the phrase for something you have actually trained — mat, rest spot, or quiet praise for softening — and manage the environment when you cannot teach. Forced stillness (holding, pinning, shouting until quiet) may produce silence while stress rises; Chapter 12’s comfort check catches that mismatch.
+Owners often say **calm down** when they mean **stop bothering me**. The dog hears volume and tension, not a taught skill. Swap the phrase for something you have actually trained — mat, rest spot, or quiet praise for softening — and manage the environment when you cannot teach. Forced stillness (holding, pinning, shouting until quiet) may produce silence while stress rises; Chapter 7’s comfort check catches that mismatch.
 
 ## Troubleshooting
 
 - **If settle only works with you in the room** → Normal early on; add short exits, return, pay calm — one variable at a time (Chapter 5).  
-- **If the dog erupts when the door goes** → Management first; settle is parallel work, not the door fix (Chapter 11).  
+- **If the dog erupts when the door goes** → Management first; settle is parallel work, not the door fix (Chapter 12).  
 - **If they won’t settle at all** → Vet check (pain, itch, sleep); shorten sessions; check reward value.
 
 ## Stop if
@@ -111,7 +111,7 @@ Owners often say **calm down** when they mean **stop bothering me**. The dog hea
 
 ## Before the next chapter
 
-Home calm makes **recall and lead work** easier — a dog who can recover indoors copes better outdoors. Chapter 9 tackles coming back when it matters; bring your mat mindset: trust is built in small, cheerful payments, not in one heroic afternoon.
+Home calm makes **recall and lead work** easier — a dog who can recover indoors copes better outdoors. Chapter 10 tackles coming back when it matters; bring your mat mindset: trust is built in small, cheerful payments, not in one heroic afternoon.
 
 If your household is chaotic today, settle is still worth one **micro-session** — thirty seconds on the mat with a single treat — so both of you remember what calm feels like before the week runs away from you.
 
